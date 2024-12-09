@@ -1,5 +1,11 @@
-# 规则名称: Ads_AWAvenue
-# 规则统计: 711
+#Title: AWAvenue Ads Rule
+#--------------------------------------
+#Total lines: 711
+#Version: 1.5.5-release
+
+#Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
+
 
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,16dd-advertise-1252317822.file.myqcloud.com

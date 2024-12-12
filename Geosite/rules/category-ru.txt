@@ -3,8 +3,6 @@ su
 xn--p1ai
 yandex
 psk
-mycdn.me
-mvk.com
 userapi.com
 vk-cdn.me
 vk-cdn.net
@@ -49,7 +47,9 @@ yandex.net
 yandex.jobs
 yandex.st
 yandex.sx
+mycdn.me
 emias.info
+mvk.com
 yandex.com.tr
 yandex.com.ua
 yandex.com.ge

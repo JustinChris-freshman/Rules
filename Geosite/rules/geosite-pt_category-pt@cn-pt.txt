@@ -61,7 +61,7 @@ hdupt.com
 hdvbits.com
 hdvideo.one
 hhanclub.top
-full:tracker.hhan.club
+hhan.club
 hitpt.com
 htpt.cc
 full:www.htpt.cc
@@ -85,6 +85,7 @@ keepfrds.com
 kimoji.club
 kufei.org
 leaves.red
+lemonhd.club
 monikadesign.uk
 msg.vg
 m-team.cc
@@ -95,6 +96,7 @@ full:ipv6-tracker.m-team.io
 nanyangpt.com
 neu6.edu.cn
 nicept.net
+npupt.com
 full:www.nicept.net
 pt.okfun.org
 okpt.net
@@ -104,6 +106,7 @@ full:ipv4.open.cd
 oshen.win
 our.kelu.one
 ourbits.club
+pt.ourhelp.club
 ourdisc.net
 pandapt.net
 piggo.me
@@ -112,6 +115,7 @@ pt.btschool.club
 pt.eastgame.org
 pt.sjtu.edu.cn
 full:trakcer.sjtu.edu.cn
+pt.xauat6.edu.cn
 ptcafe.club
 ptchdbits.co
 chddiy.xyz
@@ -121,14 +125,18 @@ ptchina.org
 pterclub.com
 pthome.net
 ptlsp.com
+ptlgs.org
 ptneko.com
 ptsbao.club
 pttime.org
 ptvicomo.net
 ptzone.xyz
 qingwa.pro
+qingwapt.com
+qingwapt.org
 qhstudio.fun
 raingfh.top
+resource.xidian.edu.cn
 rousi.zip
 sharkpt.net
 skyey2.com
@@ -137,6 +145,8 @@ springsunday.net
 full:on.springsunday.net
 srvfi.top
 star-space.net
+sunnypt.top
+t.tosky.club
 tjupt.org
 full:tracker-public.tjupt.org
 totheglory.im

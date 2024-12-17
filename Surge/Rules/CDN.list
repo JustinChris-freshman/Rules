@@ -1,9 +1,7 @@
-# 规则名称: CDN
-# 规则统计: 2863
-
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,4gtvimg2.4gtv.tv
+DOMAIN,GEOIP-js.com
 DOMAIN,a.deviantart.net
 DOMAIN,a.fireside.fm
 DOMAIN,a.gawby.com
@@ -841,7 +839,6 @@ DOMAIN,fscdn.eppo.cloud
 DOMAIN,g-static.ap4r.com
 DOMAIN,g1.nyt.com
 DOMAIN,genesis-cdn.ff.com
-DOMAIN,geoip-js.com
 DOMAIN,gfx-data.news-engineering.aws.wapo.pub
 DOMAIN,gitpkg-fork.vercel.sh
 DOMAIN,global.divhunt.com
@@ -1842,6 +1839,7 @@ DOMAIN,telemetry.vercel.com
 DOMAIN,th.bing.com
 DOMAIN,themes.fourthwall.com
 DOMAIN,thingproxy.freeboard.io
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,thumbnail.missav.com
 DOMAIN,thumbnailer.mixcloud.com
 DOMAIN,thumbnails.cbsig.net
@@ -1982,6 +1980,12 @@ DOMAIN,xpaywalletcdn.azureedge.net
 DOMAIN,yep.video.yahoo.com
 DOMAIN,yummlystatic.com
 DOMAIN,zephr-templates.cnbc.com
+DOMAIN-KEYWORD,-files.gitbook.io
+DOMAIN-KEYWORD,-res.cloudinary.com
+DOMAIN-KEYWORD,cdnstatic.
+DOMAIN-KEYWORD,dsn.algolia.net
+DOMAIN-KEYWORD,vod-adaptive.akamaized.net
+DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,1passwordusercontent.eu
@@ -2824,12 +2828,6 @@ DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,zohostatic.eu
 DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zorocdn.xyz
-DOMAIN-KEYWORD,-files.gitbook.io
-DOMAIN-KEYWORD,-res.cloudinary.com
-DOMAIN-KEYWORD,cdnstatic.
-DOMAIN-KEYWORD,dsn.algolia.net
-DOMAIN-KEYWORD,vod-adaptive.akamaized.net
-DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-WILDCARD,*.ffzy-online?.com
 DOMAIN-WILDCARD,*.ffzy-play?.com
 DOMAIN-WILDCARD,*.fsvod?.com

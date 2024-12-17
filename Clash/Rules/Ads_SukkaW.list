@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 111100
+# 规则统计: 111113
 
 DOMAIN,2016.sina.cn
 DOMAIN,9ibbcq2d.sina.cn
@@ -9382,6 +9382,7 @@ DOMAIN-SUFFIX,agcmtb.nameit.com
 DOMAIN-SUFFIX,agcs-knowledge.allianz.com
 DOMAIN-SUFFIX,ageaskedfurther.com
 DOMAIN-SUFFIX,agecdn.me
+DOMAIN-SUFFIX,ageetsaimouphih.net
 DOMAIN-SUFFIX,agency2.ru
 DOMAIN-SUFFIX,agency360.io
 DOMAIN-SUFFIX,agent.ap1.datadoghq.com
@@ -11925,7 +11926,7 @@ DOMAIN-SUFFIX,anzeigen-vor-ort.de
 DOMAIN-SUFFIX,anzeigenlieferant.de
 DOMAIN-SUFFIX,anzu.io
 DOMAIN-SUFFIX,anzvn.net
-DOMAIN-SUFFIX,ao-freeGEOIP.herokuapp.com
+DOMAIN-SUFFIX,ao-freegeoip.herokuapp.com
 DOMAIN-SUFFIX,ao-marketing.dbiyes.com
 DOMAIN-SUFFIX,ao-marketing.essendant.com
 DOMAIN-SUFFIX,ao-mkt.tableausoftware.com
@@ -20303,6 +20304,7 @@ DOMAIN-SUFFIX,ceciliavenus.com
 DOMAIN-SUFFIX,cedexis-radar.net
 DOMAIN-SUFFIX,cedexis.com
 DOMAIN-SUFFIX,cedoau.reve21shop.co.jp
+DOMAIN-SUFFIX,cedrt6.pro
 DOMAIN-SUFFIX,cee.ecoinnovatewave.com
 DOMAIN-SUFFIX,ceebethoatha.com
 DOMAIN-SUFFIX,ceebikoph.com
@@ -22166,6 +22168,7 @@ DOMAIN-SUFFIX,co.vaicore.site
 DOMAIN-SUFFIX,co.vaicore.xyz
 DOMAIN-SUFFIX,co5457chu.com
 DOMAIN-SUFFIX,co5n3nerm6arapo7ny.com
+DOMAIN-SUFFIX,co932.coloradopolitics.com
 DOMAIN-SUFFIX,coachquartz.com
 DOMAIN-SUFFIX,coagrohos.com
 DOMAIN-SUFFIX,coalbandmanicure.com
@@ -25160,6 +25163,7 @@ DOMAIN-SUFFIX,d01.notifa.info
 DOMAIN-SUFFIX,d03804f2c8.com
 DOMAIN-SUFFIX,d03ab571b4.com
 DOMAIN-SUFFIX,d0556a9fe2.b0e610e078.com
+DOMAIN-SUFFIX,d077.gazette.com
 DOMAIN-SUFFIX,d08l9a634.com
 DOMAIN-SUFFIX,d0bd7cb761.1c10feefc0.com
 DOMAIN-SUFFIX,d0ce8193a8.04b6001ba9.com
@@ -25599,6 +25603,7 @@ DOMAIN-SUFFIX,d24fnxkxwarvg8.cloudfront.net
 DOMAIN-SUFFIX,d24g87zbxr4yiz.cloudfront.net
 DOMAIN-SUFFIX,d24iusj27nm1rd.cloudfront.net
 DOMAIN-SUFFIX,d24rtvkqjwgutp.cloudfront.net
+DOMAIN-SUFFIX,d250.baltimoresun.com
 DOMAIN-SUFFIX,d25dfknw9ghxs6.cloudfront.net
 DOMAIN-SUFFIX,d25m254rjp3rii.cloudfront.net
 DOMAIN-SUFFIX,d25sca3heoa1so.cloudfront.net
@@ -26159,6 +26164,7 @@ DOMAIN-SUFFIX,d43849fz.xyz
 DOMAIN-SUFFIX,d44501d9f7.com
 DOMAIN-SUFFIX,d477275c.xyz
 DOMAIN-SUFFIX,d483501b04.com
+DOMAIN-SUFFIX,d485.capitalgazette.com
 DOMAIN-SUFFIX,d4a814e73b.73b26699df.com
 DOMAIN-SUFFIX,d4a998a9aa.e6c1ff5d1e.com
 DOMAIN-SUFFIX,d4ax0r5detcsu.cloudfront.net
@@ -35096,6 +35102,7 @@ DOMAIN-SUFFIX,eptougry.net
 DOMAIN-SUFFIX,epu.sh
 DOMAIN-SUFFIX,epushclick.com
 DOMAIN-SUFFIX,eputysolomon.com
+DOMAIN-SUFFIX,epvjljye.com
 DOMAIN-SUFFIX,epwa.europarl.europa.eu
 DOMAIN-SUFFIX,epxfjcb.xyz
 DOMAIN-SUFFIX,epxprfk.xyz
@@ -38655,7 +38662,7 @@ DOMAIN-SUFFIX,freefirervmembership.com
 DOMAIN-SUFFIX,freefrog.site
 DOMAIN-SUFFIX,freefromads.com
 DOMAIN-SUFFIX,freefromads.pro
-DOMAIN-SUFFIX,freeGEOIP.app
+DOMAIN-SUFFIX,freegeoip.app
 DOMAIN-SUFFIX,freehitscounter.org
 DOMAIN-SUFFIX,freehookup.link
 DOMAIN-SUFFIX,freehookupspace.com
@@ -39828,33 +39835,33 @@ DOMAIN-SUFFIX,geoedge.be
 DOMAIN-SUFFIX,geofamily.ru
 DOMAIN-SUFFIX,geogenyveered.com
 DOMAIN-SUFFIX,geoinfo.i2w.io
-DOMAIN-SUFFIX,GEOIP-lookup.vice.com
-DOMAIN-SUFFIX,GEOIP.al.com
-DOMAIN-SUFFIX,GEOIP.apps.avada.io
-DOMAIN-SUFFIX,GEOIP.ativo.com
-DOMAIN-SUFFIX,GEOIP.boredpanda.com
-DOMAIN-SUFFIX,GEOIP.cleveland.com
-DOMAIN-SUFFIX,GEOIP.finanzen.net
-DOMAIN-SUFFIX,GEOIP.fotoable.net
-DOMAIN-SUFFIX,GEOIP.gulflive.com
-DOMAIN-SUFFIX,GEOIP.hmageo.com
-DOMAIN-SUFFIX,GEOIP.ifunny.co
-DOMAIN-SUFFIX,GEOIP.imber.live
-DOMAIN-SUFFIX,GEOIP.inquirer.net
-DOMAIN-SUFFIX,GEOIP.instiengage.com
-DOMAIN-SUFFIX,GEOIP.lehighvalleylive.com
-DOMAIN-SUFFIX,GEOIP.masslive.com
-DOMAIN-SUFFIX,GEOIP.mlive.com
-DOMAIN-SUFFIX,GEOIP.nekudo.com
-DOMAIN-SUFFIX,GEOIP.nj.com
-DOMAIN-SUFFIX,GEOIP.nola.com
-DOMAIN-SUFFIX,GEOIP.olx.com.br
-DOMAIN-SUFFIX,GEOIP.oregonlive.com
-DOMAIN-SUFFIX,GEOIP.pennlive.com
-DOMAIN-SUFFIX,GEOIP.silive.com
-DOMAIN-SUFFIX,GEOIP.syracuse.com
-DOMAIN-SUFFIX,GEOIP.viamichelin.com
-DOMAIN-SUFFIX,GEOIPlookup.wikimedia.org
+DOMAIN-SUFFIX,geoip-lookup.vice.com
+DOMAIN-SUFFIX,geoip.al.com
+DOMAIN-SUFFIX,geoip.apps.avada.io
+DOMAIN-SUFFIX,geoip.ativo.com
+DOMAIN-SUFFIX,geoip.boredpanda.com
+DOMAIN-SUFFIX,geoip.cleveland.com
+DOMAIN-SUFFIX,geoip.finanzen.net
+DOMAIN-SUFFIX,geoip.fotoable.net
+DOMAIN-SUFFIX,geoip.gulflive.com
+DOMAIN-SUFFIX,geoip.hmageo.com
+DOMAIN-SUFFIX,geoip.ifunny.co
+DOMAIN-SUFFIX,geoip.imber.live
+DOMAIN-SUFFIX,geoip.inquirer.net
+DOMAIN-SUFFIX,geoip.instiengage.com
+DOMAIN-SUFFIX,geoip.lehighvalleylive.com
+DOMAIN-SUFFIX,geoip.masslive.com
+DOMAIN-SUFFIX,geoip.mlive.com
+DOMAIN-SUFFIX,geoip.nekudo.com
+DOMAIN-SUFFIX,geoip.nj.com
+DOMAIN-SUFFIX,geoip.nola.com
+DOMAIN-SUFFIX,geoip.olx.com.br
+DOMAIN-SUFFIX,geoip.oregonlive.com
+DOMAIN-SUFFIX,geoip.pennlive.com
+DOMAIN-SUFFIX,geoip.silive.com
+DOMAIN-SUFFIX,geoip.syracuse.com
+DOMAIN-SUFFIX,geoip.viamichelin.com
+DOMAIN-SUFFIX,geoiplookup.wikimedia.org
 DOMAIN-SUFFIX,geoloc.yospace.com
 DOMAIN-SUFFIX,geolocation.forbes.com
 DOMAIN-SUFFIX,geolocation.outreach.com
@@ -44518,7 +44525,7 @@ DOMAIN-SUFFIX,hospitablehall.com
 DOMAIN-SUFFIX,hospitablehat.com
 DOMAIN-SUFFIX,hospitality.redbull.racing
 DOMAIN-SUFFIX,hospitalsky.online
-DOMAIN-SUFFIX,DOMAIN-relendbrowseprelend.info
+DOMAIN-SUFFIX,host-relendbrowseprelend.info
 DOMAIN-SUFFIX,host.pornolenta.cc
 DOMAIN-SUFFIX,host.roxiapp.com
 DOMAIN-SUFFIX,host11.traffic-builders.com
@@ -45403,7 +45410,7 @@ DOMAIN-SUFFIX,icycreatmentr.info
 DOMAIN-SUFFIX,icyreprimandlined.com
 DOMAIN-SUFFIX,id-go.experian.com
 DOMAIN-SUFFIX,id-icloud.com
-DOMAIN-SUFFIX,id-vietconbank1.uuhuqtp.netDOMAIN-4011.000nethost.com
+DOMAIN-SUFFIX,id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
 DOMAIN-SUFFIX,id-visitors.com
 DOMAIN-SUFFIX,id-ward.com
 DOMAIN-SUFFIX,id.mywd.com
@@ -45633,6 +45640,7 @@ DOMAIN-SUFFIX,ihct.mx
 DOMAIN-SUFFIX,ihcxue.xyz
 DOMAIN-SUFFIX,ihdcnwbcmw.com
 DOMAIN-SUFFIX,ihdvilappuxpgiv.ru
+DOMAIN-SUFFIX,ihearsoh.com
 DOMAIN-SUFFIX,iheartbucks.com
 DOMAIN-SUFFIX,ihfwer.aboutyou.com
 DOMAIN-SUFFIX,ihfxao.com
@@ -50331,6 +50339,7 @@ DOMAIN-SUFFIX,juststatic.info
 DOMAIN-SUFFIX,justuno.com
 DOMAIN-SUFFIX,justwebcards.com
 DOMAIN-SUFFIX,jutyledu.pro
+DOMAIN-SUFFIX,juutckrt.icu
 DOMAIN-SUFFIX,jux9ms4vc7.ru
 DOMAIN-SUFFIX,juxun58.cn
 DOMAIN-SUFFIX,juzaugleed.com
@@ -54524,6 +54533,7 @@ DOMAIN-SUFFIX,log.data.disney.com
 DOMAIN-SUFFIX,log.dav.edu.vn
 DOMAIN-SUFFIX,log.deutschegrammophon.com
 DOMAIN-SUFFIX,log.doanhnhan.vn
+DOMAIN-SUFFIX,log.documentmanagerpdfdocxlssale.live
 DOMAIN-SUFFIX,log.down61.com
 DOMAIN-SUFFIX,log.dpa.com
 DOMAIN-SUFFIX,log.dramaboxdb.com
@@ -62999,6 +63009,7 @@ DOMAIN-SUFFIX,mvrlhb.rent2owninc.com
 DOMAIN-SUFFIX,mvtracker.com
 DOMAIN-SUFFIX,mvujvxc.com
 DOMAIN-SUFFIX,mvvhwabeshu.xyz
+DOMAIN-SUFFIX,mvwitz.xyz
 DOMAIN-SUFFIX,mvwslulukdlux.xyz
 DOMAIN-SUFFIX,mwa.meanwellaustralia.com.au
 DOMAIN-SUFFIX,mwaldd.laudius.nl
@@ -90096,6 +90107,7 @@ DOMAIN-SUFFIX,stiflefloral.com
 DOMAIN-SUFFIX,stiflepowerless.com
 DOMAIN-SUFFIX,stigat.com
 DOMAIN-SUFFIX,stikinemammoth.shop
+DOMAIN-SUFFIX,stikroltiltoowi.net
 DOMAIN-SUFFIX,stilaikr.com
 DOMAIN-SUFFIX,stilanzeigen.net
 DOMAIN-SUFFIX,stillfolder.com
@@ -103338,7 +103350,7 @@ DOMAIN-SUFFIX,vietcomcredit.com
 DOMAIN-SUFFIX,vietcomdank.com
 DOMAIN-SUFFIX,vietcomglobal.com
 DOMAIN-SUFFIX,vietcomibaink.com
-DOMAIN-SUFFIX,vietconbank-digital.otjwvhdd.netDOMAIN-4211.000nethost.com
+DOMAIN-SUFFIX,vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com
 DOMAIN-SUFFIX,vietconbank.com
 DOMAIN-SUFFIX,vietcooimbank.com
 DOMAIN-SUFFIX,vietcoombainkk.com
@@ -104746,6 +104758,7 @@ DOMAIN-SUFFIX,w88.m.espn.go.com
 DOMAIN-SUFFIX,w88.natgeo.pt
 DOMAIN-SUFFIX,w88.natgeotv.com
 DOMAIN-SUFFIX,w88.nationalgeographic.com
+DOMAIN-SUFFIX,w890.denvergazette.com
 DOMAIN-SUFFIX,w94.1qlgi.top
 DOMAIN-SUFFIX,w982.middletownpress.com
 DOMAIN-SUFFIX,w9g7dlhw3kaank.www.eldorado.gg

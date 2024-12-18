@@ -1,6 +1,8 @@
-# 规则名称: PayPal
-# 规则统计: 248
-
+# NAME: PayPal
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 246
+# USER-AGENT: 1
+# TOTAL: 248
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
 DOMAIN-SUFFIX,account-paypal.org

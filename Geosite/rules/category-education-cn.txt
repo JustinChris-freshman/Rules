@@ -34,9 +34,6 @@ magedu.com
 oldboyedu.com
 eduei.com
 edu.cn
-zhihuishu.com
-rainclassroom.com
-yuketang.cn
 chinesemooc.org
 cnmooc.org
 icourse163.org
@@ -47,6 +44,12 @@ pmphmooc.com
 17zuoye.cn
 17zuoye.com
 17zuoye.net
+baydn.com
+shanbay.com
+rainclassroom.com
+yuketang.cn
+applysquare.com
+applysquare.net
 cctalk.com
 hjapi.com
 hjfile.cn
@@ -55,8 +58,9 @@ yeshj.com
 koocdn.com
 koolearn.com
 koopass.com
-baydn.com
-shanbay.com
+speiyou.com
+xesimg.com
+xueersi.com
 banmaaike.com
 xiaoyuankousuan.com
 ybccode.com
@@ -69,9 +73,5 @@ fenbike.cn
 fenbike.com
 fenbilantian.cn
 fenbilantian.com
-applysquare.com
-applysquare.net
-speiyou.com
-xesimg.com
-xueersi.com
+zhihuishu.com
 icve.com.cn

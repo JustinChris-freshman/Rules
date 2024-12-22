@@ -1,9 +1,31 @@
-no_resolve: true
-domain_set:
+# 规则名称: Porn
+# 规则统计: 26
+
 domain_suffix_set:
+  - 8teenxxx.com
+  - ahcdn.com
+  - bcvcdn.com
+  - bongacams.com
+  - chaturbate.com
+  - dditscdn.com
+  - jable.tv
+  - livejasmin.com
+  - mushroomtrack.com
+  - phncdn.com
+  - phprcdn.com
+  - pornhub.com
+  - pornhubpremium.com
+  - rdtcdn.com
+  - redtube.com
+  - sb-cd.com
+  - spankbang.com
+  - t66y.com
+  - xhamster.com
+  - xnxx-cdn.com
+  - xnxx.com
+  - xvideos-cdn.com
+  - xvideos.com
+  - ypncdn.com
 domain_keyword_set:
-domain_regex_set:
-ip_cidr_set:
-ip_cidr6_set:
-asn_set:
-url_regex_set:
+  - img.cc
+  - porn

@@ -1,6 +1,7 @@
 mi-img.com
 mi.com
 mifile.cn
+migames.com
 mijia.tech
 miui.com
 miwifi.com
@@ -10,8 +11,12 @@ xiaomi.net
 xiaomiev.com
 xiaomimobile.com
 xiaomixiaoai.com
+duokan.com
 xiaomiyoupin.com
+zmifi.com
 saxyit.com
+c.mi.com
+global.market.xiaomi.com
 a.market.xiaomi.com
 ad.intl.xiaomi.com
 ad.mi.com

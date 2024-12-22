@@ -20,6 +20,13 @@ weibo.com
 weibocdn.com
 weibo.com.cn
 sina.com.cn
+hk.weibo.com
+my.weibo.com
+overseas.weibo.com
+sg.weibo.com
+th.weibo.com
+tw.weibo.com
+us.weibo.com
 2016.sina.cn
 ad.sina.com.cn
 adbox.sina.com.cn

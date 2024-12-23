@@ -44,10 +44,10 @@ pmphmooc.com
 17zuoye.cn
 17zuoye.com
 17zuoye.net
-speiyou.com
-xesimg.com
-xueersi.com
-zhihuishu.com
+applysquare.com
+applysquare.net
+baydn.com
+shanbay.com
 banmaaike.com
 xiaoyuankousuan.com
 ybccode.com
@@ -62,8 +62,6 @@ fenbilantian.cn
 fenbilantian.com
 rainclassroom.com
 yuketang.cn
-applysquare.com
-applysquare.net
 cctalk.com
 hjapi.com
 hjfile.cn
@@ -72,6 +70,8 @@ yeshj.com
 koocdn.com
 koolearn.com
 koopass.com
-baydn.com
-shanbay.com
+speiyou.com
+xesimg.com
+xueersi.com
+zhihuishu.com
 icve.com.cn

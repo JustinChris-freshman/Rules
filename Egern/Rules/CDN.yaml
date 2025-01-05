@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2915
+# 规则统计: 2905
 
 domain_set:
   - 0x0.st
@@ -2046,12 +2046,10 @@ domain_suffix_set:
   - 7mmtv.tv
   - 91pic.org
   - 98avcdn.xyz
-  - 99av.tv
   - 9cache.com
   - a.storyblok.com
   - aacdn.nagich.com
   - aayinltcs.arduino.cc
-  - abc-cdn.net
   - abc-cdn.net.au
   - abcnewsfe.com
   - addons.business
@@ -2148,7 +2146,6 @@ domain_suffix_set:
   - cdn.imgeng.in
   - cdn.imghaste.com
   - cdn.ipinfo.io
-  - cdn.iz8qkg.com
   - cdn.manage.runcloud.io
   - cdn.medallia.com
   - cdn.mozilla.net
@@ -2182,7 +2179,6 @@ domain_suffix_set:
   - cdnpure.com
   - cdnst.net
   - cdntrex.com
-  - ceres9350.com
   - cf-ipfs.com
   - cfcdn.mux.com
   - characterai.io
@@ -2276,7 +2272,6 @@ domain_suffix_set:
   - events.backtrace.io
   - exp-tas.com
   - ezocdn.com
-  - ezocdn.net
   - f-droid.org
   - f.hubspotfree.net
   - fakestoreapi.com
@@ -2352,7 +2347,6 @@ domain_suffix_set:
   - hbfile.net
   - hdzyk-cdn.com
   - hembed.com
-  - hey10.cjkypo.com
   - hgagecdn.com
   - highwinds-cdn.com
   - himg.nl
@@ -2366,7 +2360,6 @@ domain_suffix_set:
   - hsto.org
   - hubspotusercontent-eu1.net
   - hubspotusercontent-na1.net
-  - hubspotusercontent30.com
   - hubspotusercontent30.net
   - i-dont-care-about-cookies.eu
   - i.optimole.com
@@ -2452,7 +2445,6 @@ domain_suffix_set:
   - ipfs.sloppyta.co
   - ipfs.smartholdem.io
   - ipfs.soul-network.com
-  - ipfs.tayfundogdas.me
   - ipfs.telos.miami
   - ipfs.tribecap.co
   - ipfs.trusti.id
@@ -2579,7 +2571,6 @@ domain_suffix_set:
   - notion-static.com
   - notionusercontent.com
   - now.sh
-  - nowestatic.com
   - npm.io
   - npmfs.com
   - nxcli.io
@@ -2592,7 +2583,6 @@ domain_suffix_set:
   - ogads-pa.googleapis.com
   - oktacdn.com
   - olemovienews.com
-  - ominisrc.com
   - omnisnippet1.com
   - onekey-asset.com
   - onrender.com
@@ -2648,6 +2638,7 @@ domain_suffix_set:
   - proxy.ustclug.org
   - proxy1.startpage.com
   - proxy2.startpage.com
+  - proxy3.startpage.com
   - pstatic.net
   - pstorage.space
   - public.cdn.office.net
@@ -2894,7 +2885,6 @@ domain_suffix_set:
   - yastatic.net
   - yelpcdn.com
   - yimg.com
-  - yle888.vip
   - ymq.cool
   - yourimageshare.com
   - ytimg.com

@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2949
+# 规则统计: 2939
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2044,12 +2044,10 @@ HOST-SUFFIX,4everland.io,CDN
 HOST-SUFFIX,7mmtv.tv,CDN
 HOST-SUFFIX,91pic.org,CDN
 HOST-SUFFIX,98avcdn.xyz,CDN
-HOST-SUFFIX,99av.tv,CDN
 HOST-SUFFIX,9cache.com,CDN
 HOST-SUFFIX,a.storyblok.com,CDN
 HOST-SUFFIX,aacdn.nagich.com,CDN
 HOST-SUFFIX,aayinltcs.arduino.cc,CDN
-HOST-SUFFIX,abc-cdn.net,CDN
 HOST-SUFFIX,abc-cdn.net.au,CDN
 HOST-SUFFIX,abcnewsfe.com,CDN
 HOST-SUFFIX,addons.business,CDN
@@ -2146,7 +2144,6 @@ HOST-SUFFIX,cdn.ifixit.com,CDN
 HOST-SUFFIX,cdn.imgeng.in,CDN
 HOST-SUFFIX,cdn.imghaste.com,CDN
 HOST-SUFFIX,cdn.ipinfo.io,CDN
-HOST-SUFFIX,cdn.iz8qkg.com,CDN
 HOST-SUFFIX,cdn.manage.runcloud.io,CDN
 HOST-SUFFIX,cdn.medallia.com,CDN
 HOST-SUFFIX,cdn.mozilla.net,CDN
@@ -2180,7 +2177,6 @@ HOST-SUFFIX,cdnppb.net,CDN
 HOST-SUFFIX,cdnpure.com,CDN
 HOST-SUFFIX,cdnst.net,CDN
 HOST-SUFFIX,cdntrex.com,CDN
-HOST-SUFFIX,ceres9350.com,CDN
 HOST-SUFFIX,cf-ipfs.com,CDN
 HOST-SUFFIX,cfcdn.mux.com,CDN
 HOST-SUFFIX,characterai.io,CDN
@@ -2274,7 +2270,6 @@ HOST-SUFFIX,eu-proxy.startpage.com,CDN
 HOST-SUFFIX,events.backtrace.io,CDN
 HOST-SUFFIX,exp-tas.com,CDN
 HOST-SUFFIX,ezocdn.com,CDN
-HOST-SUFFIX,ezocdn.net,CDN
 HOST-SUFFIX,f-droid.org,CDN
 HOST-SUFFIX,f.hubspotfree.net,CDN
 HOST-SUFFIX,fakestoreapi.com,CDN
@@ -2350,7 +2345,6 @@ HOST-SUFFIX,hardbin.com,CDN
 HOST-SUFFIX,hbfile.net,CDN
 HOST-SUFFIX,hdzyk-cdn.com,CDN
 HOST-SUFFIX,hembed.com,CDN
-HOST-SUFFIX,hey10.cjkypo.com,CDN
 HOST-SUFFIX,hgagecdn.com,CDN
 HOST-SUFFIX,highwinds-cdn.com,CDN
 HOST-SUFFIX,himg.nl,CDN
@@ -2364,7 +2358,6 @@ HOST-SUFFIX,hscollectedforms.net,CDN
 HOST-SUFFIX,hsto.org,CDN
 HOST-SUFFIX,hubspotusercontent-eu1.net,CDN
 HOST-SUFFIX,hubspotusercontent-na1.net,CDN
-HOST-SUFFIX,hubspotusercontent30.com,CDN
 HOST-SUFFIX,hubspotusercontent30.net,CDN
 HOST-SUFFIX,i-dont-care-about-cookies.eu,CDN
 HOST-SUFFIX,i.optimole.com,CDN
@@ -2450,7 +2443,6 @@ HOST-SUFFIX,ipfs.slang.cx,CDN
 HOST-SUFFIX,ipfs.sloppyta.co,CDN
 HOST-SUFFIX,ipfs.smartholdem.io,CDN
 HOST-SUFFIX,ipfs.soul-network.com,CDN
-HOST-SUFFIX,ipfs.tayfundogdas.me,CDN
 HOST-SUFFIX,ipfs.telos.miami,CDN
 HOST-SUFFIX,ipfs.tribecap.co,CDN
 HOST-SUFFIX,ipfs.trusti.id,CDN
@@ -2577,7 +2569,6 @@ HOST-SUFFIX,notify.bugsnag.com,CDN
 HOST-SUFFIX,notion-static.com,CDN
 HOST-SUFFIX,notionusercontent.com,CDN
 HOST-SUFFIX,now.sh,CDN
-HOST-SUFFIX,nowestatic.com,CDN
 HOST-SUFFIX,npm.io,CDN
 HOST-SUFFIX,npmfs.com,CDN
 HOST-SUFFIX,nxcli.io,CDN
@@ -2590,7 +2581,6 @@ HOST-SUFFIX,ogads-pa.clients6.google.com,CDN
 HOST-SUFFIX,ogads-pa.googleapis.com,CDN
 HOST-SUFFIX,oktacdn.com,CDN
 HOST-SUFFIX,olemovienews.com,CDN
-HOST-SUFFIX,ominisrc.com,CDN
 HOST-SUFFIX,omnisnippet1.com,CDN
 HOST-SUFFIX,onekey-asset.com,CDN
 HOST-SUFFIX,onrender.com,CDN
@@ -2646,6 +2636,7 @@ HOST-SUFFIX,proxy.startpage.com,CDN
 HOST-SUFFIX,proxy.ustclug.org,CDN
 HOST-SUFFIX,proxy1.startpage.com,CDN
 HOST-SUFFIX,proxy2.startpage.com,CDN
+HOST-SUFFIX,proxy3.startpage.com,CDN
 HOST-SUFFIX,pstatic.net,CDN
 HOST-SUFFIX,pstorage.space,CDN
 HOST-SUFFIX,public.cdn.office.net,CDN
@@ -2892,7 +2883,6 @@ HOST-SUFFIX,yarnpkg.com,CDN
 HOST-SUFFIX,yastatic.net,CDN
 HOST-SUFFIX,yelpcdn.com,CDN
 HOST-SUFFIX,yimg.com,CDN
-HOST-SUFFIX,yle888.vip,CDN
 HOST-SUFFIX,ymq.cool,CDN
 HOST-SUFFIX,yourimageshare.com,CDN
 HOST-SUFFIX,ytimg.com,CDN

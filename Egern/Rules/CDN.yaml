@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2920
+# 规则统计: 2915
 
 domain_set:
   - 0x0.st
@@ -332,7 +332,6 @@ domain_set:
   - cdn-www.bluestacks.com
   - cdn-yotpo-images-production.yotpo.com
   - cdn.18jav.tv
-  - cdn.9to5terminal.com
   - cdn.accounts.nintendo.com
   - cdn.adguard.com
   - cdn.adguard.info
@@ -672,7 +671,6 @@ domain_set:
   - cms-assets.webediamovies.pro
   - cms-assets.xboxservices.com
   - cms-cdn.now.gg
-  - cms.payloadcms.com
   - cms.typenetwork.com
   - code.benco.io
   - code.highcharts.com
@@ -1452,6 +1450,7 @@ domain_set:
   - renderer-assets.typeform.com
   - replicate.npmjs.com
   - repo.gradle.org
+  - repo.hex.pm
   - repo.maven.apache.org
   - repo.nextdns.io
   - repo1.maven.org
@@ -2061,7 +2060,6 @@ domain_suffix_set:
   - agechecker-northern-apps.com
   - agechecker.northern-apps.com
   - airio3.live
-  - akamai-content-delivery.com
   - akamai-content-network.com
   - alexdav.id
   - alonestreaming.com
@@ -2662,7 +2660,6 @@ domain_suffix_set:
   - pypi.org
   - pythonhosted.org
   - pztv.ca
-  - pzvcdn.com
   - qooqlevideo.com
   - quay.io
   - quip-cdn.com
@@ -2840,7 +2837,6 @@ domain_suffix_set:
   - uvcdn.com
   - v-cdn.net
   - v2ex.co
-  - v82u1l.com
   - vanillicon.com
   - vercel.app
   - vercel.dev
@@ -2868,7 +2864,6 @@ domain_suffix_set:
   - webp.se
   - webpkgcache.com
   - website-files.com
-  - whweitao.com
   - widget.cluster.groovehq.com
   - widget.clutch.co
   - widgets.marketplace.aws.dev

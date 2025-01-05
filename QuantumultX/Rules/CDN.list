@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2954
+# 规则统计: 2949
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -331,7 +331,6 @@ HOST,cdn-uicons.flaticon.com,CDN
 HOST,cdn-www.bluestacks.com,CDN
 HOST,cdn-yotpo-images-production.yotpo.com,CDN
 HOST,cdn.18jav.tv,CDN
-HOST,cdn.9to5terminal.com,CDN
 HOST,cdn.accounts.nintendo.com,CDN
 HOST,cdn.adguard.com,CDN
 HOST,cdn.adguard.info,CDN
@@ -671,7 +670,6 @@ HOST,cms-assets.nodecraft.com,CDN
 HOST,cms-assets.webediamovies.pro,CDN
 HOST,cms-assets.xboxservices.com,CDN
 HOST,cms-cdn.now.gg,CDN
-HOST,cms.payloadcms.com,CDN
 HOST,cms.typenetwork.com,CDN
 HOST,code.benco.io,CDN
 HOST,code.highcharts.com,CDN
@@ -1451,6 +1449,7 @@ HOST,release.runcloud.io,CDN
 HOST,renderer-assets.typeform.com,CDN
 HOST,replicate.npmjs.com,CDN
 HOST,repo.gradle.org,CDN
+HOST,repo.hex.pm,CDN
 HOST,repo.maven.apache.org,CDN
 HOST,repo.nextdns.io,CDN
 HOST,repo1.maven.org,CDN
@@ -2059,7 +2058,6 @@ HOST-SUFFIX,adtidy.org,CDN
 HOST-SUFFIX,agechecker-northern-apps.com,CDN
 HOST-SUFFIX,agechecker.northern-apps.com,CDN
 HOST-SUFFIX,airio3.live,CDN
-HOST-SUFFIX,akamai-content-delivery.com,CDN
 HOST-SUFFIX,akamai-content-network.com,CDN
 HOST-SUFFIX,alexdav.id,CDN
 HOST-SUFFIX,alonestreaming.com,CDN
@@ -2660,7 +2658,6 @@ HOST-SUFFIX,pxlecdn.com,CDN
 HOST-SUFFIX,pypi.org,CDN
 HOST-SUFFIX,pythonhosted.org,CDN
 HOST-SUFFIX,pztv.ca,CDN
-HOST-SUFFIX,pzvcdn.com,CDN
 HOST-SUFFIX,qooqlevideo.com,CDN
 HOST-SUFFIX,quay.io,CDN
 HOST-SUFFIX,quip-cdn.com,CDN
@@ -2838,7 +2835,6 @@ HOST-SUFFIX,ut-assets.com,CDN
 HOST-SUFFIX,uvcdn.com,CDN
 HOST-SUFFIX,v-cdn.net,CDN
 HOST-SUFFIX,v2ex.co,CDN
-HOST-SUFFIX,v82u1l.com,CDN
 HOST-SUFFIX,vanillicon.com,CDN
 HOST-SUFFIX,vercel.app,CDN
 HOST-SUFFIX,vercel.dev,CDN
@@ -2866,7 +2862,6 @@ HOST-SUFFIX,web.app,CDN
 HOST-SUFFIX,webp.se,CDN
 HOST-SUFFIX,webpkgcache.com,CDN
 HOST-SUFFIX,website-files.com,CDN
-HOST-SUFFIX,whweitao.com,CDN
 HOST-SUFFIX,widget.cluster.groovehq.com,CDN
 HOST-SUFFIX,widget.clutch.co,CDN
 HOST-SUFFIX,widgets.marketplace.aws.dev,CDN

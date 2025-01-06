@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2940
+# 规则统计: 2942
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -940,6 +940,7 @@ DOMAIN,image.email.microsoftemail.com
 DOMAIN,image.freepik.com
 DOMAIN,image.gyutto.com
 DOMAIN,image.gyutto.jp
+DOMAIN,image.hkhl.hk
 DOMAIN,image.ibb.co
 DOMAIN,image.jnislniv.xyz
 DOMAIN,image.lichess1.org
@@ -2754,6 +2755,7 @@ DOMAIN-SUFFIX,staticworld.net
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,sthlstatic.com
 DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,storage.infomaniak.com
 DOMAIN-SUFFIX,storage.yandexcloud.net

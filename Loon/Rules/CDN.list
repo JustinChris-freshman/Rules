@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2939
+# 规则统计: 2940
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -261,6 +261,7 @@ DOMAIN,blacklist.tampermonkey.net
 DOMAIN,blade-public-static.blade-group.com
 DOMAIN,blob.sololearn.com
 DOMAIN,boards.greenhouse.io
+DOMAIN,bookface-static.ycombinator.com
 DOMAIN,bot.ivy.ai
 DOMAIN,brick.a.ssl.fastly.net
 DOMAIN,brick.freetls.fastly.net

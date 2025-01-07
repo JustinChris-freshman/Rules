@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2920
+# 规则统计: 2921
 
 domain_set:
   - 0x0.st
@@ -26,6 +26,7 @@ domain_set:
   - akidoo.top
   - alt.idgesg.net
   - amp.azure.net
+  - analytics.twitter.com
   - analytics.welcomesoftware.com
   - anchor.digitalocean.com
   - android-safebrowsing.google.com

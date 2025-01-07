@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2954
+# 规则统计: 2955
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -25,6 +25,7 @@ HOST,ak.sail-horizon.com,CDN
 HOST,akidoo.top,CDN
 HOST,alt.idgesg.net,CDN
 HOST,amp.azure.net,CDN
+HOST,analytics.twitter.com,CDN
 HOST,analytics.welcomesoftware.com,CDN
 HOST,anchor.digitalocean.com,CDN
 HOST,android-safebrowsing.google.com,CDN

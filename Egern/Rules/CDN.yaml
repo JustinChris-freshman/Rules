@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2930
+# 规则统计: 2929
 
 domain_set:
   - 0x0.st
@@ -1971,7 +1971,6 @@ domain_set:
   - userimg-bee.customeriomail.com
   - userimg.customeriomail.com
   - userpic.redgifs.com
-  - useruploads.socratic.org
   - useruploads.visualwebsiteoptimizer.com
   - utteranc.es
   - v.hillwaver.com

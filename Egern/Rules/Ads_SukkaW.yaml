@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 112392
+# 规则统计: 112389
 
 no_resolve: true
 domain_set:
@@ -9225,7 +9225,6 @@ domain_suffix_set:
   - afoiak.brasty.de
   - afopr.cn
   - afosseel.net
-  - afout.jp
   - afoykb.ebook.de
   - afp.ai
   - afp.chinanews.com
@@ -9349,7 +9348,6 @@ domain_suffix_set:
   - aglvtwawyzaa.com
   - agma-analytics.de
   - agmed.cyou
-  - agmossp-sp.jp
   - agmtrk.com
   - agnes.waz.de
   - agnrcrpwyyn.com
@@ -9462,7 +9460,6 @@ domain_suffix_set:
   - ahyyqq.xyz
   - ahzqgr.au-sonpo.co.jp
   - ahzygy.thesteelshop.com
-  - ai-mobile.co.jp
   - ai.bioon.com
   - ai.idg.se
   - ai.kaishabaikyaku.com
@@ -9527,7 +9524,6 @@ domain_suffix_set:
   - aimediagroup.com
   - aimg.fc2.com
   - aimgd.com
-  - aimpact-ad.jp
   - aimpocket.com
   - aimukreegee.net
   - aimvaa.gulet.at
@@ -10343,8 +10339,6 @@ domain_suffix_set:
   - amhpbhyxfgvd.com
   - amiabledelinquent.com
   - amicleara.amicleardeals.online
-  - amicroad.co.jp
-  - amicroad.jp
   - amidicestrins.com
   - amidoxypochard.com
   - amikay.com
@@ -10435,7 +10429,6 @@ domain_suffix_set:
   - amzargfaht.com
   - amzbr.com
   - amzbtuolwp.com
-  - amzone.co.jp
   - an.avast.com
   - an.avast.ru
   - an.batmobi.net
@@ -26190,6 +26183,7 @@ domain_suffix_set:
   - damselfly.vegenook.com
   - dan.danimillions.com
   - dana123.com
+  - danatrak.com
   - danbo.org
   - dancefordamazed.com
   - dancemistake.com
@@ -41704,6 +41698,7 @@ domain_suffix_set:
   - graivampouth.net
   - graizoah.com
   - graizout.net
+  - grallichalvas.com
   - gralneurooly.com
   - grammarselfish.com
   - gramotherwise.com
@@ -68896,6 +68891,7 @@ domain_suffix_set:
   - pa5ka.com
   - pa5xjc.m1guelpf.me
   - pabgey.siepomaga.pl
+  - pabidding.io
   - pac.thescottishsun.co.uk
   - pac.thesun.co.uk
   - pac.thetimes.co.uk
@@ -78433,6 +78429,7 @@ domain_suffix_set:
   - s762.pressenterprise.com
   - s7feh.top
   - s811.ketv.com
+  - s83.fun
   - s99i.org
   - sa.adidas.ae
   - sa.adidas.at

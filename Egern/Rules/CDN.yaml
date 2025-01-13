@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2936
+# 规则统计: 2937
 
 domain_set:
   - 0x0.st
@@ -782,6 +782,7 @@ domain_set:
   - edge-mobile-static.azureedge.net
   - edge.marker.io
   - edge.personalizer.io
+  - edge.sitecorecloud.io
   - edge1.certona.net
   - edgeassetservice.azureedge.net
   - edgecdn-embza6g8cacagcbn.z01.azurefd.net

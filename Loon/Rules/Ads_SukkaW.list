@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 112995
+# 规则统计: 112999
 
 DOMAIN,2016.sina.cn
 DOMAIN,9ibbcq2d.sina.cn
@@ -2795,6 +2795,7 @@ DOMAIN-SUFFIX,7x4.fr
 DOMAIN-SUFFIX,7x5.fr
 DOMAIN-SUFFIX,7xi9g1.com1.z0.glb.clouddn.com
 DOMAIN-SUFFIX,7xsf3h.com1.z0.glb.clouddn.com
+DOMAIN-SUFFIX,7zb.fun
 DOMAIN-SUFFIX,8007.833enmhob.com
 DOMAIN-SUFFIX,80133082.xyz
 DOMAIN-SUFFIX,801b52ee68.9da095044f.com
@@ -6101,7 +6102,6 @@ DOMAIN-SUFFIX,ad-clcount.com
 DOMAIN-SUFFIX,ad-cloud.jp
 DOMAIN-SUFFIX,ad-count.jp
 DOMAIN-SUFFIX,ad-creative.projectcarmen.com
-DOMAIN-SUFFIX,ad-creative.pstatic.net
 DOMAIN-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com
 DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,ad-drop.jp
@@ -17969,6 +17969,7 @@ DOMAIN-SUFFIX,breedtagask.com
 DOMAIN-SUFFIX,breezefraudulent.com
 DOMAIN-SUFFIX,breezygrove.com
 DOMAIN-SUFFIX,brekdok.com
+DOMAIN-SUFFIX,brephras.com
 DOMAIN-SUFFIX,brespark.eccocar.com
 DOMAIN-SUFFIX,brevandolius.com
 DOMAIN-SUFFIX,brevnet.eccocar.com
@@ -29111,6 +29112,7 @@ DOMAIN-SUFFIX,data.tw-email.princess.com
 DOMAIN-SUFFIX,data.tw-guest.princess.com
 DOMAIN-SUFFIX,data.txn.puntoscolombia.com
 DOMAIN-SUFFIX,data.ubi.com
+DOMAIN-SUFFIX,data.ublock-browser.com
 DOMAIN-SUFFIX,data.ucpa.se
 DOMAIN-SUFFIX,data.uk-email.princess.com
 DOMAIN-SUFFIX,data.uk-guest.princess.com
@@ -39810,6 +39812,7 @@ DOMAIN-SUFFIX,getxml.org
 DOMAIN-SUFFIX,getxmlisi.com
 DOMAIN-SUFFIX,getyourbitco.in
 DOMAIN-SUFFIX,getyoursoft.ru
+DOMAIN-SUFFIX,geuba.xyz
 DOMAIN-SUFFIX,gevkmopw9i3xq7kw.n3kijf75r.com
 DOMAIN-SUFFIX,gevmrjok.com
 DOMAIN-SUFFIX,gevzke.annonces-automobile.com
@@ -51605,6 +51608,7 @@ DOMAIN-SUFFIX,kyaj11.com
 DOMAIN-SUFFIX,kyaywy.xyz
 DOMAIN-SUFFIX,kybsbf.ruleoneproteins.com
 DOMAIN-SUFFIX,kyccmn.com
+DOMAIN-SUFFIX,kychq.cn
 DOMAIN-SUFFIX,kydcwp.landwirt.com
 DOMAIN-SUFFIX,kyefakwa.com
 DOMAIN-SUFFIX,kyemwo.xyz
@@ -66373,7 +66377,6 @@ DOMAIN-SUFFIX,ntihwhqe.usatours.no
 DOMAIN-SUFFIX,ntihwhqe.usatours.se
 DOMAIN-SUFFIX,ntiutox.icu
 DOMAIN-SUFFIX,ntjams.themattresswarehouse.co.za
-DOMAIN-SUFFIX,ntkimg.cloud
 DOMAIN-SUFFIX,ntlab.org
 DOMAIN-SUFFIX,ntlcgevw-u.one
 DOMAIN-SUFFIX,ntlysearchingf.info
@@ -110727,6 +110730,7 @@ DOMAIN-SUFFIX,xms.lol
 DOMAIN-SUFFIX,xms.theoundemma.com
 DOMAIN-SUFFIX,xmsflzmygw.com
 DOMAIN-SUFFIX,xmtrading.com
+DOMAIN-SUFFIX,xmvxo.xyz
 DOMAIN-SUFFIX,xmyvhu.soxo.pl
 DOMAIN-SUFFIX,xn--2qu96gouvko1a.com
 DOMAIN-SUFFIX,xn--2ss830adjbqy7h.xn--fiqs8s

@@ -2962,6 +2962,7 @@ DOMAIN-WILDCARD,*.kuaikan-cdn?.com
 DOMAIN-WILDCARD,*.lz-cdn?.com
 DOMAIN-WILDCARD,*.lz-cdn??.com
 DOMAIN-WILDCARD,appcenter-filemanagement-*.cloudapp.net
+DOMAIN-WILDCARD,assets*.freshdesk.com
 DOMAIN-WILDCARD,blog-imgs-??.2nt.com
 DOMAIN-WILDCARD,blog-imgs-??.fc2.com
 DOMAIN-WILDCARD,cdn-msp?.18comic.vip

@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2989
+# 规则统计: 2992
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -186,6 +186,7 @@ HOST,assets.repair.org,CDN
 HOST,assets.safing.io,CDN
 HOST,assets.salesmartly.com,CDN
 HOST,assets.scaleflex.com,CDN
+HOST,assets.scaleway.com,CDN
 HOST,assets.science.nasa.gov,CDN
 HOST,assets.scroll.com,CDN
 HOST,assets.sendinblue.com,CDN
@@ -2235,6 +2236,7 @@ HOST-SUFFIX,cloudflare.ltd,CDN
 HOST-SUFFIX,cloudflarestream.com,CDN
 HOST-SUFFIX,cloudfront.net,CDN
 HOST-SUFFIX,cloudimg.io,CDN
+HOST-SUFFIX,cmail19.com,CDN
 HOST-SUFFIX,cmail20.com,CDN
 HOST-SUFFIX,cms-cdn.linear.app,CDN
 HOST-SUFFIX,cms.replit.com,CDN
@@ -2342,6 +2344,7 @@ HOST-SUFFIX,fonts.com,CDN
 HOST-SUFFIX,fonts.net,CDN
 HOST-SUFFIX,forbesimg.com,CDN
 HOST-SUFFIX,forgecdn.net,CDN
+HOST-SUFFIX,fourhoi.com,CDN
 HOST-SUFFIX,framercdn.com,CDN
 HOST-SUFFIX,framerstatic.com,CDN
 HOST-SUFFIX,framerusercontent.com,CDN
@@ -2947,6 +2950,7 @@ HOST-SUFFIX,zohostatic.com,CDN
 HOST-SUFFIX,zohostatic.eu,CDN
 HOST-SUFFIX,zohowebstatic.com,CDN
 HOST-SUFFIX,zorocdn.xyz,CDN
+HOST-KEYWORD,-cdn.eporner.com,CDN
 HOST-KEYWORD,-files.gitbook.io,CDN
 HOST-KEYWORD,-res.cloudinary.com,CDN
 HOST-KEYWORD,cdnstatic.,CDN
@@ -2979,7 +2983,6 @@ HOST-WILDCARD,rr?---??.ouo.si,CDN
 HOST-WILDCARD,s3.*.wasabisys.com,CDN
 HOST-WILDCARD,sdk.*.braze.eu,CDN
 HOST-WILDCARD,static*.tgstat.ru,CDN
-HOST-WILDCARD,static-??-cdn.eporner.com,CDN
 HOST-WILDCARD,t?.nhentai.net,CDN
 HOST-WILDCARD,v.rn???.xyz,CDN
 HOST-WILDCARD,video*.cloudokyo.cloud,CDN

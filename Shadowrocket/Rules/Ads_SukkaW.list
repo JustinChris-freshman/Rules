@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 104280
+# 规则统计: 104276
 
 DOMAIN,2016.sina.cn
 DOMAIN,9ibbcq2d.sina.cn
@@ -7958,6 +7958,7 @@ DOMAIN-SUFFIX,adultforce.com
 DOMAIN-SUFFIX,adultgameexchange.com
 DOMAIN-SUFFIX,adultimate.net
 DOMAIN-SUFFIX,adultiq.club
+DOMAIN-SUFFIX,adultium.com
 DOMAIN-SUFFIX,adultlinkexchange.com
 DOMAIN-SUFFIX,adultmoviegroup.com
 DOMAIN-SUFFIX,adultoafiliados.com.br
@@ -15658,6 +15659,7 @@ DOMAIN-SUFFIX,biz.gexing.com
 DOMAIN-SUFFIX,biz1.kddi.com
 DOMAIN-SUFFIX,bizcom.com.ru
 DOMAIN-SUFFIX,bizible.com
+DOMAIN-SUFFIX,bizlog-gateway.myrealtrip.com
 DOMAIN-SUFFIX,bizmkt.lguplus.com
 DOMAIN-SUFFIX,bizmotion.jp
 DOMAIN-SUFFIX,biznews.oregon.gov
@@ -57838,7 +57840,6 @@ DOMAIN-SUFFIX,montelena-rcv.auction.co.kr
 DOMAIN-SUFFIX,montelena-rcv.gmarket.co.kr
 DOMAIN-SUFFIX,montelena.auction.co.kr
 DOMAIN-SUFFIX,montelena.gmarket.co.kr
-DOMAIN-SUFFIX,monthlyhat.com
 DOMAIN-SUFFIX,monthlypatient.com
 DOMAIN-SUFFIX,monthsappear.com
 DOMAIN-SUFFIX,monthsshefacility.com
@@ -59580,7 +59581,6 @@ DOMAIN-SUFFIX,net.egravure.com
 DOMAIN-SUFFIX,net.fashionsisters.de
 DOMAIN-SUFFIX,net.fidor.de
 DOMAIN-SUFFIX,net.fuckxstream.com
-DOMAIN-SUFFIX,net.haier.com
 DOMAIN-SUFFIX,net.home24.be
 DOMAIN-SUFFIX,net.home24.ch
 DOMAIN-SUFFIX,net.home24.com
@@ -63111,7 +63111,6 @@ DOMAIN-SUFFIX,outsimiseara.com
 DOMAIN-SUFFIX,outsliggooa.com
 DOMAIN-SUFFIX,outsmoke-niyaxabura.com
 DOMAIN-SUFFIX,outsohoam.com
-DOMAIN-SUFFIX,outstandingsnails.com
 DOMAIN-SUFFIX,outstandingspread.com
 DOMAIN-SUFFIX,outstandingsubconsciousaudience.com
 DOMAIN-SUFFIX,outstantewq.info
@@ -70960,7 +70959,6 @@ DOMAIN-SUFFIX,ringashewasfl.info
 DOMAIN-SUFFIX,ringexpressbeach.com
 DOMAIN-SUFFIX,ringier-advertising.ch
 DOMAIN-SUFFIX,ringingneo.com
-DOMAIN-SUFFIX,ringplant.com
 DOMAIN-SUFFIX,ringsconsultaspirant.com
 DOMAIN-SUFFIX,ringsrecord.com
 DOMAIN-SUFFIX,ringtonepartner.com
@@ -74023,7 +74021,6 @@ DOMAIN-SUFFIX,secure.info.m.seek.com.au
 DOMAIN-SUFFIX,secure.info.zetes.com
 DOMAIN-SUFFIX,secure.informationcreativeinnovative.com
 DOMAIN-SUFFIX,secure.innovation-perceptive52.com
-DOMAIN-SUFFIX,secure.insightful-enterprise-intelligence.com
 DOMAIN-SUFFIX,secure.intelligent-company-365.com
 DOMAIN-SUFFIX,secure.investingwithmind.com
 DOMAIN-SUFFIX,secure.iqmining.com
@@ -74052,6 +74049,7 @@ DOMAIN-SUFFIX,secure.thedailyrevenue.com
 DOMAIN-SUFFIX,secure.trust-guard.com
 DOMAIN-SUFFIX,secure.try54d.com
 DOMAIN-SUFFIX,secure.valpak.com
+DOMAIN-SUFFIX,secure.visionary-enterprise-ingenuity.com
 DOMAIN-SUFFIX,secure.visionary-enterprise-wisdom.com
 DOMAIN-SUFFIX,secure.visualsonics.com
 DOMAIN-SUFFIX,secure.vspdirect.com
@@ -82868,7 +82866,6 @@ DOMAIN-SUFFIX,stat.5-tv.ru
 DOMAIN-SUFFIX,stat.absolutist.com
 DOMAIN-SUFFIX,stat.acca.it
 DOMAIN-SUFFIX,stat.ado.hu
-DOMAIN-SUFFIX,stat.adultium.com
 DOMAIN-SUFFIX,stat.airdroid.com
 DOMAIN-SUFFIX,stat.akkrt.hu
 DOMAIN-SUFFIX,stat.alibaba.com
@@ -84890,7 +84887,6 @@ DOMAIN-SUFFIX,stunninglover.com
 DOMAIN-SUFFIX,stunoolri.net
 DOMAIN-SUFFIX,stunsbarbola.website
 DOMAIN-SUFFIX,stunthypocrisy.com
-DOMAIN-SUFFIX,stupendoussnow.com
 DOMAIN-SUFFIX,stupid-luck.com
 DOMAIN-SUFFIX,stupiditydecision.com
 DOMAIN-SUFFIX,stupidityficklecapability.com

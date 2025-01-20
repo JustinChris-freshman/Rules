@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2989
+# 规则统计: 2992
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -186,6 +186,7 @@ DOMAIN,assets.repair.org
 DOMAIN,assets.safing.io
 DOMAIN,assets.salesmartly.com
 DOMAIN,assets.scaleflex.com
+DOMAIN,assets.scaleway.com
 DOMAIN,assets.science.nasa.gov
 DOMAIN,assets.scroll.com
 DOMAIN,assets.sendinblue.com
@@ -2235,6 +2236,7 @@ DOMAIN-SUFFIX,cloudflare.ltd
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudimg.io
+DOMAIN-SUFFIX,cmail19.com
 DOMAIN-SUFFIX,cmail20.com
 DOMAIN-SUFFIX,cms-cdn.linear.app
 DOMAIN-SUFFIX,cms.replit.com
@@ -2342,6 +2344,7 @@ DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fonts.net
 DOMAIN-SUFFIX,forbesimg.com
 DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,fourhoi.com
 DOMAIN-SUFFIX,framercdn.com
 DOMAIN-SUFFIX,framerstatic.com
 DOMAIN-SUFFIX,framerusercontent.com
@@ -2947,6 +2950,7 @@ DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,zohostatic.eu
 DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zorocdn.xyz
+DOMAIN-KEYWORD,-cdn.eporner.com
 DOMAIN-KEYWORD,-files.gitbook.io
 DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,cdnstatic.
@@ -2979,7 +2983,6 @@ DOMAIN-WILDCARD,rr?---??.ouo.si
 DOMAIN-WILDCARD,s3.*.wasabisys.com
 DOMAIN-WILDCARD,sdk.*.braze.eu
 DOMAIN-WILDCARD,static*.tgstat.ru
-DOMAIN-WILDCARD,static-??-cdn.eporner.com
 DOMAIN-WILDCARD,t?.nhentai.net
 DOMAIN-WILDCARD,v.rn???.xyz
 DOMAIN-WILDCARD,video*.cloudokyo.cloud

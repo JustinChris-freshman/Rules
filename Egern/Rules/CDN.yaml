@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 2954
+# 规则统计: 2958
 
 domain_set:
   - 0x0.st
@@ -187,6 +187,7 @@ domain_set:
   - assets.safing.io
   - assets.salesmartly.com
   - assets.scaleflex.com
+  - assets.scaleway.com
   - assets.science.nasa.gov
   - assets.scroll.com
   - assets.sendinblue.com
@@ -2237,6 +2238,7 @@ domain_suffix_set:
   - cloudflarestream.com
   - cloudfront.net
   - cloudimg.io
+  - cmail19.com
   - cmail20.com
   - cms-cdn.linear.app
   - cms.replit.com
@@ -2344,6 +2346,7 @@ domain_suffix_set:
   - fonts.net
   - forbesimg.com
   - forgecdn.net
+  - fourhoi.com
   - framercdn.com
   - framerstatic.com
   - framerusercontent.com
@@ -2950,6 +2953,7 @@ domain_suffix_set:
   - zohowebstatic.com
   - zorocdn.xyz
 domain_keyword_set:
+  - -cdn.eporner.com
   - -files.gitbook.io
   - -res.cloudinary.com
   - cdnstatic.
@@ -2982,7 +2986,6 @@ DOMAIN-WILDCARD,rr?---??.ouo.si
 DOMAIN-WILDCARD,s3.*.wasabisys.com
 DOMAIN-WILDCARD,sdk.*.braze.eu
 DOMAIN-WILDCARD,static*.tgstat.ru
-DOMAIN-WILDCARD,static-??-cdn.eporner.com
 DOMAIN-WILDCARD,t?.nhentai.net
 DOMAIN-WILDCARD,v.rn???.xyz
 DOMAIN-WILDCARD,video*.cloudokyo.cloud

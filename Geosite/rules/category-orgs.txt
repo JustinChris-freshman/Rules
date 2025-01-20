@@ -26,14 +26,7 @@ creativecommons.org
 creativecommons.engineering
 licensebuttons.net
 csis.org
-emojipedia.org
-worldemojiawards.com
-worldemojiday.com
-xn--yt8h.la
-paskoocheh.com
 ppy.sh
-rolfoundation.org
-rolsociety.org
 archive-it.org
 archive.org
 archive.ph
@@ -110,3 +103,10 @@ osm.org
 osmfoundation.org
 stateofthemap.com
 stateofthemap.org
+paskoocheh.com
+rolfoundation.org
+rolsociety.org
+emojipedia.org
+worldemojiawards.com
+worldemojiday.com
+xn--yt8h.la

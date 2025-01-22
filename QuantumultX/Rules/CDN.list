@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3073
+# 规则统计: 3075
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -524,6 +524,7 @@ HOST,cdn.prod.ext.web.purview.azure.com,CDN
 HOST,cdn.prod.www.spiegel.de,CDN
 HOST,cdn.prowritingaid.com,CDN
 HOST,cdn.quadpay.com,CDN
+HOST,cdn.quickemailverification.com,CDN
 HOST,cdn.rauno.me,CDN
 HOST,cdn.readme.io,CDN
 HOST,cdn.ready-market.com.tw,CDN
@@ -560,6 +561,7 @@ HOST,cdn.sprig.com,CDN
 HOST,cdn.st-note.com,CDN
 HOST,cdn.starapps.studio,CDN
 HOST,cdn.stash.com,CDN
+HOST,cdn.staticdelivr.com,CDN
 HOST,cdn.stellarhosted.com,CDN
 HOST,cdn.substack.com,CDN
 HOST,cdn.sunofbeaches.com,CDN

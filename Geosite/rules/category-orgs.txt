@@ -30,9 +30,6 @@ osm.org
 osmfoundation.org
 stateofthemap.com
 stateofthemap.org
-nist.gov
-time.gov
-paskoocheh.com
 archive-it.org
 archive.org
 archive.ph
@@ -107,6 +104,9 @@ photonicssociety.org
 signalprocessingsociety.org
 technologyandsociety.org
 vtsociety.org
-ppy.sh
+nist.gov
+time.gov
+paskoocheh.com
 rolfoundation.org
 rolsociety.org
+ppy.sh

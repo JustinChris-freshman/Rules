@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 110101
+# 规则统计: 110122
 
 no_resolve: true
 domain_set:
@@ -1287,6 +1287,7 @@ domain_suffix_set:
   - 1bestgoods.com
   - 1betandgonow.com
   - 1bf00b950c.com
+  - 1bliq.io
   - 1bm3n8sld.de
   - 1bpmtrvkqkj.pettoonies.com
   - 1buo.icu
@@ -7718,6 +7719,7 @@ domain_suffix_set:
   - adsbanner.game.zing.vn
   - adsbar.online
   - adsbb.depositfiles.com
+  - adsbb.depositfiles.org
   - adsbeard.com
   - adsbetnet.com
   - adsbingo.com
@@ -11815,6 +11817,7 @@ domain_suffix_set:
   - apatheticdrawerscolourful.com
   - apatheticformingalbeit.com
   - apathyjav128.fun
+  - apay-us.amazon.com
   - apbieqqb.xyz
   - apcatcltoph.com
   - apcdp.apnews.com
@@ -18997,6 +19000,7 @@ domain_suffix_set:
   - cdn.routy.app
   - cdn.samsungcloudsolution.net
   - cdn.sdtraff.com
+  - cdn.sgmntfy.com
   - cdn.shareaholic.net
   - cdn.shrtfly.vip
   - cdn.siteswithcontent.com
@@ -19620,7 +19624,6 @@ domain_suffix_set:
   - checkmygeo.com
   - checkoutfree.com
   - checkpointcharlie.heizung.de
-  - checkpost.club
   - checkru.net
   - checkstat.nl
   - checkup02.biz
@@ -20225,6 +20228,7 @@ domain_suffix_set:
   - cleverculture.pro
   - cleveritics.com
   - cleverjump.org
+  - cleverjumper.com
   - clevernesscolloquial.com
   - clevernessdeclare.com
   - clevernet.vn
@@ -22138,7 +22142,6 @@ domain_suffix_set:
   - content.hourigan.group
   - content.hurix.com
   - content.hydraulicsproducts.com
-  - content.ingbank.pl
   - content.investresolve.com
   - content.juniper.net
   - content.kleinezeitung.at
@@ -30423,7 +30426,6 @@ domain_suffix_set:
   - dmz3nd5oywtsw.cloudfront.net
   - dmzjmp.com
   - dmzls.safe-installation.com
-  - dn0qt3r0xannq.cloudfront.net
   - dn34cbtcv9mef.cloudfront.net
   - dn3hksy6kf.com
   - dn3uy6cx65ujf.cloudfront.net
@@ -32239,6 +32241,7 @@ domain_suffix_set:
   - edeals.rbp.com
   - edeals.rhymebiz.com
   - edeensiwaftaih.xyz
+  - edeetion.com
   - ederrassi.com
   - edfjqt.kokoji.fr
   - edfyqv.x-moda.ru
@@ -32312,6 +32315,7 @@ domain_suffix_set:
   - ednplus.com
   - ednqjm.magnanni.com
   - edococounter.de
+  - edokouksuk.net
   - edomz.com
   - edonhisdhi.com
   - edoshbw.top
@@ -32408,6 +32412,7 @@ domain_suffix_set:
   - eel.ieo.do
   - eel.transistor.fm
   - eeleekso.com
+  - eelerzambo.com
   - eelroave.xyz
   - eemsautsoay.net
   - eenbies.com
@@ -36914,6 +36919,7 @@ domain_suffix_set:
   - formatresourcefulresolved.com
   - formatstock.com
   - formedwrapped.com
+  - formerdisagreepectoral.com
   - formerdrearybiopsy.com
   - formerlyhorribly.com
   - formerlyparsleysuccess.com
@@ -37113,6 +37119,7 @@ domain_suffix_set:
   - fpa-events.slate.com
   - fpad.jp
   - fpadga.mcruises.ru
+  - fpapi.io
   - fpb.sohu.com
   - fpb1.apple886.com
   - fpb1.jsq886.com
@@ -41920,6 +41927,7 @@ domain_suffix_set:
   - harrier.progress.fyi
   - harrier.scdamerica.com.au
   - harris.ni.com
+  - harrowliquid.com
   - harrydough.com
   - harrymercurydynasty.com
   - harshlygiraffediscover.com
@@ -44219,6 +44227,7 @@ domain_suffix_set:
   - ieyavideatldcb.com
   - ieymhkx.icu
   - ieyri61b.xyz
+  - ieztoskbcoalf.z13.web.core.windows.net
   - iezxmddndn.com
   - if-eku3a-fp.com
   - if20jadf8aj9bu.shop
@@ -49102,6 +49111,7 @@ domain_suffix_set:
   - kaleidoscopefingernaildigging.com
   - kaleidoscopepincers.com
   - kalitereklam.com
+  - kalkvisrecit.shop
   - kallerupstone.viessmann.dk
   - kalmukrattail.com
   - kalooga.com
@@ -50916,6 +50926,7 @@ domain_suffix_set:
   - ldipsuml.top
   - lditsdebriisar.cfd
   - ldjcteyoq.com
+  - ldjfsdku.icu
   - ldjudcpc-qxm.icu
   - ldjyvegage.com
   - ldmeukeuktyoue.com
@@ -53406,6 +53417,7 @@ domain_suffix_set:
   - logger007.cam4.com
   - logging.api.intuit.com
   - logging.e-himart.co.kr
+  - logging.g.sst.secureserver.net
   - logging.goodgamestudios.com
   - logging.h3z.jp
   - logging.je-apps.com
@@ -60104,6 +60116,7 @@ domain_suffix_set:
   - mevsetup.site
   - mevtime.com
   - mewgzllnsp.com
+  - mewigurom.com
   - mewrutx.top
   - mexicantransmission.com
   - mexico.balluff.com
@@ -60443,6 +60456,7 @@ domain_suffix_set:
   - miqeuu.timberland.it
   - miqorhogxc.com
   - miqznq.eszonyeg.hu
+  - mirabelanalytics.com
   - miracle-door.com
   - miracle.magic-connect.net
   - miradres.com
@@ -61295,6 +61309,7 @@ domain_suffix_set:
   - moptqu.ladyplus.co.kr
   - mopub-win-us-east.bksn.se
   - mopub.com
+  - moqbfkfuex.com
   - moqdy.icu
   - mor.chance-10dayful.com
   - moradu.com
@@ -64477,6 +64492,7 @@ domain_suffix_set:
   - nullsglitter.com
   - num-link.ru
   - numarapaneli.com
+  - numb-price.pro
   - numberium.com
   - numbers.md
   - numbers.monthlyphotos.com
@@ -65481,6 +65497,7 @@ domain_suffix_set:
   - olwqxg.europcar.it
   - olxoqmotw.com
   - olxwweaf.com
+  - olympuscracowe.shop
   - olzatpafwo.com
   - olziko.maxmara.com
   - olzuvgxqhozu.com
@@ -65953,6 +65970,7 @@ domain_suffix_set:
   - onhercam.com
   - onifdlak.top
   - onigagalai.ru
+  - onionetmabela.top
   - onirybank.com
   - onjjbn.koffiemarkt.be
   - onjmsj.sumai-surfin.com
@@ -69358,7 +69376,6 @@ domain_suffix_set:
   - pixel.inforsea.com
   - pixel.innocom.vn
   - pixel.ionos.com
-  - pixel.ionos.de
   - pixel.kknews.cc
   - pixel.klout.com
   - pixel.kodixauto.ru
@@ -71310,6 +71327,7 @@ domain_suffix_set:
   - proxy-review.com
   - proxy.ads.canalplus-bo.net
   - proxy.dzeio.com
+  - proxy.optoutadserving.com
   - proxy.planmyspace.no
   - proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
   - proxy.trysavvy.com
@@ -73551,6 +73569,7 @@ domain_suffix_set:
   - rbvgaetqsk.love
   - rbwbem.costacroisieres.be
   - rbweljjeqvevy.top
+  - rbzupn.icu
   - rc.dxsvr.com
   - rc.ie13.com
   - rc.precisely.com
@@ -75131,6 +75150,7 @@ domain_suffix_set:
   - riotousunspeakablestreet.com
   - riovdv.mustit.co.kr
   - riowrite.com
+  - ripe-heart.com
   - ripeautobiography.com
   - ripencompatiblefreezing.com
   - ripenstreet.com
@@ -77193,6 +77213,7 @@ domain_suffix_set:
   - sam.manager-magazin.de
   - sam.msn.com
   - samage-bility.icu
+  - samalcuratic.shop
   - samarketing.sedgwick.com
   - samarradeafer.top
   - sambaads.com
@@ -78018,6 +78039,7 @@ domain_suffix_set:
   - scrollisolation.com
   - scrollservice.com
   - scrollye.com
+  - scrorlaets.com
   - scroscoi.com
   - scrubheiress.com
   - scruboutdoorsoffensive.com
@@ -79328,7 +79350,6 @@ domain_suffix_set:
   - sgihava.com
   - sgmcdn.racingpost.com
   - sgmnt.beacons.ai
-  - sgmntfy.com
   - sgms.greatschools.org
   - sgnetwork.co
   - sgoke0333.info
@@ -85796,6 +85817,7 @@ domain_suffix_set:
   - spg.specialtyprogramgroup.com
   - sphc.caring4cancer.com
   - spheredkapas.com
+  - spheryexcise.shop
   - sphostserver.com
   - spicciolo.com
   - spice-sugar.net
@@ -87819,7 +87841,6 @@ domain_suffix_set:
   - stat.ykimg.com
   - stat.youku.com
   - stat.youpin.mi.com
-  - stat.zol.com.cn
   - stat03.stat.cliche.se
   - stat24.com
   - stat24.meta.ua
@@ -93408,7 +93429,6 @@ domain_suffix_set:
   - theopenpathology.click
   - theorysuspendlargest.com
   - theoverheat.com
-  - thepatrones.blob.core.windows.net
   - thepayporn.com
   - thepiratebay3.com
   - theplansaimplem.com
@@ -106361,6 +106381,7 @@ domain_suffix_set:
   - wsicmo.bogsfootwear.com.au
   - wsjlbbqemr23.com
   - wsjwrd.rooseoin.com
+  - wsknow.net
   - wsmcdn.audioeye.com
   - wsmobltyhs.com
   - wsnjjj.arredinitaly.com

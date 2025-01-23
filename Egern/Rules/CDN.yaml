@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3069
+# 规则统计: 3070
 
 domain_set:
   - 0x0.st
@@ -1549,6 +1549,7 @@ domain_set:
   - resources.help.salesforce.com
   - rsi.grafana.com
   - rsms.me
+  - rtcg-access.bytevcloud.com
   - rts-static-prod.freshworksapi.com
   - rules.ac
   - rules1.clearurls.xyz

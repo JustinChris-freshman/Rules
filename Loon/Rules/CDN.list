@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3111
+# 规则统计: 3112
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1548,6 +1548,7 @@ DOMAIN,resources.esportsinsider.com
 DOMAIN,resources.help.salesforce.com
 DOMAIN,rsi.grafana.com
 DOMAIN,rsms.me
+DOMAIN,rtcg-access.bytevcloud.com
 DOMAIN,rts-static-prod.freshworksapi.com
 DOMAIN,rules.ac
 DOMAIN,rules1.clearurls.xyz

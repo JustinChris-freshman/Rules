@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3111
+# 规则统计: 3112
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1548,6 +1548,7 @@ HOST,resources.esportsinsider.com,CDN
 HOST,resources.help.salesforce.com,CDN
 HOST,rsi.grafana.com,CDN
 HOST,rsms.me,CDN
+HOST,rtcg-access.bytevcloud.com,CDN
 HOST,rts-static-prod.freshworksapi.com,CDN
 HOST,rules.ac,CDN
 HOST,rules1.clearurls.xyz,CDN

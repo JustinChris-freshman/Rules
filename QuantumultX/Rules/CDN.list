@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3116
+# 规则统计: 3117
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2308,6 +2308,7 @@ HOST-SUFFIX,chasecdn.com,CDN
 HOST-SUFFIX,chcdn.xyz,CDN
 HOST-SUFFIX,chesscomfiles.com,CDN
 HOST-SUFFIX,claudeusercontent.com,CDN
+HOST-SUFFIX,cldup.com,CDN
 HOST-SUFFIX,clientmetrics-pa.googleapis.com,CDN
 HOST-SUFFIX,cloud.influxdata.com,CDN
 HOST-SUFFIX,cloud1.influxdata.com,CDN

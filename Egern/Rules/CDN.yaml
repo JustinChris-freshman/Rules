@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3074
+# 规则统计: 3075
 
 domain_set:
   - 0x0.st
@@ -2310,6 +2310,7 @@ domain_suffix_set:
   - chcdn.xyz
   - chesscomfiles.com
   - claudeusercontent.com
+  - cldup.com
   - clientmetrics-pa.googleapis.com
   - cloud.influxdata.com
   - cloud1.influxdata.com

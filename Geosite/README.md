@@ -1001,6 +1001,7 @@
 - [reddit](rules/reddit.txt)
 - [redhat](rules/redhat.txt)
 - [redis](rules/redis.txt)
+- [redotpay](rules/redotpay.txt)
 - [redtube](rules/redtube.txt)
 - [remirepo](rules/remirepo.txt)
 - [renren](rules/renren.txt)

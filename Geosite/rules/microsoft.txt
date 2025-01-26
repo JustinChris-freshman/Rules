@@ -229,7 +229,7 @@ skype.com
 skype.net
 skypeassets.com
 skypeassets.net
-mojang.com
+elderscrolls.com
 successwithteams.com
 surface.com
 svc.ms
@@ -286,7 +286,7 @@ azuredigitaltwins.com
 azuredigitaltwins.net
 azuredns-prd.info
 azuredns-prd.org
-minecraftshop.com
+doom.com
 azureedge.net
 azurefd.net
 azureiotcentral.com
@@ -352,7 +352,7 @@ github.com
 github.community
 github.dev
 github.io
-minecraftservices.com
+bethsoft.com
 githubassets.com
 githubcopilot.com
 npmjs.org
@@ -368,9 +368,9 @@ thegithubshop.com
 atom.io
 npm.community
 npmjs.com
-minecraft.net
-callersbane.com
-elderscrolls.com
+bethesdagamestudios.com
+bethesda.net
+beth.games
 adaptivecards.io
 api-extractor.com
 apisof.net
@@ -422,7 +422,7 @@ vscode.dev
 vscode-cdn.net
 vscode-unpkg.net
 xamarin.com
-doom.com
+mojang.com
 msocsp.com
 microsoftnews.cc
 microsoftnews.com
@@ -449,9 +449,9 @@ onedrive.com
 onedrive.eu
 onedrive.net
 onedrive.org
-bethsoft.com
-bethesdagamestudios.com
-bethesda.net
+minecraftshop.com
+minecraftservices.com
+minecraft.net
 microsoft.az
 forzamotorsport.net
 forzaracingchampionship.com
@@ -479,7 +479,7 @@ xboxplayanywhere.com
 xboxservices.com
 xboxstudios.com
 xbx.lv
-beth.games
+callersbane.com
 onedrive.co.uk
 visualstudio.co.uk
 skypedata.akadns.net

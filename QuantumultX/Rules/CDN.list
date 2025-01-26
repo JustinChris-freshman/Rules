@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3117
+# 规则统计: 3118
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2486,6 +2486,7 @@ HOST-SUFFIX,hgagecdn.com,CDN
 HOST-SUFFIX,hgasm1.com,CDN
 HOST-SUFFIX,hgasm2.com,CDN
 HOST-SUFFIX,hgasm3.com,CDN
+HOST-SUFFIX,hgimg00.com,CDN
 HOST-SUFFIX,highwinds-cdn.com,CDN
 HOST-SUFFIX,himg.nl,CDN
 HOST-SUFFIX,hits.b3log.org,CDN

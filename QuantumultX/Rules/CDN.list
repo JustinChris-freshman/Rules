@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3116
+# 规则统计: 3118
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1885,6 +1885,7 @@ HOST,static.snyk.io,CDN
 HOST,static.solarwinds.com,CDN
 HOST,static.spankbang.com,CDN
 HOST,static.srcspot.com,CDN
+HOST,static.staff-start.com,CDN
 HOST,static.start.me,CDN
 HOST,static.status.io,CDN
 HOST,static.telegraph.co.uk,CDN
@@ -2090,6 +2091,7 @@ HOST,vz-c0fe498e-5ab.b-cdn.net,CDN
 HOST,w.chatlio.com,CDN
 HOST,w.soundcloud.com,CDN
 HOST,w2.influxdata.com,CDN
+HOST,wa.arounddeal.com,CDN
 HOST,wac-cdn-2.atlassian.com,CDN
 HOST,wac-cdn.atlassian.com,CDN
 HOST,waitlisted.co,CDN

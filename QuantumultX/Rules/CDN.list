@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3113
+# 规则统计: 3116
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -28,6 +28,7 @@ HOST,analytics.twitter.com,CDN
 HOST,analytics.welcomesoftware.com,CDN
 HOST,anchor.digitalocean.com,CDN
 HOST,android-safebrowsing.google.com,CDN
+HOST,answers-afd.microsoft.com,CDN
 HOST,api-esp-ap.piano.io,CDN
 HOST,api-eu.mixpanel.com,CDN
 HOST,api-frameworks.vercel.sh,CDN
@@ -542,6 +543,7 @@ HOST,cdn.royaleapi.com,CDN
 HOST,cdn.safecharge.com,CDN
 HOST,cdn.sanity.io,CDN
 HOST,cdn.sc.gl,CDN
+HOST,cdn.schemaapp.com,CDN
 HOST,cdn.sciencecast.org,CDN
 HOST,cdn.search.brave.com,CDN
 HOST,cdn.sedo.com,CDN
@@ -884,6 +886,7 @@ HOST,files.slack.com,CDN
 HOST,files.smashing.media,CDN
 HOST,files.writefreely.org,CDN
 HOST,files.yande.re,CDN
+HOST,filestore.community.support.microsoft.com,CDN
 HOST,filestore.fortinet.com,CDN
 HOST,firebase-settings.crashlytics.com,CDN
 HOST,firebaselogging-pa.googleapis.com,CDN

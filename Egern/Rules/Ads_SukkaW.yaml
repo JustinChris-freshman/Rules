@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 118197
+# 规则统计: 118199
 
 no_resolve: true
 domain_set:
@@ -2675,6 +2675,7 @@ domain_suffix_set:
   - 7porn.ru
   - 7q1z79gxsi.global.ssl.fastly.net
   - 7rtv.com
+  - 7tc.fun
   - 7vviw.cyou
   - 7wbb.com
   - 7wrxo2xh.iriscreative.co
@@ -32336,6 +32337,7 @@ domain_suffix_set:
   - directrankcl.com
   - directrev.com
   - directrix.ru
+  - directsnap.click
   - directtaafwr.com
   - directtrack.com
   - directtrck.com
@@ -46081,7 +46083,6 @@ domain_suffix_set:
   - headacheaim.com
   - headachehedgeornament.com
   - headbidder.net
-  - headcaptcha.live
   - headclutterdialogue.com
   - headerbidding.ai
   - headerbidding.services
@@ -87669,6 +87670,7 @@ domain_suffix_set:
   - sikkerportal-boks.com
   - sikkertilgang-altinn.com
   - sikncs.com
+  - sikoip.cfd
   - silebu.xyz
   - silence-storm.buzz
   - silenceapiece.com

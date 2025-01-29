@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 118203
+# 规则统计: 118205
 
 DOMAIN,2016.sina.cn
 DOMAIN,9ibbcq2d.sina.cn
@@ -2672,6 +2672,7 @@ DOMAIN-SUFFIX,7out.ru
 DOMAIN-SUFFIX,7porn.ru
 DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
 DOMAIN-SUFFIX,7rtv.com
+DOMAIN-SUFFIX,7tc.fun
 DOMAIN-SUFFIX,7vviw.cyou
 DOMAIN-SUFFIX,7wbb.com
 DOMAIN-SUFFIX,7wrxo2xh.iriscreative.co
@@ -32333,6 +32334,7 @@ DOMAIN-SUFFIX,directpaltry.com
 DOMAIN-SUFFIX,directrankcl.com
 DOMAIN-SUFFIX,directrev.com
 DOMAIN-SUFFIX,directrix.ru
+DOMAIN-SUFFIX,directsnap.click
 DOMAIN-SUFFIX,directtaafwr.com
 DOMAIN-SUFFIX,directtrack.com
 DOMAIN-SUFFIX,directtrck.com
@@ -46078,7 +46080,6 @@ DOMAIN-SUFFIX,head-clickfusion.com
 DOMAIN-SUFFIX,headacheaim.com
 DOMAIN-SUFFIX,headachehedgeornament.com
 DOMAIN-SUFFIX,headbidder.net
-DOMAIN-SUFFIX,headcaptcha.live
 DOMAIN-SUFFIX,headclutterdialogue.com
 DOMAIN-SUFFIX,headerbidding.ai
 DOMAIN-SUFFIX,headerbidding.services
@@ -87666,6 +87667,7 @@ DOMAIN-SUFFIX,sikkerportal-altinn.com
 DOMAIN-SUFFIX,sikkerportal-boks.com
 DOMAIN-SUFFIX,sikkertilgang-altinn.com
 DOMAIN-SUFFIX,sikncs.com
+DOMAIN-SUFFIX,sikoip.cfd
 DOMAIN-SUFFIX,silebu.xyz
 DOMAIN-SUFFIX,silence-storm.buzz
 DOMAIN-SUFFIX,silenceapiece.com

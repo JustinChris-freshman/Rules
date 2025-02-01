@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 113895
+# 规则统计: 113894
 
 DOMAIN,2016.sina.cn
 DOMAIN,9ibbcq2d.sina.cn
@@ -46805,7 +46805,6 @@ DOMAIN-SUFFIX,huaxinapp3.com
 DOMAIN-SUFFIX,huaxinapp4.com
 DOMAIN-SUFFIX,huaxinapp5.com
 DOMAIN-SUFFIX,hub.com.pl
-DOMAIN-SUFFIX,hub.fghtem.com
 DOMAIN-SUFFIX,hub.firestonecompleteautocare.com
 DOMAIN-SUFFIX,hub.hubfinancial.com
 DOMAIN-SUFFIX,hub.hubinternational.com
@@ -55697,6 +55696,7 @@ DOMAIN-SUFFIX,linksecurecd.com
 DOMAIN-SUFFIX,linkslot.ru
 DOMAIN-SUFFIX,linkslot99jp.com
 DOMAIN-SUFFIX,linksmart.com
+DOMAIN-SUFFIX,linksprf.com
 DOMAIN-SUFFIX,linkstation.de
 DOMAIN-SUFFIX,linkstorm.net
 DOMAIN-SUFFIX,linkt.ausfuellhilfe.com
@@ -104321,7 +104321,6 @@ DOMAIN-SUFFIX,unblock2303.xyz
 DOMAIN-SUFFIX,unblock2304.xyz
 DOMAIN-SUFFIX,unblockia.com
 DOMAIN-SUFFIX,unbloodied.sbs
-DOMAIN-SUFFIX,unbouncepages.com
 DOMAIN-SUFFIX,unbunearyan.com
 DOMAIN-SUFFIX,unbuttonfootprintssoftened.com
 DOMAIN-SUFFIX,uncalmgermane.top

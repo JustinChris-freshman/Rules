@@ -189,11 +189,11 @@ uczzd.cn
 ucweb.com
 uc123.com
 uc.cn
-teambitionapis.com
-teambition.net
-teambition.com
 elenet.me
 elemecdn.com
+elemecdn.cn
+eleme.io
+eleme.cn
 ddurl.to
 dingding.xin
 dingtalk.cn
@@ -202,6 +202,9 @@ dingtalk.net
 dingtalkapps.com
 laiwang.com
 lwurl.to
+teambition.com
+teambition.net
+teambitionapis.com
 a-map.cn
 a-map.co
 a-map.link
@@ -217,9 +220,6 @@ alicloud.com
 doservice.com
 ele.me
 ele.to
-eleme.cn
-eleme.io
-elemecdn.cn
 oss-cn-shanghai.aliyuncs.com
 oss-cn-guangzhou.aliyuncs.com
 oss-cn-shenzhen.aliyuncs.com

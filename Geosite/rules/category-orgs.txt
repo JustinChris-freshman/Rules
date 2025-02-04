@@ -21,6 +21,10 @@ un.org
 w3.org
 who.int
 wto.org
+f-dro1d.org
+f-droid.com
+f-droid.org
+fdroid.org
 ieee.org
 ieee.tv
 tryengineering.org
@@ -94,13 +98,6 @@ archive.today
 openlibrary.org
 4pcdn.org
 4plebs.org
-csis.org
-f-dro1d.org
-f-droid.com
-f-droid.org
-fdroid.org
-rolfoundation.org
-rolsociety.org
 ccstatic.org
 creativecommons.org
 creativecommons.engineering
@@ -109,4 +106,7 @@ emojipedia.org
 worldemojiawards.com
 worldemojiday.com
 xn--yt8h.la
+csis.org
 ppy.sh
+rolfoundation.org
+rolsociety.org

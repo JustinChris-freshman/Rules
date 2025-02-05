@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3143
+# 规则统计: 3145
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -709,6 +709,7 @@ HOST,cf.javfree.me,CDN
 HOST,cf.shopee.tw,CDN
 HOST,cfvod.kaltura.com,CDN
 HOST,chart.googleapis.com,CDN
+HOST,chat-content.beanfun.com,CDN
 HOST,checkout-sdk.bigcommerce.com,CDN
 HOST,checkout.stripe.com,CDN
 HOST,ci.testling.com,CDN
@@ -1322,6 +1323,7 @@ HOST,media.mas.to,CDN
 HOST,media.masto.nu,CDN
 HOST,media.mstdn.io,CDN
 HOST,media.nationwide.com,CDN
+HOST,media.nownews.com,CDN
 HOST,media.npr.org,CDN
 HOST,media.orz.uno,CDN
 HOST,media.owcnow.com,CDN

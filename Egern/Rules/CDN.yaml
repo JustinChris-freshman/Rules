@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3105
+# 规则统计: 3107
 
 domain_set:
   - 0x0.st
@@ -710,6 +710,7 @@ domain_set:
   - cf.shopee.tw
   - cfvod.kaltura.com
   - chart.googleapis.com
+  - chat-content.beanfun.com
   - checkout-sdk.bigcommerce.com
   - checkout.stripe.com
   - ci.testling.com
@@ -1323,6 +1324,7 @@ domain_set:
   - media.masto.nu
   - media.mstdn.io
   - media.nationwide.com
+  - media.nownews.com
   - media.npr.org
   - media.orz.uno
   - media.owcnow.com

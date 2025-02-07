@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 73486
+# 规则统计: 73489
 
 no_resolve: true
 domain_set:
@@ -21187,6 +21187,7 @@ domain_suffix_set:
   - e.channelexco.com
   - e.darpro-solutions.com
   - e.equipolatinodeahorro.com
+  - e.fomo.com
   - e.galeton.com
   - e.gettyimages.ae
   - e.gettyimages.co.jp
@@ -23449,6 +23450,7 @@ domain_suffix_set:
   - evt.houzz.com
   - evt.ilovepdf.com
   - evt.mxplay.com
+  - evts.ecocart.io
   - evtvwc.charbroil.com
   - evupmg.olehenriksen.com
   - evzhzppj5kel.com
@@ -31955,6 +31957,7 @@ domain_suffix_set:
   - ipxx.pro
   - ipyhf.icu
   - ipyjxs.chowsangsang.com
+  - iq.afterpay.com
   - iq.intellicyt.com
   - iq.sixaxisllc.com
   - iqaexc.mezlanwarehouse.com
@@ -34797,7 +34800,6 @@ domain_suffix_set:
   - links.qumu.com
   - links.riverview.org
   - links.voyeurweb.com
-  - linksprf.com
   - linkt.ausfuellhilfe.com
   - linktech.cn
   - linsaicki.net
@@ -43964,6 +43966,7 @@ domain_suffix_set:
   - nhqkbl.semilac.pl
   - nhthpn.glamira.fr
   - nhuovb.vpg.no
+  - nhz6q.cn
   - nhzodr.upperbag.com.br
   - nhzrlz.nieuwnieuw.com
   - ni8.lafuma-boutique.com

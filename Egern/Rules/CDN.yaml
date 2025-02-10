@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3117
+# 规则统计: 3113
 
 domain_set:
   - 0x0.st
@@ -558,7 +558,6 @@ domain_set:
   - cdn.search.brave.com
   - cdn.sedo.com
   - cdn.segment.com
-  - cdn.sellix.io
   - cdn.seondf.com
   - cdn.setapp.com
   - cdn.sheetjs.com
@@ -1002,7 +1001,6 @@ domain_set:
   - iframe.nbcnews.com
   - imag.malavida.com
   - image-forwarder.notaku.so
-  - image.4fuk.org
   - image.ap-mail.org
   - image.civitai.com
   - image.cnbcfm.com
@@ -2066,7 +2064,6 @@ domain_set:
   - unsubscribe-imgs.leavemealone.com
   - updates.signal.org
   - updates2.signal.org
-  - upload.filebase.com
   - upload.wikimedia.org
   - uploads.codesandbox.io
   - uploads.guim.co.uk
@@ -2843,7 +2840,6 @@ domain_suffix_set:
   - pxlecdn.com
   - pypi.org
   - pythonhosted.org
-  - pztv.ca
   - qooqlevideo.com
   - quay.io
   - quip-cdn.com

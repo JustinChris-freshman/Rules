@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3157
+# 规则统计: 3153
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -557,7 +557,6 @@ HOST,cdn.sciencecast.org,CDN
 HOST,cdn.search.brave.com,CDN
 HOST,cdn.sedo.com,CDN
 HOST,cdn.segment.com,CDN
-HOST,cdn.sellix.io,CDN
 HOST,cdn.seondf.com,CDN
 HOST,cdn.setapp.com,CDN
 HOST,cdn.sheetjs.com,CDN
@@ -1001,7 +1000,6 @@ HOST,icons.zeabur.com,CDN
 HOST,iframe.nbcnews.com,CDN
 HOST,imag.malavida.com,CDN
 HOST,image-forwarder.notaku.so,CDN
-HOST,image.4fuk.org,CDN
 HOST,image.ap-mail.org,CDN
 HOST,image.civitai.com,CDN
 HOST,image.cnbcfm.com,CDN
@@ -2065,7 +2063,6 @@ HOST,unlimited-cdn.waifu2x.net,CDN
 HOST,unsubscribe-imgs.leavemealone.com,CDN
 HOST,updates.signal.org,CDN
 HOST,updates2.signal.org,CDN
-HOST,upload.filebase.com,CDN
 HOST,upload.wikimedia.org,CDN
 HOST,uploads.codesandbox.io,CDN
 HOST,uploads.guim.co.uk,CDN
@@ -2841,7 +2838,6 @@ HOST-SUFFIX,pximg.net,CDN
 HOST-SUFFIX,pxlecdn.com,CDN
 HOST-SUFFIX,pypi.org,CDN
 HOST-SUFFIX,pythonhosted.org,CDN
-HOST-SUFFIX,pztv.ca,CDN
 HOST-SUFFIX,qooqlevideo.com,CDN
 HOST-SUFFIX,quay.io,CDN
 HOST-SUFFIX,quip-cdn.com,CDN

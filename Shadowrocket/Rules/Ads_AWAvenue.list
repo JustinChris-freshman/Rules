@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 753
+# 规则统计: 730
 
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,1500020991.vodplayer.wxamedia.com
@@ -692,31 +692,8 @@ DOMAIN-SUFFIX,volc.bj.ad.track.66mobi.com
 DOMAIN-SUFFIX,vungle.com
 DOMAIN-SUFFIX,w.l.qq.com
 DOMAIN-SUFFIX,w1.askwai.com
-DOMAIN-SUFFIX,w1.bskwai.com
-DOMAIN-SUFFIX,w1.cskwai.com
-DOMAIN-SUFFIX,w1.dskwai.com
-DOMAIN-SUFFIX,w1.eskwai.com
-DOMAIN-SUFFIX,w1.fskwai.com
 DOMAIN-SUFFIX,w1.gskwai.com
-DOMAIN-SUFFIX,w1.hskwai.com
-DOMAIN-SUFFIX,w1.iskwai.com
-DOMAIN-SUFFIX,w1.jskwai.com
 DOMAIN-SUFFIX,w1.kskwai.com
-DOMAIN-SUFFIX,w1.lskwai.com
-DOMAIN-SUFFIX,w1.mskwai.com
-DOMAIN-SUFFIX,w1.nskwai.com
-DOMAIN-SUFFIX,w1.oskwai.com
-DOMAIN-SUFFIX,w1.pskwai.com
-DOMAIN-SUFFIX,w1.qskwai.com
-DOMAIN-SUFFIX,w1.rskwai.com
-DOMAIN-SUFFIX,w1.sskwai.com
-DOMAIN-SUFFIX,w1.tskwai.com
-DOMAIN-SUFFIX,w1.uskwai.com
-DOMAIN-SUFFIX,w1.vskwai.com
-DOMAIN-SUFFIX,w1.wskwai.com
-DOMAIN-SUFFIX,w1.xskwai.com
-DOMAIN-SUFFIX,w1.yskwai.com
-DOMAIN-SUFFIX,w1.zskwai.com
 DOMAIN-SUFFIX,watson.microsoft.com
 DOMAIN-SUFFIX,watson.telemetry.microsoft.com
 DOMAIN-SUFFIX,wcp.taobao.com

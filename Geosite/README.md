@@ -81,6 +81,7 @@
 - [anandtech](rules/anandtech.txt)
 - [android](rules/android.txt)
 - [anime](rules/anime.txt)
+- [annas-archive](rules/annas-archive.txt)
 - [anon-v](rules/anon-v.txt)
 - [anthropic](rules/anthropic.txt)
 - [antutu](rules/antutu.txt)

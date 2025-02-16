@@ -912,6 +912,7 @@
 - [osdn](rules/osdn.txt)
 - [osu](rules/osu.txt)
 - [oup](rules/oup.txt)
+- [ozon](rules/ozon.txt)
 ## P
 - [pagecdn](rules/pagecdn.txt)
 - [panasonic](rules/panasonic.txt)

@@ -832,6 +832,7 @@
 - [musixmatch](rules/musixmatch.txt)
 - [muwai](rules/muwai.txt)
 - [mxplayer-ads](rules/mxplayer-ads.txt)
+- [mxroute](rules/mxroute.txt)
 - [mydirtyhobby](rules/mydirtyhobby.txt)
 - [myfonts](rules/myfonts.txt)
 - [myradio](rules/myradio.txt)

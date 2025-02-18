@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 771
+# 规则统计: 773
 
 domain_set:
   - acg.tv
@@ -514,6 +514,7 @@ domain_suffix_set:
   - news.cn
   - nga.cn
   - ngabbs.com
+  - nlark.com
   - nmc.cn
   - npmmirror.com
   - nubia.cn
@@ -755,6 +756,7 @@ domain_suffix_set:
   - yunpan.cn
   - yunpan.com
   - yupoo.com
+  - yuque.com
   - yximgs.com
   - yy.com
   - zdic.net

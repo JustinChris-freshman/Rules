@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 776
+# 规则统计: 778
 
 HOST,acg.tv,ChinaDomain
 HOST,assets1.xboxlive.cn,ChinaDomain
@@ -430,9 +430,11 @@ HOST-SUFFIX,kingsoft-office-service.com,ChinaDomain
 HOST-SUFFIX,kkmh.com,ChinaDomain
 HOST-SUFFIX,koubei.com,ChinaDomain
 HOST-SUFFIX,ks-cdn.com,ChinaDomain
+HOST-SUFFIX,ksapisrv.com,ChinaDomain
 HOST-SUFFIX,ksmobile.com,ChinaDomain
 HOST-SUFFIX,ksord.com,ChinaDomain
 HOST-SUFFIX,ksosoft.com,ChinaDomain
+HOST-SUFFIX,ksurl.cn,ChinaDomain
 HOST-SUFFIX,ksyun.com,ChinaDomain
 HOST-SUFFIX,ku6.com,ChinaDomain
 HOST-SUFFIX,kuaishou.com,ChinaDomain

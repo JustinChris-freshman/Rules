@@ -7,6 +7,7 @@
 - [17zuoye](rules/17zuoye.txt)
 - [18comic](rules/18comic.txt)
 ## 2
+- [2ch](rules/2ch.txt)
 - [2kgames](rules/2kgames.txt)
 ## 3
 - [36kr](rules/36kr.txt)

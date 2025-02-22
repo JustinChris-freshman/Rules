@@ -858,6 +858,7 @@
 - [newscorp](rules/newscorp.txt)
 - [newsmax](rules/newsmax.txt)
 - [nexitally](rules/nexitally.txt)
+- [nexo](rules/nexo.txt)
 - [nexon](rules/nexon.txt)
 - [nga](rules/nga.txt)
 - [nginx](rules/nginx.txt)

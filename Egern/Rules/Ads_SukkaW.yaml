@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 63550
+# 规则统计: 63586
 
 no_resolve: true
 domain_set:
@@ -1210,7 +1210,6 @@ domain_suffix_set:
   - 3dm.3dimensional.com
   - 3e0605983a.com
   - 3esm.consubebe.es
-  - 3f9476b86d.47f0db81c9.com
   - 3fd63d27b7.86c4c263c2.com
   - 3gl.net
   - 3j0pw4ed7uac-a.akamaihd.net
@@ -1267,6 +1266,7 @@ domain_suffix_set:
   - 47206262.xyz
   - 47235645.xyz
   - 47296536.xyz
+  - 47f0db81c9.com
   - 48654012.xyz
   - 487ed86ea3.com
   - 4885e2e6f7.com
@@ -1424,7 +1424,6 @@ domain_suffix_set:
   - 69799884.xyz
   - 69i.club
   - 69v.club
-  - 6b4d2fc61a.ba7dea6a05.com
   - 6cs.icu
   - 6d63d3.com
   - 6e6cd153a6.com
@@ -1638,6 +1637,7 @@ domain_suffix_set:
   - 9b5gjkrnw71r.it.themoneytizer.com
   - 9d6d1163fa.8c2012e141.com
   - 9d87b35397.com
+  - 9fe538916e.com
   - 9fum.ifeng.com
   - 9king888.cc
   - 9kkjfywjz50v.www.eventus.io
@@ -7902,6 +7902,7 @@ domain_suffix_set:
   - b99.yahoo.co.jp
   - b9c4jxz1xkrstc57.eyecarebeautytips.com
   - b9f26bbf80.com
+  - ba7dea6a05.com
   - ba9e239613.dd0254aae5.com
   - baahnj.bezokularow.pl
   - bablace.com
@@ -9092,6 +9093,7 @@ domain_suffix_set:
   - brightlybore.com
   - brightonclick.com
   - brightscarletclo.com
+  - brilliantclosingcancel.com
   - brilliantoverhaulunshaken.com
   - bringthrust.com
   - brircel.com
@@ -11322,6 +11324,7 @@ domain_suffix_set:
   - concedederaserskyline.com
   - conceitsiryearling.com
   - conceivesaucerfalcon.com
+  - concernedwealth.pro
   - concerningblasphemerollback.com
   - concernrest.com
   - concertads-configs.vox-cdn.com
@@ -16548,6 +16551,7 @@ domain_suffix_set:
   - dead-put.com
   - deadmentionsunday.com
   - deafeningphone.com
+  - deafmotionrick.com
   - dealercontent.homehardware.ca
   - dealerrelations.cargurus.com
   - dealersuccess.drivedominion.com
@@ -16887,6 +16891,7 @@ domain_suffix_set:
   - dian.brecm.xyz
   - dianassb.com
   - dianilinfant.top
+  - diav.cn
   - diboji.class101.net
   - dibsemey.com
   - dibtk.medtronic.com
@@ -17298,6 +17303,7 @@ domain_suffix_set:
   - dnxcok.pentik.com
   - dnxlgencstz4.cloudfront.net
   - do-not-tracker.org
+  - do0digwedphcm.cloudfront.net
   - do6256x8ae75.cloudfront.net
   - do69ll745l27z.cloudfront.net
   - doabqu.s3.com.tw
@@ -17671,6 +17677,7 @@ domain_suffix_set:
   - duamilsyr.com
   - dubzenom.com
   - duce.parc-consulting.com
+  - duckingcodeias.shop
   - ducksintroduce.com
   - duclick.baidu.com
   - ductalidyls.shop
@@ -19409,6 +19416,7 @@ domain_suffix_set:
   - erovcq.bibloo.hu
   - erqtga.xyz
   - err.ifengcloud.ifeng.com
+  - erranddealing.com
   - error-tracking.reddit.com
   - error.videonow.ru
   - errors.darkreader.app
@@ -21245,6 +21253,7 @@ domain_suffix_set:
   - fuicmy.hana-mail.jp
   - fujifilmdb.fujifilmdiosynth.com
   - fujnrh.xyz
+  - fujukograhoard.net
   - fuksaighetchy.net
   - fulfilledappease.com
   - fulheaddedfea.com
@@ -21464,6 +21473,7 @@ domain_suffix_set:
   - galeaeevovae.com
   - galepush.net
   - galffguslcxvk.com
+  - gallousdepthen.com
   - galop.leferacheval-saintcloud.com
   - galopelikeantelope.com
   - gamaibids.com
@@ -21516,6 +21526,7 @@ domain_suffix_set:
   - garvum.julesb.co.uk
   - gas-sensing.spec-sensors.com
   - gastdn.wolfandbadger.com
+  - gastphonol.top
   - gatetocontent.com
   - gatetodisplaycontent.com
   - gatetotrustednetwork.com
@@ -21583,6 +21594,7 @@ domain_suffix_set:
   - gcm.ksmobile.net
   - gcn.tuv.com
   - gcoiys.cutsclothing.com
+  - gcolzvkh.com
   - gcomwx.icu
   - gcowhi.thesalarycalculator.co.uk
   - gcprivacy.com
@@ -22037,6 +22049,7 @@ domain_suffix_set:
   - gld.samsungosp.com
   - gldkzr-lpqw.buzz
   - gldrdr.com
+  - gleamexcitenational.com
   - gleaminsist.com
   - gleeglis.net
   - glempirteechacm.com
@@ -23984,6 +23997,7 @@ domain_suffix_set:
   - hdmory.bestwestern.it
   - hdmtools.com
   - hdnagl.womensecret.com
+  - hdoditwa.xyz
   - hdomsiu.top
   - hdoshbu.top
   - hdqbac.voetbalshirtskoning.nl
@@ -25213,6 +25227,7 @@ domain_suffix_set:
   - ikdxfh.jollyroom.se
   - ikghqz.online-marks.com
   - ikgnzv.dreamsofa.com
+  - ikjvlrqrjst.com
   - ikneio.aquantindia.com
   - ikonmeros.com
   - ikooqmunrveuve.com
@@ -27094,6 +27109,7 @@ domain_suffix_set:
   - invite.leanlab.co
   - invited.louwmanexclusive.nl
   - invitejs.trustpilot.com
+  - invitingpace.com
   - invle.co
   - invol.co
   - inworket.com
@@ -27322,6 +27338,7 @@ domain_suffix_set:
   - itdsmr.com
   - itelmesplanted.shop
   - itemolgaer.com
+  - itenalif.shop
   - itespurrom.com
   - itewid.topp-kreativ.de
   - iteye.com
@@ -27957,6 +27974,7 @@ domain_suffix_set:
   - jpg1.oss-cn-beijing.aliyuncs.com
   - jpgqfl.thezaol.com
   - jphcie.thelittlegreenbag.de
+  - jphvuphqzgyak.icu
   - jpjkhj.daviddanjewelry.com
   - jpjwir.annexx.com
   - jpluzr.autoc-one.jp
@@ -28545,6 +28563,7 @@ domain_suffix_set:
   - kiotome.stockaded.uno
   - kipayt.quehoteles.com
   - kipnjjwvulmy.fun
+  - kiqqxuwxgboqm.icu
   - kiqwal.autoscout24.es
   - kiqwil.l-m.co.jp
   - kirhtq.anicom-sompo.co.jp
@@ -29622,7 +29641,6 @@ domain_suffix_set:
   - links.qumu.com
   - links.riverview.org
   - links.voyeurweb.com
-  - linksprf.com
   - linkt.ausfuellhilfe.com
   - linktech.cn
   - linsaicki.net
@@ -29706,6 +29724,7 @@ domain_suffix_set:
   - lkgsvg.pranahaus.de
   - lkhrtf.beveragefactory.com
   - lkiterl.top
+  - lkixinoql.com
   - lkj23jlkajsa.realestate.help
   - lkjpoisjnil.site
   - lkluoz.saraceniwines.com
@@ -38750,6 +38769,7 @@ domain_suffix_set:
   - olhqou.realsimple.com
   - olivedinflats.space
   - oliver.pub
+  - olkdzarkuk.com
   - olkhtegk.com
   - olklgn.jh-profishop.de
   - olkoins.com
@@ -40855,9 +40875,11 @@ domain_suffix_set:
   - phicmune.net
   - phidianowlet.com
   - phinnk.airtrip.jp
+  - phirussacmush.net
   - phitchoord.com
   - phiwheegnis.xyz
   - phixls.uaubox.com.br
+  - phizogsvarajs.com
   - phjtxx.xyz
   - phk.nmkstcrt.xyz
   - phkhcp.luminaire.fr
@@ -40909,6 +40931,7 @@ domain_suffix_set:
   - phvylw.beurer-shop.de
   - phxdrf.icu
   - phygfasvnnjrg.life
+  - physidstert.shop
   - phywifupta.com
   - pi.ispot.tv
   - piano_log.kingsoft.jp
@@ -41366,6 +41389,7 @@ domain_suffix_set:
   - pofmnj.xyz
   - poghaurs.com
   - pogimpfufg.com
+  - pogorente.top
   - pogothere.xyz
   - pogrji.handle-marche.com
   - poguia.estudiahosteleria.com
@@ -41519,6 +41543,7 @@ domain_suffix_set:
   - powerfulcopper.com
   - powerfulcreaturechristian.com
   - powerlinks.com
+  - powerplentyseaman.com
   - powerrobotflower.com
   - powerup.rsaworks.com
   - poxdpj.xyz
@@ -41977,6 +42002,7 @@ domain_suffix_set:
   - pseexauboorsu.com
   - psegeevalrat.net
   - pseleexotouben.net
+  - psendlindo.com
   - psergete.com
   - psfcnf.ochsnersport.ch
   - pshmetrk.com
@@ -47192,6 +47218,7 @@ domain_suffix_set:
   - smuc.cnnfootballclub.com
   - smucityperspectives.smu.edu.sg
   - smuengage.smu.edu.sg
+  - smugchocho.shop
   - smugismanaxon.com
   - smugiving.smu.edu.sg
   - smumst.smu.edu.sg
@@ -51060,6 +51087,7 @@ domain_suffix_set:
   - streetuptowind.com
   - streetupwind.com
   - streitmackled.com
+  - strekepetrols.com
   - strelgrell.com
   - stremanp.com
   - strenots.com
@@ -53638,6 +53666,7 @@ domain_suffix_set:
   - tiktok.tray.com.br
   - tilesmuzarab.com
   - tilhyw.lampen24.nl
+  - tilingsfp.top
   - tilt.bankofamerica.com
   - tiltgardenheadlight.com
   - tilttrk.com
@@ -54118,6 +54147,7 @@ domain_suffix_set:
   - topvpn.io
   - toreddorize.com
   - torejogging.com
+  - torekareau.com
   - torhydona.com
   - torioluor.com
   - torkeauwu.com
@@ -58397,6 +58427,7 @@ domain_suffix_set:
   - txtspjaorddrjqq.com
   - txupuq.unyleya.edu.br
   - txv0.destinia.hu
+  - txvwbshxnsyf.com
   - txzaazmdhtw.com
   - txzaza.sputnicks.jp
   - tyaduqq.icu
@@ -58575,6 +58606,7 @@ domain_suffix_set:
   - ucavu.live
   - ucdvze.gudrunsjoden.com
   - ucgpcx.goodsvine.com
+  - uchadmiredindeedeis.org
   - uclgnz.lunabazaar.com
   - uclimit.top
   - ucmahi.lectiva.com
@@ -58771,6 +58803,7 @@ domain_suffix_set:
   - ukankingwithea.com
   - ukaxwr.leastedisoha.com
   - ukaytg.cortefiel.com
+  - ukconomouswom.org
   - ukedrevenue.com
   - ukgfxw.satofull.jp
   - ukitert.top
@@ -60969,6 +61002,7 @@ domain_suffix_set:
   - whopo.gogylok.uno
   - whoppercreaky.com
   - whotsirs.net
+  - whoucheehy.net
   - whoulikaihe.net
   - whounaiphie.net
   - whouphesaussums.net
@@ -61122,6 +61156,7 @@ domain_suffix_set:
   - wljxga.bogsfootwear.ca
   - wlkojk.orange.ro
   - wlkukrv.icu
+  - wllebozbzjybk.top
   - wlmwkz.adrop.sk
   - wlog.ifdo.co.kr
   - wlog.kuaishou.com
@@ -62527,6 +62562,7 @@ domain_suffix_set:
   - yjwxegq.icu
   - yjxssk.apartments.com
   - ykad-data.youku.com
+  - ykbydhzg.com
   - ykcsldm.icu
   - ykdium.profishop.nl
   - ykfrpx.kapten-son.com

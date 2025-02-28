@@ -57,8 +57,6 @@ xiaoluzhidian.com
 xjietiao.com
 youhua.com
 yunpan.cn
-75.team
-75team.com
 theworld.cn
 360pay.cn
 360-api.cn
@@ -81,6 +79,8 @@ wowsgame.cn
 woxihuan.com
 wztsy.cn
 wztsy.com
+75.team
+75team.com
 haosou.com.cn
 worldoftanks.com.cn
 fenxi.com

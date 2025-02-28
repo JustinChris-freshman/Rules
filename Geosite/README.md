@@ -1216,6 +1216,7 @@
 - [truyen-hentai](rules/truyen-hentai.txt)
 - [tsquare](rules/tsquare.txt)
 - [tube8](rules/tube8.txt)
+- [tubi](rules/tubi.txt)
 - [tumblr](rules/tumblr.txt)
 - [tutanota](rules/tutanota.txt)
 - [tvb](rules/tvb.txt)

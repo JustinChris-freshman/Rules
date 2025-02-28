@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3252
+# 规则统计: 3253
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2740,6 +2740,7 @@ HOST-SUFFIX,jw-cdn.org,CDN
 HOST-SUFFIX,jwpcdn.com,CDN
 HOST-SUFFIX,jwpsrv.com,CDN
 HOST-SUFFIX,k8s.io,CDN
+HOST-SUFFIX,kakaocdn.net,CDN
 HOST-SUFFIX,kc-usercontent.com,CDN
 HOST-SUFFIX,kinja-img.com,CDN
 HOST-SUFFIX,kinja-static.com,CDN

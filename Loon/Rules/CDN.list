@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3252
+# 规则统计: 3253
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -2740,6 +2740,7 @@ DOMAIN-SUFFIX,jw-cdn.org
 DOMAIN-SUFFIX,jwpcdn.com
 DOMAIN-SUFFIX,jwpsrv.com
 DOMAIN-SUFFIX,k8s.io
+DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,kc-usercontent.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-SUFFIX,kinja-static.com

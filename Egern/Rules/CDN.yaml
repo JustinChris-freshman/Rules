@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3252
+# 规则统计: 3253
 
 domain_set:
   - 0x0.st
@@ -2742,6 +2742,7 @@ domain_suffix_set:
   - jwpcdn.com
   - jwpsrv.com
   - k8s.io
+  - kakaocdn.net
   - kc-usercontent.com
   - kinja-img.com
   - kinja-static.com

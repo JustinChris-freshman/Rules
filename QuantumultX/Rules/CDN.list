@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3258
+# 规则统计: 3259
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -2130,6 +2130,7 @@ HOST,ubistatic-a.ubisoft.com,CDN
 HOST,ubistatic2-a.akamaihd.net,CDN
 HOST,ubistatic2-a.ubisoft.com,CDN
 HOST,udata.namespace.so,CDN
+HOST,uhf.microsoft.com,CDN
 HOST,ui-cdn.digitalocean.com,CDN
 HOST,ui.contentstack.com,CDN
 HOST,ui.trailhead.com,CDN

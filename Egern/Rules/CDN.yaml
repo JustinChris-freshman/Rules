@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3258
+# 规则统计: 3259
 
 domain_set:
   - 0x0.st
@@ -2131,6 +2131,7 @@ domain_set:
   - ubistatic2-a.akamaihd.net
   - ubistatic2-a.ubisoft.com
   - udata.namespace.so
+  - uhf.microsoft.com
   - ui-cdn.digitalocean.com
   - ui.contentstack.com
   - ui.trailhead.com

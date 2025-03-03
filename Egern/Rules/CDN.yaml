@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3260
+# 规则统计: 3264
 
 domain_set:
   - 0x0.st
@@ -556,6 +556,7 @@ domain_set:
   - cdn.privacy.paramount.com
   - cdn.prod.ext.web.purview.azure.com
   - cdn.prod.www.spiegel.de
+  - cdn.promotekit.com
   - cdn.prowritingaid.com
   - cdn.quadpay.com
   - cdn.quickemailverification.com
@@ -1839,6 +1840,7 @@ domain_set:
   - static-sv.fc2.com
   - static-web-prod.skillshare.com
   - static-web.grammarly.com
+  - static-www.onlyoffice.com
   - static.4shared.com
   - static.ada.support
   - static.addtoany.com
@@ -2219,6 +2221,7 @@ domain_set:
   - webfonts.zoho.com
   - webp.frostming.com
   - website-cdn.ipinfo.io
+  - website-prod.cache.wpscdn.com
   - webstatic.chargebee.com
   - widget.docsbot.ai
   - widget.freshworks.com
@@ -2490,6 +2493,7 @@ domain_suffix_set:
   - dwcdn.net
   - dweb.eu.org
   - dweb.link
+  - dynamic-static-assets.com
   - e.crashlytics.com
   - easylist.to
   - ebayimg.com

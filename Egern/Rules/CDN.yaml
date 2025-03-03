@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3264
+# 规则统计: 3266
 
 domain_set:
   - 0x0.st
@@ -744,6 +744,7 @@ domain_set:
   - cfvod.kaltura.com
   - chart.googleapis.com
   - chat-content.beanfun.com
+  - chatwidgetmetrics-proxy.usepylon.com
   - checkout-sdk.bigcommerce.com
   - checkout.stripe.com
   - ci.testling.com
@@ -2891,6 +2892,7 @@ domain_suffix_set:
   - photobucket.com
   - phprcdn.com
   - pichost.top
+  - picjs.xyz
   - picsum.photos
   - pimg.tw
   - pinimg.com

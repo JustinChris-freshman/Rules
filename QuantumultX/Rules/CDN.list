@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3264
+# 规则统计: 3266
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -743,6 +743,7 @@ HOST,cf.shopee.tw,CDN
 HOST,cfvod.kaltura.com,CDN
 HOST,chart.googleapis.com,CDN
 HOST,chat-content.beanfun.com,CDN
+HOST,chatwidgetmetrics-proxy.usepylon.com,CDN
 HOST,checkout-sdk.bigcommerce.com,CDN
 HOST,checkout.stripe.com,CDN
 HOST,ci.testling.com,CDN
@@ -2889,6 +2890,7 @@ HOST-SUFFIX,phncdn.com,CDN
 HOST-SUFFIX,photobucket.com,CDN
 HOST-SUFFIX,phprcdn.com,CDN
 HOST-SUFFIX,pichost.top,CDN
+HOST-SUFFIX,picjs.xyz,CDN
 HOST-SUFFIX,picsum.photos,CDN
 HOST-SUFFIX,pimg.tw,CDN
 HOST-SUFFIX,pinimg.com,CDN

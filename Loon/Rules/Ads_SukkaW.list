@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 64237
+# 规则统计: 64241
 
 DOMAIN,2016.sina.cn
 DOMAIN,9ibbcq2d.sina.cn
@@ -3704,6 +3704,7 @@ DOMAIN-SUFFIX,ads1.msn.com
 DOMAIN-SUFFIX,ads2.hsoub.com
 DOMAIN-SUFFIX,ads2.videy.co
 DOMAIN-SUFFIX,ads2550.bid
+DOMAIN-SUFFIX,ads2native.com
 DOMAIN-SUFFIX,ads3-adnow.com
 DOMAIN-SUFFIX,ads3.videy.co
 DOMAIN-SUFFIX,ads4g.pl
@@ -16905,6 +16906,7 @@ DOMAIN-SUFFIX,didspack.com
 DOMAIN-SUFFIX,didzrr.nutraholic.com
 DOMAIN-SUFFIX,dieadi.com
 DOMAIN-SUFFIX,diendh.xyz
+DOMAIN-SUFFIX,dietythraves.top
 DOMAIN-SUFFIX,differentevidence.com
 DOMAIN-SUFFIX,difficultyanthonymode.com
 DOMAIN-SUFFIX,diffusedpassionquaking.com
@@ -59006,6 +59008,7 @@ DOMAIN-SUFFIX,tv.totaljobs.com
 DOMAIN-SUFFIX,tvaniz.tooles.pl
 DOMAIN-SUFFIX,tvbafy.phoneppu.com
 DOMAIN-SUFFIX,tvcoag.brw.pl
+DOMAIN-SUFFIX,tver-metrics.streaks.jp
 DOMAIN-SUFFIX,tveta.naver.net
 DOMAIN-SUFFIX,tvgkatu.icu
 DOMAIN-SUFFIX,tvkfms.nta.co.jp
@@ -60740,6 +60743,7 @@ DOMAIN-SUFFIX,vwresv.homepro.jp
 DOMAIN-SUFFIX,vwrgru.happymail.co.jp
 DOMAIN-SUFFIX,vwthgw.elari.net
 DOMAIN-SUFFIX,vwvatp.xyz
+DOMAIN-SUFFIX,vwvj.cn
 DOMAIN-SUFFIX,vwwoec.thahab.com
 DOMAIN-SUFFIX,vxcjoz.nextadvisor.com
 DOMAIN-SUFFIX,vxcsbi.northshorecare.com

@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 64237
+# 规则统计: 64241
 
 no_resolve: true
 domain_set:
@@ -3707,6 +3707,7 @@ domain_suffix_set:
   - ads2.hsoub.com
   - ads2.videy.co
   - ads2550.bid
+  - ads2native.com
   - ads3-adnow.com
   - ads3.videy.co
   - ads4g.pl
@@ -16908,6 +16909,7 @@ domain_suffix_set:
   - didzrr.nutraholic.com
   - dieadi.com
   - diendh.xyz
+  - dietythraves.top
   - differentevidence.com
   - difficultyanthonymode.com
   - diffusedpassionquaking.com
@@ -59009,6 +59011,7 @@ domain_suffix_set:
   - tvaniz.tooles.pl
   - tvbafy.phoneppu.com
   - tvcoag.brw.pl
+  - tver-metrics.streaks.jp
   - tveta.naver.net
   - tvgkatu.icu
   - tvkfms.nta.co.jp
@@ -60743,6 +60746,7 @@ domain_suffix_set:
   - vwrgru.happymail.co.jp
   - vwthgw.elari.net
   - vwvatp.xyz
+  - vwvj.cn
   - vwwoec.thahab.com
   - vxcjoz.nextadvisor.com
   - vxcsbi.northshorecare.com

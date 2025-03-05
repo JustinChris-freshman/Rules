@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 64237
+# 规则统计: 64241
 
 HOST,2016.sina.cn,Ads_SukkaW
 HOST,9ibbcq2d.sina.cn,Ads_SukkaW
@@ -3704,6 +3704,7 @@ HOST-SUFFIX,ads1.msn.com,Ads_SukkaW
 HOST-SUFFIX,ads2.hsoub.com,Ads_SukkaW
 HOST-SUFFIX,ads2.videy.co,Ads_SukkaW
 HOST-SUFFIX,ads2550.bid,Ads_SukkaW
+HOST-SUFFIX,ads2native.com,Ads_SukkaW
 HOST-SUFFIX,ads3-adnow.com,Ads_SukkaW
 HOST-SUFFIX,ads3.videy.co,Ads_SukkaW
 HOST-SUFFIX,ads4g.pl,Ads_SukkaW
@@ -16905,6 +16906,7 @@ HOST-SUFFIX,didspack.com,Ads_SukkaW
 HOST-SUFFIX,didzrr.nutraholic.com,Ads_SukkaW
 HOST-SUFFIX,dieadi.com,Ads_SukkaW
 HOST-SUFFIX,diendh.xyz,Ads_SukkaW
+HOST-SUFFIX,dietythraves.top,Ads_SukkaW
 HOST-SUFFIX,differentevidence.com,Ads_SukkaW
 HOST-SUFFIX,difficultyanthonymode.com,Ads_SukkaW
 HOST-SUFFIX,diffusedpassionquaking.com,Ads_SukkaW
@@ -59006,6 +59008,7 @@ HOST-SUFFIX,tv.totaljobs.com,Ads_SukkaW
 HOST-SUFFIX,tvaniz.tooles.pl,Ads_SukkaW
 HOST-SUFFIX,tvbafy.phoneppu.com,Ads_SukkaW
 HOST-SUFFIX,tvcoag.brw.pl,Ads_SukkaW
+HOST-SUFFIX,tver-metrics.streaks.jp,Ads_SukkaW
 HOST-SUFFIX,tveta.naver.net,Ads_SukkaW
 HOST-SUFFIX,tvgkatu.icu,Ads_SukkaW
 HOST-SUFFIX,tvkfms.nta.co.jp,Ads_SukkaW
@@ -60740,6 +60743,7 @@ HOST-SUFFIX,vwresv.homepro.jp,Ads_SukkaW
 HOST-SUFFIX,vwrgru.happymail.co.jp,Ads_SukkaW
 HOST-SUFFIX,vwthgw.elari.net,Ads_SukkaW
 HOST-SUFFIX,vwvatp.xyz,Ads_SukkaW
+HOST-SUFFIX,vwvj.cn,Ads_SukkaW
 HOST-SUFFIX,vwwoec.thahab.com,Ads_SukkaW
 HOST-SUFFIX,vxcjoz.nextadvisor.com,Ads_SukkaW
 HOST-SUFFIX,vxcsbi.northshorecare.com,Ads_SukkaW

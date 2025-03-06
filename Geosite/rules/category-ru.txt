@@ -3,6 +3,7 @@ su
 xn--p1ai
 yandex
 psk
+userapi.com
 vk-apps.com
 vk-cdn.me
 vk-cdn.net
@@ -42,7 +43,7 @@ yandex.de
 yandex.ee
 yandex.eu
 yandex.aero
-yandex.kg
+yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
@@ -53,8 +54,7 @@ yandex.sx
 mycdn.me
 emias.info
 mvk.com
-userapi.com
-yandex.kz
+yandex.kg
 yandex.com.tr
 yandex.com.ua
 yandex.com.ge

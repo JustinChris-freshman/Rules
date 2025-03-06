@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 64261
+# 规则统计: 64262
 
 DOMAIN,2016.sina.cn
 DOMAIN,9ibbcq2d.sina.cn
@@ -22031,6 +22031,7 @@ DOMAIN-SUFFIX,gjgyxk.ischgl.com
 DOMAIN-SUFFIX,gjhjjhgc.cn
 DOMAIN-SUFFIX,gjhpwp.skychang.kr
 DOMAIN-SUFFIX,gjigle.com
+DOMAIN-SUFFIX,gjinuqg.top
 DOMAIN-SUFFIX,gjjskhdnm.top
 DOMAIN-SUFFIX,gjjtey.mystylebags.it
 DOMAIN-SUFFIX,gjkkdashb4.fun

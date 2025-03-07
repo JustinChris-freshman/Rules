@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3284
+# 规则统计: 3285
 
 domain_set:
   - 0x0.st
@@ -815,6 +815,7 @@ domain_set:
   - crl.verisign.com
   - crt.comodoca.com
   - crt.usertrust.com
+  - csp.microsoft.com
   - css-1-cdn.airdroid.com
   - css.blackmagicdesign.com
   - css.createsend1.com

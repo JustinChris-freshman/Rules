@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3282
+# 规则统计: 3283
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -814,6 +814,7 @@ DOMAIN,crl.usertrust.com
 DOMAIN,crl.verisign.com
 DOMAIN,crt.comodoca.com
 DOMAIN,crt.usertrust.com
+DOMAIN,csp.microsoft.com
 DOMAIN,css-1-cdn.airdroid.com
 DOMAIN,css.blackmagicdesign.com
 DOMAIN,css.createsend1.com

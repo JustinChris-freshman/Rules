@@ -450,7 +450,7 @@ jobs:
                   | grep -v 'sukkaw' \
                   | sed -E 's/^(DOMAIN(-SUFFIX)?,)//' \
                   | sed "s|\$| = ${server}|"
-                && echo ""
+                echo ""
               else
                 echo "$line"
               fi

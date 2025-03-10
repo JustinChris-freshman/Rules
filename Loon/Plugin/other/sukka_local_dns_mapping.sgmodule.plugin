@@ -327,4 +327,4 @@ localdomain = server:system
 home.arpa = server:system
 lan = server:system
 
-cdn.jsdelivr.net = server:system
+cdn.jsdelivr.net = cdn.jsdelivr.net.cdn.cloudflare.net

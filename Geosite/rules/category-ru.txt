@@ -1,8 +1,11 @@
 ru
 su
 xn--p1ai
-yandex
 psk
+yandex
+emias.info
+mycdn.me
+mvk.com
 userapi.com
 vk-apps.com
 vk-cdn.me
@@ -43,6 +46,7 @@ yandex.de
 yandex.ee
 yandex.eu
 yandex.aero
+yandex.kg
 yandex.kz
 yandex.lt
 yandex.lv
@@ -51,12 +55,8 @@ yandex.net
 yandex.jobs
 yandex.st
 yandex.sx
-mycdn.me
-emias.info
-mvk.com
-yandex.kg
-yandex.com.tr
 yandex.com.ua
+yandex.com.tr
 yandex.com.ge
 yandex.com.am
 yandex.co.il

@@ -427,7 +427,7 @@ jobs:
         for file in *.plugin; do
           if [ "$file" = "sukka_local_dns_mapping.sgmodule.plugin" ]; then
             # 把 = 后面的内容替换为 server:system（排除以 # 开头和已包含 server: 的行）
-            sed -i '/^#/! { /server:/! s/=.*/= server:system/ }' "$file"
+            sed -i '/^#/! { /server:/! { /,/ s/=.*/= server:system/ } }' "$file"
             # 在 #!desc 行之后插入 homepage、icon 和 author 信息
             sed -i '/^#!desc=Last Updated:/a#!homepage=https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule\n#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png\n#!author=Sukka' "$file"
             
@@ -449,8 +449,8 @@ jobs:
                   | grep -E '^(DOMAIN|DOMAIN-SUFFIX)' \
                   | grep -v 'sukkaw' \
                   | sed -E 's/^(DOMAIN(-SUFFIX)?,)//' \
-                  | sed "s|\$| = ${server}|" \
-                  && echo ""
+                  | sed "s|\$| = ${server}|"
+                && echo ""
               else
                 echo "$line"
               fi

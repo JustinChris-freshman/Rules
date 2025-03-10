@@ -447,8 +447,10 @@ jobs:
                 # 然后在每一行末尾追加服务器参数
                 echo "$remote_content" \
                   | grep -E '^(DOMAIN|DOMAIN-SUFFIX)' \
+                  | grep -v 'sukkaw' \
                   | sed -E 's/^(DOMAIN(-SUFFIX)?,)//' \
-                  | sed "s|\$| = ${server}|"
+                  | sed "s|\$| = ${server}|" \
+                  && echo ""
               else
                 echo "$line"
               fi

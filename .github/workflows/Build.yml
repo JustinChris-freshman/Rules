@@ -448,7 +448,7 @@ jobs:
                 echo "$remote_content" \
                   | grep -E '^(DOMAIN|DOMAIN-SUFFIX)' \
                   | grep -v 'sukkaw' \
-                  | sed -E 's/^(DOMAIN(-SUFFIX)?,)//' \
+                  | sed -E 's/^DOMAIN-SUFFIX,/*./; s/^DOMAIN,//' \
                   | sed "s|\$| = ${server}|"
                 echo ""
               else

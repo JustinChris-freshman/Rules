@@ -426,12 +426,34 @@ jobs:
         cd Tool-repo/Loon/Plugin/other
         for file in *.plugin; do
           if [ "$file" = "sukka_local_dns_mapping.sgmodule.plugin" ]; then
-            # 只保留第一个 IP
-            # sed -i '/server:/!s/=\([^,]*\),.*/=\1/' "$file"
-            # 把=后面换成 server:system
+            # 把 = 后面的内容替换为 server:system（排除以 # 开头和已包含 server: 的行）
             sed -i '/^#/! { /server:/! s/=.*/= server:system/ }' "$file"
-            # 在#!desc行之后插入两行
+            # 在 #!desc 行之后插入 homepage、icon 和 author 信息
             sed -i '/^#!desc=Last Updated:/a#!homepage=https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule\n#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png\n#!author=Sukka' "$file"
+            
+            # 对 RULE-SET 远程链接进行处理，替换成多行规则：
+            # 每一行 RULE-SET:URL = server:xxx 将被替换为：
+            # 远程文件中以 DOMAIN 或 DOMAIN-SUFFIX 开头的所有条目（删除前缀后），每行追加 " = server:xxx"
+            temp_file=$(mktemp)
+            while IFS= read -r line || [ -n "$line" ]; do
+              if echo "$line" | grep -q '^RULE-SET:'; then
+                # 提取 URL（RULE-SET: 与空格之间的部分）
+                url=$(echo "$line" | sed -n 's/^RULE-SET:\([^ ]*\) =.*/\1/p')
+                # 提取等号右侧的服务器参数
+                server=$(echo "$line" | sed -n 's/.*= *\(.*\)/\1/p')
+                # 下载远程文件内容
+                remote_content=$(curl -sL "$url")
+                # 提取以 DOMAIN 或 DOMAIN-SUFFIX 开头的行，并去掉前缀部分（删除 "DOMAIN," 或 "DOMAIN-SUFFIX,"）
+                # 然后在每一行末尾追加服务器参数
+                echo "$remote_content" \
+                  | grep -E '^(DOMAIN|DOMAIN-SUFFIX)' \
+                  | sed -E 's/^(DOMAIN(-SUFFIX)?,)//' \
+                  | sed "s/\$/ = ${server}/"
+              else
+                echo "$line"
+              fi
+            done < "$file" > "$temp_file"
+            mv "$temp_file" "$file"
           fi
         done
 

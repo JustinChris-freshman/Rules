@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3289
+# 规则统计: 3298
 
 domain_set:
   - 0x0.st
@@ -1322,6 +1322,7 @@ domain_set:
   - libraries.hund.io
   - libs.quillbot.com
   - lift-ai-js.marketlinc.com
+  - limitless.cmax.ai
   - link.storjshare.io
   - linkstorage.linkfire.com
   - linuxiac.b-cdn.net
@@ -1448,6 +1449,7 @@ domain_set:
   - mosaic.fxtwitter.com
   - mparticle.weather.com
   - mstdn-s3.o3o.studio
+  - mta.newfold.com
   - mui.com
   - mwcm.nyt.com
   - mwf-service.akamaized.net
@@ -1461,6 +1463,7 @@ domain_set:
   - net-fe-static-assets.network-controller.svc.ui.com
   - netlify.apollo.io
   - newassets.hcaptcha.com
+  - newfold.scene7.com
   - news-assets.apple.com
   - newsletter.postmarkapp.com
   - next-images.opencollective.com
@@ -1876,6 +1879,7 @@ domain_set:
   - static.bitfinex.com
   - static.bravoporn.com
   - static.buffer.com
+  - static.buydomains.com
   - static.bytepan.com
   - static.canva.com
   - static.captcha-delivery.com
@@ -1991,6 +1995,7 @@ domain_set:
   - static.queue-it.net
   - static.rakuten.com
   - static.redhat.com
+  - static.registration.bluehost.com
   - static.reo.dev
   - static.replay.io
   - static.rust-lang.org
@@ -2064,6 +2069,8 @@ domain_set:
   - stats.setapp.com
   - stats.setapp.macpaw.dev
   - status.ui.com
+  - stbff.newfold.com
+  - stbff.scene7.com
   - steamcdn-a.akamaihd.net
   - steamusercontent-a.akamaihd.net
   - steamuserimages-a.akamaihd.net
@@ -2506,6 +2513,7 @@ domain_suffix_set:
   - doppiocdn.live
   - doppiocdn.net
   - doppiocdn.org
+  - dreamscape.cloud
   - drivecdn.com
   - dropboxstatic.com
   - dsc.cloud
@@ -2787,6 +2795,7 @@ domain_suffix_set:
   - lbpicpic.com
   - lbpictupian.com
   - lencr.org
+  - li-cdn.com
   - liangzipic.com
   - licensebuttons.net
   - line-cdn.net

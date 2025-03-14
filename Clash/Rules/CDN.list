@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3287
+# 规则统计: 3296
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -1321,6 +1321,7 @@ DOMAIN,lib.arvancloud.ir
 DOMAIN,libraries.hund.io
 DOMAIN,libs.quillbot.com
 DOMAIN,lift-ai-js.marketlinc.com
+DOMAIN,limitless.cmax.ai
 DOMAIN,link.storjshare.io
 DOMAIN,linkstorage.linkfire.com
 DOMAIN,linuxiac.b-cdn.net
@@ -1447,6 +1448,7 @@ DOMAIN,mosaic-blender.fxtwitter.com
 DOMAIN,mosaic.fxtwitter.com
 DOMAIN,mparticle.weather.com
 DOMAIN,mstdn-s3.o3o.studio
+DOMAIN,mta.newfold.com
 DOMAIN,mui.com
 DOMAIN,mwcm.nyt.com
 DOMAIN,mwf-service.akamaized.net
@@ -1460,6 +1462,7 @@ DOMAIN,nbcnewsdigital-static.nbcuni.com
 DOMAIN,net-fe-static-assets.network-controller.svc.ui.com
 DOMAIN,netlify.apollo.io
 DOMAIN,newassets.hcaptcha.com
+DOMAIN,newfold.scene7.com
 DOMAIN,news-assets.apple.com
 DOMAIN,newsletter.postmarkapp.com
 DOMAIN,next-images.opencollective.com
@@ -1875,6 +1878,7 @@ DOMAIN,static.bit.dev
 DOMAIN,static.bitfinex.com
 DOMAIN,static.bravoporn.com
 DOMAIN,static.buffer.com
+DOMAIN,static.buydomains.com
 DOMAIN,static.bytepan.com
 DOMAIN,static.canva.com
 DOMAIN,static.captcha-delivery.com
@@ -1990,6 +1994,7 @@ DOMAIN,static.probit.com
 DOMAIN,static.queue-it.net
 DOMAIN,static.rakuten.com
 DOMAIN,static.redhat.com
+DOMAIN,static.registration.bluehost.com
 DOMAIN,static.reo.dev
 DOMAIN,static.replay.io
 DOMAIN,static.rust-lang.org
@@ -2063,6 +2068,8 @@ DOMAIN,stats.codesandbox.io
 DOMAIN,stats.setapp.com
 DOMAIN,stats.setapp.macpaw.dev
 DOMAIN,status.ui.com
+DOMAIN,stbff.newfold.com
+DOMAIN,stbff.scene7.com
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
@@ -2504,6 +2511,7 @@ DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,doppiocdn.net
 DOMAIN-SUFFIX,doppiocdn.org
+DOMAIN-SUFFIX,dreamscape.cloud
 DOMAIN-SUFFIX,drivecdn.com
 DOMAIN-SUFFIX,dropboxstatic.com
 DOMAIN-SUFFIX,dsc.cloud
@@ -2785,6 +2793,7 @@ DOMAIN-SUFFIX,larksuitecdn.com
 DOMAIN-SUFFIX,lbpicpic.com
 DOMAIN-SUFFIX,lbpictupian.com
 DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,li-cdn.com
 DOMAIN-SUFFIX,liangzipic.com
 DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,line-cdn.net

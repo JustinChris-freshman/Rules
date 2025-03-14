@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3289
+# 规则统计: 3298
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -1321,6 +1321,7 @@ HOST,lib.arvancloud.ir,CDN
 HOST,libraries.hund.io,CDN
 HOST,libs.quillbot.com,CDN
 HOST,lift-ai-js.marketlinc.com,CDN
+HOST,limitless.cmax.ai,CDN
 HOST,link.storjshare.io,CDN
 HOST,linkstorage.linkfire.com,CDN
 HOST,linuxiac.b-cdn.net,CDN
@@ -1447,6 +1448,7 @@ HOST,mosaic-blender.fxtwitter.com,CDN
 HOST,mosaic.fxtwitter.com,CDN
 HOST,mparticle.weather.com,CDN
 HOST,mstdn-s3.o3o.studio,CDN
+HOST,mta.newfold.com,CDN
 HOST,mui.com,CDN
 HOST,mwcm.nyt.com,CDN
 HOST,mwf-service.akamaized.net,CDN
@@ -1460,6 +1462,7 @@ HOST,nbcnewsdigital-static.nbcuni.com,CDN
 HOST,net-fe-static-assets.network-controller.svc.ui.com,CDN
 HOST,netlify.apollo.io,CDN
 HOST,newassets.hcaptcha.com,CDN
+HOST,newfold.scene7.com,CDN
 HOST,news-assets.apple.com,CDN
 HOST,newsletter.postmarkapp.com,CDN
 HOST,next-images.opencollective.com,CDN
@@ -1875,6 +1878,7 @@ HOST,static.bit.dev,CDN
 HOST,static.bitfinex.com,CDN
 HOST,static.bravoporn.com,CDN
 HOST,static.buffer.com,CDN
+HOST,static.buydomains.com,CDN
 HOST,static.bytepan.com,CDN
 HOST,static.canva.com,CDN
 HOST,static.captcha-delivery.com,CDN
@@ -1990,6 +1994,7 @@ HOST,static.probit.com,CDN
 HOST,static.queue-it.net,CDN
 HOST,static.rakuten.com,CDN
 HOST,static.redhat.com,CDN
+HOST,static.registration.bluehost.com,CDN
 HOST,static.reo.dev,CDN
 HOST,static.replay.io,CDN
 HOST,static.rust-lang.org,CDN
@@ -2063,6 +2068,8 @@ HOST,stats.codesandbox.io,CDN
 HOST,stats.setapp.com,CDN
 HOST,stats.setapp.macpaw.dev,CDN
 HOST,status.ui.com,CDN
+HOST,stbff.newfold.com,CDN
+HOST,stbff.scene7.com,CDN
 HOST,steamcdn-a.akamaihd.net,CDN
 HOST,steamusercontent-a.akamaihd.net,CDN
 HOST,steamuserimages-a.akamaihd.net,CDN
@@ -2504,6 +2511,7 @@ HOST-SUFFIX,doppiocdn.com,CDN
 HOST-SUFFIX,doppiocdn.live,CDN
 HOST-SUFFIX,doppiocdn.net,CDN
 HOST-SUFFIX,doppiocdn.org,CDN
+HOST-SUFFIX,dreamscape.cloud,CDN
 HOST-SUFFIX,drivecdn.com,CDN
 HOST-SUFFIX,dropboxstatic.com,CDN
 HOST-SUFFIX,dsc.cloud,CDN
@@ -2785,6 +2793,7 @@ HOST-SUFFIX,larksuitecdn.com,CDN
 HOST-SUFFIX,lbpicpic.com,CDN
 HOST-SUFFIX,lbpictupian.com,CDN
 HOST-SUFFIX,lencr.org,CDN
+HOST-SUFFIX,li-cdn.com,CDN
 HOST-SUFFIX,liangzipic.com,CDN
 HOST-SUFFIX,licensebuttons.net,CDN
 HOST-SUFFIX,line-cdn.net,CDN

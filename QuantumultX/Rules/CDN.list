@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3298
+# 规则统计: 3312
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -8,6 +8,7 @@ HOST,a.deviantart.net,CDN
 HOST,a.fireside.fm,CDN
 HOST,a.gawby.com,CDN
 HOST,a.kickstarter.com,CDN
+HOST,a.klaviyo.com,CDN
 HOST,a5.behance.net,CDN
 HOST,a57.foxnews.com,CDN
 HOST,academy-public.coinmarketcap.com,CDN
@@ -347,6 +348,7 @@ HOST,cdn-static.talent.com,CDN
 HOST,cdn-uicons.flaticon.com,CDN
 HOST,cdn-web.fydeos.io,CDN
 HOST,cdn-web.orbstack.dev,CDN
+HOST,cdn-widgetsrepository.yotpo.com,CDN
 HOST,cdn-www.bluestacks.com,CDN
 HOST,cdn-yotpo-images-production.yotpo.com,CDN
 HOST,cdn.17app.co,CDN
@@ -386,6 +388,7 @@ HOST,cdn.buymeacoffee.com,CDN
 HOST,cdn.c1.amplience.net,CDN
 HOST,cdn.calibermind.com,CDN
 HOST,cdn.cameo.com,CDN
+HOST,cdn.camweara.com,CDN
 HOST,cdn.cbd.int,CDN
 HOST,cdn.changelog.com,CDN
 HOST,cdn.channel.io,CDN
@@ -466,6 +469,7 @@ HOST,cdn.hackernoon.com,CDN
 HOST,cdn.hashnode.com,CDN
 HOST,cdn.headwayapp.co,CDN
 HOST,cdn.hellofresh.com,CDN
+HOST,cdn.hextom.com,CDN
 HOST,cdn.hiive.space,CDN
 HOST,cdn.hinative.com,CDN
 HOST,cdn.hk01.com,CDN
@@ -526,6 +530,7 @@ HOST,cdn.neverbounce.com,CDN
 HOST,cdn.nolt.io,CDN
 HOST,cdn.now.gg,CDN
 HOST,cdn.nperf.com,CDN
+HOST,cdn.one.store,CDN
 HOST,cdn.onesignal.com,CDN
 HOST,cdn.onetime.dog,CDN
 HOST,cdn.onlyhentaistuff.com,CDN
@@ -534,6 +539,7 @@ HOST,cdn.osxdaily.com,CDN
 HOST,cdn.paddle.com,CDN
 HOST,cdn.pagefly.io,CDN
 HOST,cdn.pagic.org,CDN
+HOST,cdn.paidy.com,CDN
 HOST,cdn.parsely.com,CDN
 HOST,cdn.pathfactory.com,CDN
 HOST,cdn.pendo.io,CDN
@@ -648,6 +654,7 @@ HOST,cdn.ywxi.net,CDN
 HOST,cdn.zapier.com,CDN
 HOST,cdn.zeabur.com,CDN
 HOST,cdn.zhujiwiki.com,CDN
+HOST,cdn.zigpoll.com,CDN
 HOST,cdn0-i.techbang.com,CDN
 HOST,cdn0.dan.com,CDN
 HOST,cdn0.iconfinder.com,CDN
@@ -744,6 +751,7 @@ HOST,cf.shopee.tw,CDN
 HOST,cfvod.kaltura.com,CDN
 HOST,chart.googleapis.com,CDN
 HOST,chat-content.beanfun.com,CDN
+HOST,chat.digitalgenius.com,CDN
 HOST,chatwidgetmetrics-proxy.usepylon.com,CDN
 HOST,checkout-sdk.bigcommerce.com,CDN
 HOST,checkout.stripe.com,CDN
@@ -774,6 +782,7 @@ HOST,common-header.nimg.jp,CDN
 HOST,compass-ssl.xbox.com,CDN
 HOST,components.clever-cloud.com,CDN
 HOST,components.justanswer.com,CDN
+HOST,components.trynow.net,CDN
 HOST,config.extension.grammarly.com,CDN
 HOST,connect-js.stripe.com,CDN
 HOST,connect.facebook.net,CDN
@@ -1328,6 +1337,7 @@ HOST,linuxiac.b-cdn.net,CDN
 HOST,listing-thumbnail.live.nicovideo.jp,CDN
 HOST,live-storage.fc2.com,CDN
 HOST,live.fanmingming.com,CDN
+HOST,live.visually-io.com,CDN
 HOST,livedoor.blogimg.jp,CDN
 HOST,livemap-tiles1.waze.com,CDN
 HOST,load.csell.co,CDN
@@ -1751,6 +1761,7 @@ HOST,sdk.listenlive.co,CDN
 HOST,sdk.qikify.com,CDN
 HOST,sdk.snapkit.com,CDN
 HOST,sdk.split.io,CDN
+HOST,sdks.automizely.com,CDN
 HOST,seal-newyork.bbb.org,CDN
 HOST,searchanise-ef84.kxcdn.com,CDN
 HOST,searchg2-assets.crownpeak.net,CDN
@@ -1856,6 +1867,7 @@ HOST,static-resource.np.community.playstation.net,CDN
 HOST,static-secure-uploads.ui.com,CDN
 HOST,static-sg-cdn.eporner.com,CDN
 HOST,static-sv.fc2.com,CDN
+HOST,static-us.afterpay.com,CDN
 HOST,static-web-prod.skillshare.com,CDN
 HOST,static-web.grammarly.com,CDN
 HOST,static-www.onlyoffice.com,CDN
@@ -1863,6 +1875,7 @@ HOST,static.4shared.com,CDN
 HOST,static.ada.support,CDN
 HOST,static.addtoany.com,CDN
 HOST,static.adguardvpn.com,CDN
+HOST,static.afterpay.com,CDN
 HOST,static.agilebits.com,CDN
 HOST,static.ahrefs.com,CDN
 HOST,static.aizanmei.org,CDN
@@ -2247,6 +2260,7 @@ HOST,webp.frostming.com,CDN
 HOST,website-cdn.ipinfo.io,CDN
 HOST,website-prod.cache.wpscdn.com,CDN
 HOST,webstatic.chargebee.com,CDN
+HOST,widget.automizely.com,CDN
 HOST,widget.docsbot.ai,CDN
 HOST,widget.freshworks.com,CDN
 HOST,widget.gotolstoy.com,CDN

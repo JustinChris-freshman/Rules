@@ -1,5 +1,5 @@
 # 规则名称: ChinaDomain
-# 规则统计: 765
+# 规则统计: 777
 
 domain_set:
   - acg.tv
@@ -430,11 +430,14 @@ domain_suffix_set:
   - keepcdn.com
   - kingsoft-office-service.com
   - kkmh.com
+  - klook.com
   - koubei.com
   - ks-cdn.com
+  - ksapisrv.com
   - ksmobile.com
   - ksord.com
   - ksosoft.com
+  - ksurl.cn
   - ksyun.com
   - ku6.com
   - kuaishou.com
@@ -507,12 +510,14 @@ domain_suffix_set:
   - mzres.com
   - neea.cn
   - neixin.cn
+  - net.cn
   - netease.com
   - netease.im
   - netstatic.net
   - news.cn
   - nga.cn
   - ngabbs.com
+  - nlark.com
   - nmc.cn
   - npmmirror.com
   - nubia.cn
@@ -739,6 +744,7 @@ domain_suffix_set:
   - yangkeduo.com
   - ydstatic.com
   - yeah.net
+  - yicai.com
   - yinxiang.com
   - yitao.com
   - ykimg.com
@@ -754,6 +760,7 @@ domain_suffix_set:
   - yunpan.cn
   - yunpan.com
   - yupoo.com
+  - yuque.com
   - yximgs.com
   - yy.com
   - zdic.net
@@ -768,8 +775,9 @@ domain_suffix_set:
   - zui.com
   - zuimeitianqi.com
   - zuoyebang.com
-DOMAIN-WILDCARD,*.ffzy-online?.com
-DOMAIN-WILDCARD,*.ffzy-play?.com
-DOMAIN-WILDCARD,*.lz-cdn?.com
-DOMAIN-WILDCARD,*.lz-cdn??.com
-DOMAIN-WILDCARD,*.qhimgs?.com
+domain_wildcard_set:
+  - *.ffzy-online?.com
+  - *.ffzy-play?.com
+  - *.lz-cdn?.com
+  - *.lz-cdn??.com
+  - *.qhimgs?.com

@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 66574
+# 规则统计: 66576
 
 HOST,2016.sina.cn,Ads_SukkaW
 HOST,9ibbcq2d.sina.cn,Ads_SukkaW
@@ -1367,6 +1367,7 @@ HOST-SUFFIX,55f4605f6d.com,Ads_SukkaW
 HOST-SUFFIX,562i7aqkxu.com,Ads_SukkaW
 HOST-SUFFIX,56txs4.com,Ads_SukkaW
 HOST-SUFFIX,5707f9766c.com,Ads_SukkaW
+HOST-SUFFIX,57473094.xyz,Ads_SukkaW
 HOST-SUFFIX,5755.tsmt5revp.com,Ads_SukkaW
 HOST-SUFFIX,57573zubo36833.com,Ads_SukkaW
 HOST-SUFFIX,578297a5.b-cdn.net,Ads_SukkaW
@@ -22902,6 +22903,7 @@ HOST-SUFFIX,ggxwb.miguvideo.com,Ads_SukkaW
 HOST-SUFFIX,gh.fanatical.com,Ads_SukkaW
 HOST-SUFFIX,ghairqin.com,Ads_SukkaW
 HOST-SUFFIX,ghdlry.greetz.nl,Ads_SukkaW
+HOST-SUFFIX,ghegaintp.com,Ads_SukkaW
 HOST-SUFFIX,gheqien.com,Ads_SukkaW
 HOST-SUFFIX,gherkax.com,Ads_SukkaW
 HOST-SUFFIX,gheslosy.com,Ads_SukkaW

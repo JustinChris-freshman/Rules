@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 749
+# 规则统计: 748
 
 HOST-SUFFIX,1010pic.com,Ads_AWAvenue
 HOST-SUFFIX,1500020991.vodplayer.wxamedia.com,Ads_AWAvenue
@@ -200,7 +200,6 @@ HOST-SUFFIX,ata-sdk-uuid-report.dreport.meituan.net,Ads_AWAvenue
 HOST-SUFFIX,auction.unityads.unity3d.com,Ads_AWAvenue
 HOST-SUFFIX,audid-api.taobao.com,Ads_AWAvenue
 HOST-SUFFIX,audid.umeng.com,Ads_AWAvenue
-HOST-SUFFIX,azr.footprintdns.com,Ads_AWAvenue
 HOST-SUFFIX,b1-data.ads.heytapmobi.com,Ads_AWAvenue
 HOST-SUFFIX,baichuan-sdk.alicdn.com,Ads_AWAvenue
 HOST-SUFFIX,baichuan-sdk.taobao.com,Ads_AWAvenue

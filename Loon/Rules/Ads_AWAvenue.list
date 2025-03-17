@@ -1,5 +1,5 @@
 # 规则名称: Ads_AWAvenue
-# 规则统计: 749
+# 规则统计: 748
 
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,1500020991.vodplayer.wxamedia.com
@@ -200,7 +200,6 @@ DOMAIN-SUFFIX,ata-sdk-uuid-report.dreport.meituan.net
 DOMAIN-SUFFIX,auction.unityads.unity3d.com
 DOMAIN-SUFFIX,audid-api.taobao.com
 DOMAIN-SUFFIX,audid.umeng.com
-DOMAIN-SUFFIX,azr.footprintdns.com
 DOMAIN-SUFFIX,b1-data.ads.heytapmobi.com
 DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,baichuan-sdk.taobao.com

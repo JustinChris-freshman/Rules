@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 69838
+# 规则统计: 69840
 
 HOST,2016.sina.cn,Ads_SukkaW
 HOST,9ibbcq2d.sina.cn,Ads_SukkaW
@@ -1571,6 +1571,7 @@ HOST-SUFFIX,78rkcgj4i8c6.www.cefirates.com,Ads_SukkaW
 HOST-SUFFIX,79181531227.com,Ads_SukkaW
 HOST-SUFFIX,79391192.xyz,Ads_SukkaW
 HOST-SUFFIX,79582961.xyz,Ads_SukkaW
+HOST-SUFFIX,79870085.xyz,Ads_SukkaW
 HOST-SUFFIX,79j68qav2.com,Ads_SukkaW
 HOST-SUFFIX,79k52baw2qa3.com,Ads_SukkaW
 HOST-SUFFIX,79pa4bxa86.com,Ads_SukkaW
@@ -65531,6 +65532,7 @@ HOST-SUFFIX,viliaff.com,Ads_SukkaW
 HOST-SUFFIX,vilpkc.drkellyann.com,Ads_SukkaW
 HOST-SUFFIX,vindicosuite.com,Ads_SukkaW
 HOST-SUFFIX,vinegardaring.com,Ads_SukkaW
+HOST-SUFFIX,vinoinqih.com,Ads_SukkaW
 HOST-SUFFIX,vinsgcs.com,Ads_SukkaW
 HOST-SUFFIX,vintagerespectful.com,Ads_SukkaW
 HOST-SUFFIX,violetlovelines.com,Ads_SukkaW

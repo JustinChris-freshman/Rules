@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 69840
+# 规则统计: 69856
 
 no_resolve: true
 domain_set:
@@ -6855,6 +6855,7 @@ domain_suffix_set:
   - api-launcher-em.hismarttv.com
   - api-launcher-na.hismarttv.com
   - api-mf1.meta.ndmdhs.com
+  - api-notify.markarch.com
   - api-visitor-analytics.intercom.com
   - api-websystems.landing.ni.com
   - api.140proof.com
@@ -9284,6 +9285,7 @@ domain_suffix_set:
   - bewr1.com
   - bewrutv.top
   - beyanmaan.com
+  - beylicbesmile.com
   - beyolp.pebmed.com.br
   - beyond.bluewolf.com
   - beyondcompare.cc
@@ -9371,6 +9373,7 @@ domain_suffix_set:
   - biancasunlit.com
   - bianxianmao.com
   - biaxalstiles.com
+  - bibbysilkmen.com
   - bibglj.timberland.fr
   - bichtf.in-themode.com
   - bicp-analytics.postscript.io
@@ -9765,6 +9768,7 @@ domain_suffix_set:
   - bobcat.snapshooter.io
   - bobgames-prolister.com
   - bobpiety.com
+  - bockouphourgait.net
   - bodegaseikon.shop
   - bodem.bio-kultura.nl
   - bodhalqg.com
@@ -12508,6 +12512,7 @@ domain_suffix_set:
   - comunicazio.com
   - comunicazioni.bancamediolanum.it
   - conative.network
+  - concavobegan.shop
   - concealmentmimic.com
   - concedederaserskyline.com
   - conceitoverwhelming.com
@@ -21613,6 +21618,7 @@ domain_suffix_set:
   - etgqqe.ordersupli.com
   - ethaistoothi.com
   - etherart.online
+  - etherolasqueal.com
   - ethhbl.dom-rafinad.ru
   - ethicel.com
   - ethnic1266.fun
@@ -22431,6 +22437,7 @@ domain_suffix_set:
   - farcivinage.shop
   - fargwyn.com
   - farm-cn.plista.com
+  - farmyengrail.top
   - farteniuson.com
   - fartmoda.com
   - fascespro.com
@@ -27152,6 +27159,7 @@ domain_suffix_set:
   - hoanoola.net
   - hoaqzs.manier.ro
   - hoardsmirkly.top
+  - hobitsaffined.com
   - hockeyhavoc.com
   - hod.asphalte.com
   - hodor-collect.arabam.com
@@ -46605,6 +46613,7 @@ domain_suffix_set:
   - ptawhood.net
   - ptcdwm.com
   - pteekauksaupt.net
+  - pteemsoansouthe.net
   - pteemsolrirgegi.com
   - pteemteethu.net
   - ptekrungeez.net
@@ -48418,6 +48427,7 @@ domain_suffix_set:
   - reticencevaliddecoction.com
   - retimedtactor.shop
   - retinaesprent.com
+  - retinaspealer.com
   - retirementliving.actsretirement.org
   - retirementservices.firstallied.com
   - retiringspamformed.com
@@ -51214,6 +51224,7 @@ domain_suffix_set:
   - servetraff.com
   - servg1.net
   - servh.net
+  - service-ad-image-ga.prd.pluto.tv
   - service-ens.sueddeutsche.de
   - service.arredamentopari.com
   - service.athlon.com
@@ -52610,6 +52621,7 @@ domain_suffix_set:
   - socs.hagerty.com
   - sodallay.com
   - sodamash.com
+  - sodenneyg.com
   - sodhef.com
   - soejzg.efe.com.pe
   - soelui.butosklep.pl
@@ -53157,6 +53169,7 @@ domain_suffix_set:
   - spirteddvaita.com
   - spitzrafting.top
   - spixel.socy.es
+  - spkh.cn
   - spklmis.com
   - splachujeme.sanela.cz
   - splachujeme.sanela.eu
@@ -65621,6 +65634,7 @@ domain_suffix_set:
   - vitqea.tanomake.com
   - vitqzd.icu
   - viva.api.xiaoying.co
+  - vividmeadow.com
   - vividplume.com
   - vizoalygrenn.com
   - vjdciu.com
@@ -66824,6 +66838,7 @@ domain_suffix_set:
   - wellhello.com
   - welllwrite.com
   - wellmov.com
+  - wellworn-lead.com
   - welovecinema.global.communications.bnpparibas
   - wemakebestnews.com
   - wemmyoolakan.shop
@@ -67512,6 +67527,7 @@ domain_suffix_set:
   - wudr.net
   - wuevck.eriksbikeshop.com
   - wufsqg.petrolindustries.com
+  - wuftaustee.net
   - wugoughurtaitsu.net
   - wugroansaghadry.com
   - wuhhgk.glamira.com

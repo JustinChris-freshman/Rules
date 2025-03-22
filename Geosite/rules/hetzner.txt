@@ -8,4 +8,6 @@ second-ns.com
 second-ns.de
 your-objectstorage.com
 your-server.de
+your-storagebox.de
+your-storageshare.de
 full:sentry.hetzner.company

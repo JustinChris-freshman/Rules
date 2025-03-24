@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3358
+# 规则统计: 3359
 
 domain_set:
   - 0x0.st
@@ -3319,6 +3319,7 @@ domain_wildcard_set:
   - *.fsvod?.com
   - *.img.*.sendibm?.com
   - *.kuaikan-cdn?.com
+  - *.skyearth?.xyz
   - appcenter-filemanagement-*.cloudapp.net
   - assets*.freshdesk.com
   - blog-imgs-??.2nt.com

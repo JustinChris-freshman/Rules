@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 70738
+# 规则统计: 70736
 
 HOST,03.lzzncm.com,Ads_SukkaW
 HOST,04.lzzncm.com,Ads_SukkaW
@@ -4435,6 +4435,7 @@ HOST-SUFFIX,adsfac.us,Ads_SukkaW
 HOST-SUFFIX,adsfactor.net,Ads_SukkaW
 HOST-SUFFIX,adsfan.net,Ads_SukkaW
 HOST-SUFFIX,adsfcdn.com,Ads_SukkaW
+HOST-SUFFIX,adsfloow.net,Ads_SukkaW
 HOST-SUFFIX,adsfs-sdkconfig.heytapimage.com,Ads_SukkaW
 HOST-SUFFIX,adsfs.oppomobile.com,Ads_SukkaW
 HOST-SUFFIX,adsfundi.com,Ads_SukkaW
@@ -6880,6 +6881,7 @@ HOST-SUFFIX,analytics.unand.ac.id,Ads_SukkaW
 HOST-SUFFIX,analytics.underarmour.com,Ads_SukkaW
 HOST-SUFFIX,analytics.unibuddy.co,Ads_SukkaW
 HOST-SUFFIX,analytics.unilogcorp.com,Ads_SukkaW
+HOST-SUFFIX,analytics.unity3d.com,Ads_SukkaW
 HOST-SUFFIX,analytics.unive.nl,Ads_SukkaW
 HOST-SUFFIX,analytics.unsw.edu.au,Ads_SukkaW
 HOST-SUFFIX,analytics.upworthy.com,Ads_SukkaW
@@ -12639,7 +12641,6 @@ HOST-SUFFIX,collect.allianzcinema.ch,Ads_SukkaW
 HOST-SUFFIX,collect.allianzdriveincinema.ch,Ads_SukkaW
 HOST-SUFFIX,collect.alphastream.io,Ads_SukkaW
 HOST-SUFFIX,collect.analyse.lnearn.com,Ads_SukkaW
-HOST-SUFFIX,collect.analytics.unity3d.com,Ads_SukkaW
 HOST-SUFFIX,collect.ansons.de,Ads_SukkaW
 HOST-SUFFIX,collect.asics.com,Ads_SukkaW
 HOST-SUFFIX,collect.babybus.com,Ads_SukkaW
@@ -68895,7 +68896,6 @@ HOST-SUFFIX,xmindchina.net,Ads_SukkaW
 HOST-SUFFIX,xmkmryu.icu,Ads_SukkaW
 HOST-SUFFIX,xml-api.online,Ads_SukkaW
 HOST-SUFFIX,xml-eu-v4.adscholars.com,Ads_SukkaW
-HOST-SUFFIX,xml-eu-v4.adsfloow.net,Ads_SukkaW
 HOST-SUFFIX,xml-eu-v4.adverttise.com,Ads_SukkaW
 HOST-SUFFIX,xml-eu-v4.adxpoint.com,Ads_SukkaW
 HOST-SUFFIX,xml-eu-v4.agilitydigitalmedia.com,Ads_SukkaW
@@ -68924,7 +68924,6 @@ HOST-SUFFIX,xml-eu.srvqck9.com,Ads_SukkaW
 HOST-SUFFIX,xml-v4.9versemedia.com,Ads_SukkaW
 HOST-SUFFIX,xml-v4.a1.0network.com,Ads_SukkaW
 HOST-SUFFIX,xml-v4.adscholars.com,Ads_SukkaW
-HOST-SUFFIX,xml-v4.adsfloow.net,Ads_SukkaW
 HOST-SUFFIX,xml-v4.adtapmedia.com,Ads_SukkaW
 HOST-SUFFIX,xml-v4.adverttise.com,Ads_SukkaW
 HOST-SUFFIX,xml-v4.adzreach.com,Ads_SukkaW
@@ -68970,7 +68969,6 @@ HOST-SUFFIX,xml.adopt.media,Ads_SukkaW
 HOST-SUFFIX,xml.adportonic.com,Ads_SukkaW
 HOST-SUFFIX,xml.adservezme.com,Ads_SukkaW
 HOST-SUFFIX,xml.adservtday.com,Ads_SukkaW
-HOST-SUFFIX,xml.adsfloow.net,Ads_SukkaW
 HOST-SUFFIX,xml.adverttise.com,Ads_SukkaW
 HOST-SUFFIX,xml.adxpoint.com,Ads_SukkaW
 HOST-SUFFIX,xml.audienceye.com,Ads_SukkaW

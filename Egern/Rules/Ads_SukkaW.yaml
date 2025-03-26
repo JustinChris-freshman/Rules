@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 70738
+# 规则统计: 70736
 
 no_resolve: true
 domain_set:
@@ -4438,6 +4438,7 @@ domain_suffix_set:
   - adsfactor.net
   - adsfan.net
   - adsfcdn.com
+  - adsfloow.net
   - adsfs-sdkconfig.heytapimage.com
   - adsfs.oppomobile.com
   - adsfundi.com
@@ -6883,6 +6884,7 @@ domain_suffix_set:
   - analytics.underarmour.com
   - analytics.unibuddy.co
   - analytics.unilogcorp.com
+  - analytics.unity3d.com
   - analytics.unive.nl
   - analytics.unsw.edu.au
   - analytics.upworthy.com
@@ -12642,7 +12644,6 @@ domain_suffix_set:
   - collect.allianzdriveincinema.ch
   - collect.alphastream.io
   - collect.analyse.lnearn.com
-  - collect.analytics.unity3d.com
   - collect.ansons.de
   - collect.asics.com
   - collect.babybus.com
@@ -68898,7 +68899,6 @@ domain_suffix_set:
   - xmkmryu.icu
   - xml-api.online
   - xml-eu-v4.adscholars.com
-  - xml-eu-v4.adsfloow.net
   - xml-eu-v4.adverttise.com
   - xml-eu-v4.adxpoint.com
   - xml-eu-v4.agilitydigitalmedia.com
@@ -68927,7 +68927,6 @@ domain_suffix_set:
   - xml-v4.9versemedia.com
   - xml-v4.a1.0network.com
   - xml-v4.adscholars.com
-  - xml-v4.adsfloow.net
   - xml-v4.adtapmedia.com
   - xml-v4.adverttise.com
   - xml-v4.adzreach.com
@@ -68973,7 +68972,6 @@ domain_suffix_set:
   - xml.adportonic.com
   - xml.adservezme.com
   - xml.adservtday.com
-  - xml.adsfloow.net
   - xml.adverttise.com
   - xml.adxpoint.com
   - xml.audienceye.com

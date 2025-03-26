@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3368
+# 规则统计: 3371
 
 domain_set:
   - 0x0.st
@@ -779,6 +779,7 @@ domain_set:
   - clientsdk.launchdarkly.com
   - clientstream.launchdarkly.com
   - clips-media-assets2.twitch.tv
+  - clips.kick.com
   - cloud.redhat.com
   - cloud.typenetwork.com
   - cloudflare.tv
@@ -967,6 +968,7 @@ domain_set:
   - files.armorgames.com
   - files.buildwithfern.com
   - files.jotform.com
+  - files.kick.com
   - files.mastodon.ktachibana.party
   - files.mastodon.online
   - files.mastodon.social
@@ -1143,6 +1145,7 @@ domain_set:
   - images.freeimages.com
   - images.g2crowd.com
   - images.idgesg.net
+  - images.kick.com
   - images.macrumors.com
   - images.mattel.net
   - images.microcms-assets.io

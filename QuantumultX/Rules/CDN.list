@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3368
+# 规则统计: 3371
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -778,6 +778,7 @@ HOST,clickup.marketlinc.com,CDN
 HOST,clientsdk.launchdarkly.com,CDN
 HOST,clientstream.launchdarkly.com,CDN
 HOST,clips-media-assets2.twitch.tv,CDN
+HOST,clips.kick.com,CDN
 HOST,cloud.redhat.com,CDN
 HOST,cloud.typenetwork.com,CDN
 HOST,cloudflare.tv,CDN
@@ -966,6 +967,7 @@ HOST,file.izanmei.net,CDN
 HOST,files.armorgames.com,CDN
 HOST,files.buildwithfern.com,CDN
 HOST,files.jotform.com,CDN
+HOST,files.kick.com,CDN
 HOST,files.mastodon.ktachibana.party,CDN
 HOST,files.mastodon.online,CDN
 HOST,files.mastodon.social,CDN
@@ -1142,6 +1144,7 @@ HOST,images.flightradar24.com,CDN
 HOST,images.freeimages.com,CDN
 HOST,images.g2crowd.com,CDN
 HOST,images.idgesg.net,CDN
+HOST,images.kick.com,CDN
 HOST,images.macrumors.com,CDN
 HOST,images.mattel.net,CDN
 HOST,images.microcms-assets.io,CDN

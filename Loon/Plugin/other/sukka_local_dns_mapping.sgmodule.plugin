@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2025-03-26T15:40:35.209Z
+#!desc=Last Updated: 2025-03-27T01:25:11.140Z
 #!homepage=https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
 #!author=Sukka
@@ -307,7 +307,6 @@ aterm.me = server:system
 *.168.192.in-addr.arpa = server:system
 *.31.172.in-addr.arpa = server:system
 *.30.172.in-addr.arpa = server:system
-*.2?.172.in-addr.arpa = server:system
 *.29.172.in-addr.arpa = server:system
 *.28.172.in-addr.arpa = server:system
 *.27.172.in-addr.arpa = server:system

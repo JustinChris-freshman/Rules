@@ -1,6 +1,7 @@
 full:azure.microsoft.com
 full:azuremarketplace.microsoft.com
 azure
+aadrm.com
 azure-devices-int.net
 azure-devices.net
 azure-mobile.net
@@ -41,10 +42,13 @@ devopsms.com
 gotcosmos.com
 management-azure-devices-int.net
 management-azure-devices.net
+microsoftazuread-sso.com
 microsoftazuresponsorships.com
 microsofteca.com
 microsoftiotcentral.com
 msn.net
+playfab.com
+playfabapi.com
 serverlesslibrary.net
 trafficmanager.net
 tryfunctions.com

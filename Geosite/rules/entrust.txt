@@ -1,3 +1,5 @@
+entrust.cn
+entrust.com
 entrust.net
 entrustdatacard.com
 affirmtrust.com
@@ -5,3 +7,4 @@ atos.net
 myatos.net
 certificat2.com
 trendmicro.com
+full:www.entrust.cn

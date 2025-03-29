@@ -5,6 +5,9 @@ poi.moe
 playcover.io
 fflogs.com
 rpglogs.com
+thetrackernetwork.com
+tracker.gg
+tracker.network
 playcover.workers.dev
 lsplayer.com
 yeshen.com

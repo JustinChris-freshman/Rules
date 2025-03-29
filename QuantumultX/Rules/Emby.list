@@ -1,11 +1,19 @@
 # 规则名称: Emby
-# 规则统计: 163
+# 规则统计: 184
 
-HOST,195.201.86.86,Emby
+HOST,2pfdml.mobaiemby.site,Emby
+HOST,cavps.eu.org,Emby
 HOST,cc.coemn.com,Emby
+HOST,cf-cdn1.nebula-media.org,Emby
 HOST,cminf.sfcat.link,Emby
 HOST,cuinf.sfcat.link,Emby
+HOST,emby-cdn1.nebula-media.org,Emby
+HOST,emby.nebula-media.org,Emby
 HOST,notnetflix.cos.cat,Emby
+HOST,starharn-cf.nebula-media.org,Emby
+HOST,starharn.nebula-media.org,Emby
+HOST,web-starharn.nebula-media.org,Emby
+HOST,web.nebula-media.org,Emby
 HOST-SUFFIX,123456.al,Emby
 HOST-SUFFIX,16bit.cfd,Emby
 HOST-SUFFIX,20120714.xyz,Emby
@@ -44,9 +52,11 @@ HOST-SUFFIX,cherrytv.one,Emby
 HOST-SUFFIX,cinema.facmata.net,Emby
 HOST-SUFFIX,deja-vu.beauty,Emby
 HOST-SUFFIX,dicarerhome.com,Emby
+HOST-SUFFIX,e.degyax.one,Emby
 HOST-SUFFIX,ednovas.org,Emby
 HOST-SUFFIX,em.ssky.me,Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,Emby
+HOST-SUFFIX,emby-myg-de.vfing.de,Emby
 HOST-SUFFIX,emby-sg.plusmedia.site,Emby
 HOST-SUFFIX,emby.aiyowei.ml,Emby
 HOST-SUFFIX,emby.bid,Emby
@@ -63,6 +73,7 @@ HOST-SUFFIX,emby.loan,Emby
 HOST-SUFFIX,emby.maying.club,Emby
 HOST-SUFFIX,emby.mdss.cloud,Emby
 HOST-SUFFIX,emby.ml,Emby
+HOST-SUFFIX,emby.moe,Emby
 HOST-SUFFIX,emby.neko.edu.rs,Emby
 HOST-SUFFIX,emby.nexitally.com,Emby
 HOST-SUFFIX,emby.nyancat.net,Emby
@@ -84,6 +95,7 @@ HOST-SUFFIX,emby2.otakudrive.life,Emby
 HOST-SUFFIX,emby77.cf,Emby
 HOST-SUFFIX,emby77.org,Emby
 HOST-SUFFIX,embyclub.com,Emby
+HOST-SUFFIX,embymv.link,Emby
 HOST-SUFFIX,embymv.me,Emby
 HOST-SUFFIX,embymv.tk,Emby
 HOST-SUFFIX,embyplus.club,Emby
@@ -117,7 +129,6 @@ HOST-SUFFIX,mjjemby.org,Emby
 HOST-SUFFIX,movie.xeton.dev,Emby
 HOST-SUFFIX,mulgore.net,Emby
 HOST-SUFFIX,nanflix.net,Emby
-HOST-SUFFIX,nebula-media.org,Emby
 HOST-SUFFIX,newpppp.com,Emby
 HOST-SUFFIX,newwan.top,Emby
 HOST-SUFFIX,nijigem.by,Emby
@@ -154,13 +165,23 @@ HOST-SUFFIX,studyfun.live,Emby
 HOST-SUFFIX,tanhuatv.site,Emby
 HOST-SUFFIX,texon.fans,Emby
 HOST-SUFFIX,tkremby.xyz,Emby
+HOST-SUFFIX,tv.worldline.space,Emby
 HOST-SUFFIX,uuuoo.cc,Emby
 HOST-SUFFIX,wiri.tk,Emby
 HOST-SUFFIX,xiaoyi.one,Emby
 HOST-SUFFIX,xmsl.org,Emby
 HOST-SUFFIX,zi0.icu,Emby
 HOST-SUFFIX,zox.show,Emby
+IP-CIDR,103.197.185.84/32,Emby
+IP-CIDR,148.135.94.8/32,Emby
 IP-CIDR,152.53.67.239/32,Emby
+IP-CIDR,154.40.33.88/32,Emby
+IP-CIDR,168.119.137.205/32,Emby
 IP-CIDR,188.172.228.49/32,Emby
+IP-CIDR,195.128.100.146/32,Emby
+IP-CIDR,195.128.102.208/32,Emby
+IP-CIDR,195.201.86.86/32,Emby
+IP-CIDR,202.61.247.129/32,Emby
 IP-CIDR,202.61.255.248/32,Emby
 IP-CIDR,212.90.120.164/32,Emby
+IP-CIDR,37.123.192.219/32,Emby

@@ -514,6 +514,7 @@ qhstudio.fun
 raingfh.top
 resource.xidian.edu.cn
 rousi.zip
+full:tracker.rousipt.com
 sharkpt.net
 skyey2.com
 pt.soulvoice.club

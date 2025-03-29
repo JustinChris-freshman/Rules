@@ -1,13 +1,21 @@
 # 规则名称: Emby
-# 规则统计: 163
+# 规则统计: 184
 
 no_resolve: true
 domain_set:
-  - 195.201.86.86
+  - 2pfdml.mobaiemby.site
+  - cavps.eu.org
   - cc.coemn.com
+  - cf-cdn1.nebula-media.org
   - cminf.sfcat.link
   - cuinf.sfcat.link
+  - emby-cdn1.nebula-media.org
+  - emby.nebula-media.org
   - notnetflix.cos.cat
+  - starharn-cf.nebula-media.org
+  - starharn.nebula-media.org
+  - web-starharn.nebula-media.org
+  - web.nebula-media.org
 domain_suffix_set:
   - 123456.al
   - 16bit.cfd
@@ -47,9 +55,11 @@ domain_suffix_set:
   - cinema.facmata.net
   - deja-vu.beauty
   - dicarerhome.com
+  - e.degyax.one
   - ednovas.org
   - em.ssky.me
   - emby-cf.plusmedia.site
+  - emby-myg-de.vfing.de
   - emby-sg.plusmedia.site
   - emby.aiyowei.ml
   - emby.bid
@@ -66,6 +76,7 @@ domain_suffix_set:
   - emby.maying.club
   - emby.mdss.cloud
   - emby.ml
+  - emby.moe
   - emby.neko.edu.rs
   - emby.nexitally.com
   - emby.nyancat.net
@@ -87,6 +98,7 @@ domain_suffix_set:
   - emby77.cf
   - emby77.org
   - embyclub.com
+  - embymv.link
   - embymv.me
   - embymv.tk
   - embyplus.club
@@ -120,7 +132,6 @@ domain_suffix_set:
   - movie.xeton.dev
   - mulgore.net
   - nanflix.net
-  - nebula-media.org
   - newpppp.com
   - newwan.top
   - nijigem.by
@@ -157,6 +168,7 @@ domain_suffix_set:
   - tanhuatv.site
   - texon.fans
   - tkremby.xyz
+  - tv.worldline.space
   - uuuoo.cc
   - wiri.tk
   - xiaoyi.one
@@ -164,7 +176,16 @@ domain_suffix_set:
   - zi0.icu
   - zox.show
 ip_cidr_set:
+  - 103.197.185.84/32
+  - 148.135.94.8/32
   - 152.53.67.239/32
+  - 154.40.33.88/32
+  - 168.119.137.205/32
   - 188.172.228.49/32
+  - 195.128.100.146/32
+  - 195.128.102.208/32
+  - 195.201.86.86/32
+  - 202.61.247.129/32
   - 202.61.255.248/32
   - 212.90.120.164/32
+  - 37.123.192.219/32

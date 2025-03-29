@@ -1,5 +1,5 @@
 # 规则名称: AdGuardChinese
-# 规则统计: 5050
+# 规则统计: 4750
 
 domain_suffix_set:
   - 002777.xyz
@@ -18,12 +18,10 @@ domain_suffix_set:
   - 06789.xyz
   - 0755rc.com
   - 07dy.cc
-  - 08088.top
   - 0941.org
   - 0dwm.icu
   - 0er7pc8.xyz
   - 0h3uds.com
-  - 0j91h.cyou
   - 0k7wod.cn
   - 0op8kh.cn
   - 0oqt9i.cn
@@ -109,15 +107,12 @@ domain_suffix_set:
   - 165tchuang.com
   - 16m.cc
   - 17.huanqiu.com
-  - 17123.net
   - 17282.org
   - 177o.com
-  - 192.luyouwang.com
   - 1990tu.com
   - 1999019.com
   - 1buo.icu
   - 1buu1.penyouw.com
-  - 1cecn.icu
   - 1dki0.icu
   - 1gmzo.icu
   - 1gtp.icu
@@ -125,7 +120,6 @@ domain_suffix_set:
   - 1iuh5l.com
   - 1jok.icu
   - 1l1.cc
-  - 1ny3r.icu
   - 1p3yg.icu
   - 1qv.fun
   - 1s8pj.cn
@@ -139,7 +133,7 @@ domain_suffix_set:
   - 20091222.com
   - 2016.bkill.net
   - 2021.dxsbb.com
-  - 2024114t.shop
+  - 20wx.com
   - 21.cizhibaogao.org
   - 21.fh21static.com
   - 21.zhaozongjie.com
@@ -158,10 +152,10 @@ domain_suffix_set:
   - 2cnjuh34jbman.com
   - 2efgcdcjr000.fun
   - 2hl.fun
-  - 2jse6.icu
   - 2qy9zm.cn
   - 2rbda.icu
   - 2sfpy.icu
+  - 2ueb.cn
   - 2wt.icu
   - 2za.fun
   - 3.5646.cn
@@ -187,10 +181,8 @@ domain_suffix_set:
   - 380.tw
   - 39jz.com
   - 3alian.net
-  - 3bxe2.cyou
   - 3dwwwgame.com
   - 3lo.icu
-  - 3ndra.icu
   - 3ni.icu
   - 3p8801.co
   - 3q1lsj.cn
@@ -229,7 +221,6 @@ domain_suffix_set:
   - 50bang.org
   - 50m.gkcyc.com
   - 51gxqm.com
-  - 51hir.cyou
   - 51tongji.trafficmanager.net
   - 51yhzp.com
   - 52av.be
@@ -256,7 +247,6 @@ domain_suffix_set:
   - 5pub.com
   - 5y9nfpes.52pk.com
   - 5yl.icu
-  - 5z0d3.cyou
   - 5z2oy.icu
   - 609999.xyz
   - 60jxn4.xyz
@@ -291,10 +281,9 @@ domain_suffix_set:
   - 6pznpz.com
   - 6qo.fun
   - 6qyxeob.xyz
-  - 6slb0.cyou
+  - 6u2h.cn
   - 6v4.cn
   - 6w7.icu
-  - 6zfem.icu
   - 7011.stia.cn
   - 7299tu75.cc
   - 73336zubo25326.com
@@ -317,7 +306,6 @@ domain_suffix_set:
   - 7hb.icu
   - 7mk.fun
   - 7tc.fun
-  - 7vviw.cyou
   - 7xi9g1.com1.z0.glb.clouddn.com
   - 7xsf3h.com1.z0.glb.clouddn.com
   - 7zb.fun
@@ -337,9 +325,6 @@ domain_suffix_set:
   - 888bb666cc.com
   - 888bbb555www.com
   - 888xx222kk.com
-  - 88lm04.com
-  - 88lm05.com
-  - 88lm06.com
   - 88lm07.com
   - 88lm08.com
   - 88lm09.com
@@ -363,10 +348,10 @@ domain_suffix_set:
   - 8jrc564wtf.cn
   - 8q88n.icu
   - 8sh.fun
-  - 8suis.top
-  - 8t9he.cyou
   - 8u0.fun
+  - 8xly.cn
   - 8xtm6i.cn
+  - 8y3j.cn
   - 91friend.com
   - 9216tp1.com
   - 93692zubo66936.com
@@ -376,15 +361,12 @@ domain_suffix_set:
   - 96382zubo66756.com
   - 96696612.top
   - 96rj.icu
-  - 97ii.cn
   - 98158.com
   - 9831tb.com
   - 98765.pw
-  - 98wjse.top
   - 990215.xyz
   - 996js123.com
   - 99886aaa.com
-  - 998sus.com
   - 999aa666bb.com
   - 999bb222ww.com
   - 999d.com
@@ -394,7 +376,6 @@ domain_suffix_set:
   - 99smsf.com
   - 9fum.ifeng.com
   - 9kh5b.cn
-  - 9s64g.icu
   - 9xxy.icu
   - a.10tianqi.com
   - a.4aqq.com
@@ -485,11 +466,10 @@ domain_suffix_set:
   - a7c.icu
   - aa.gushiwen.org
   - aa.xiangxiangmf.com
-  - aa3e4.cyou
+  - aa03010iiko.com
   - aaa.tumanyi.com
   - aafns.xyz
   - aafuck.xyz
-  - aaoisp.com
   - ab.cnbanbao.com
   - ab.rejushe.com
   - abc.colayun.cn
@@ -504,7 +484,6 @@ domain_suffix_set:
   - abcd.zle.com
   - abcdcfasda.gushiwen.cn
   - abcj.dooccn.com
-  - abcqq36q.vip
   - abds.pingpingw.com
   - abixkw.xyz
   - abjalrq.cn
@@ -528,7 +507,6 @@ domain_suffix_set:
   - aclsx.cn
   - acodes.b2b.cn
   - acqaghx.icu
-  - acsegt86.shop
   - actitat.com
   - ad-1258444056.cos.accelerate.myqcloud.com
   - ad-api.cnblogs.com
@@ -552,7 +530,7 @@ domain_suffix_set:
   - ad.zui.com
   - ad123.ynet.com
   - adadmin.house365.com
-  - adasdz.cn
+  - adasset.flixfiend.top
   - adbd.liuxue86.com
   - adblock.sina.cn
   - adbot.tw
@@ -596,6 +574,7 @@ domain_suffix_set:
   - adx.mala.cn
   - adyun.com
   - adzp.cn
+  - aegzoils.com
   - aeryt111.fun
   - aesxgy.xyz
   - aeyyck.xyz
@@ -606,53 +585,50 @@ domain_suffix_set:
   - afp.chinanews.com
   - afqodjc.top
   - ag1.zuszw.com
-  - agmed.cyou
-  - agossuoeach.com
-  - agrantsem.com
   - agufoi.xyz
   - aguo.com
   - ahejtw.onelink.me
   - ahm.135320.com
   - ahtfzhs.xyz
-  - ahyyqq.xyz
   - ai.bioon.com
   - aigfednd.icu
   - aikkits.com
   - aiknx.cn
   - aili.com
+  - aillaeuyn.com
   - aiqks.top
   - airakgyl.com
   - aiwanma99.com
   - aiwen.cc
   - aixuntupian.oss-cn-hongkong.aliyuncs.com
+  - aizhantj.com
   - ajffubz.xyz
-  - ajijcy.xyz
   - ajkggo.xyz
   - ajockk.xyz
   - ajoqu.cn
+  - ajoxxit.top
+  - ajua.cn
   - ajybgc.xyz
-  - akjdbjkcbacj.com
+  - ak03150hou.com
+  - ak03211hou.com
   - al.newxue.com
-  - albdbsk.xyz
   - alimama.alicdn.com
   - alime-pic.oss-cn-hangzhou.aliyuncs.com
   - alitui.weibo.com
   - allkmbr.icu
   - alllget.com
   - altolsqy.com
-  - aly.la
   - am.szhome.com
   - am0.fun
   - amfhby.cn
-  - amidicestrins.com
   - amocyq.xyz
   - amradmin.5173.com
   - ams.fx678.com
   - amsbce.xyz
-  - anbkzt.xyz
+  - amyapad.top
+  - ancelsqpv.com
   - ancxeftgyu.top
   - anews7.nvwu.com
-  - anjdwmq.xyz
   - ankczwr.icu
   - ao1118kas.top
   - ao1120kas.top
@@ -671,7 +647,7 @@ domain_suffix_set:
   - aoiqa.top
   - aos01070ss.xyz
   - aos01080ss.xyz
-  - aourgk.xyz
+  - apiiksn.top
   - apis301.com
   - apk02061oo.xyz
   - apk02070oo.xyz
@@ -681,9 +657,6 @@ domain_suffix_set:
   - aqc.gucheng.com
   - aqeivzm.icu
   - arewcdf116.cn
-  - ariqye.xyz
-  - arkkcu.xyz
-  - arnhhwo.xyz
   - arojgi.xyz
   - aryici.xyz
   - as01271kkp.xyz
@@ -708,25 +681,22 @@ domain_suffix_set:
   - ausfyk.xyz
   - aushaq.top
   - avivid.likr.tw
+  - avkd.cn
   - avqdhss.icu
   - avspda.xyz
   - avxonsp.icu
-  - awcdst.icu
   - awifi.cn
   - awoudsoo.xyz
   - awunkse72.shop
   - awyuge.xyz
   - ax.ifeng.com
-  - axhfeum.xyz
   - ayalcid.icu
   - ayebsc.xyz
   - az5i.icu
   - az697jylm.cc
   - azenco.xyz
   - aziekg.xyz
-  - azkrya.xyz
   - azsqkrc.icu
-  - azyuuk.xyz
   - b.kouke5.com
   - b.unjs.com
   - b1.51scw.net
@@ -737,7 +707,6 @@ domain_suffix_set:
   - b1.engdvd.com
   - b1.xiao84.com
   - b10.justacdn.net
-  - b37r5.cyou
   - b477.life
   - b7sw62.pingshu8.xyz
   - badding.oss-ap-southeast-1.aliyuncs.com
@@ -777,13 +746,10 @@ domain_suffix_set:
   - balmoralmkt.com
   - bapa215.top
   - bas.boshi.tv
-  - batijian.com
   - baucraell.com
   - bavotr.xyz
   - bbk5921.yncjsc.cn
   - bbqoa.top
-  - bbtta91.shop
-  - bbttf26.shop
   - bbxyxt.xyz
   - bc4.fun
   - bchina-1.xsfaya.com
@@ -816,7 +782,6 @@ domain_suffix_set:
   - bd11.nipic.com
   - bd3.chuiyue.com
   - bd888.qizuang.com
-  - bd9wv.icu
   - bda1.ayule.net
   - bdad.123pan.cn
   - bdad.gaotie.net
@@ -834,7 +799,6 @@ domain_suffix_set:
   - bdfjw.cn
   - bdgg.qjy168.com
   - bdipsumv.top
-  - bdjdpyrt.xyz
   - bdjfea.cn
   - bdjiaoben.wmxa.cn
   - bdjj.bzr99.com
@@ -848,24 +812,20 @@ domain_suffix_set:
   - bdm.ye-su.cn
   - bdmjs.xywy.com
   - bdoshbv.top
-  - bdtdat652.shop
   - bdu.focus.cn
   - bdu1.coozhi.cn
   - bdunion1.suxiazai.com
   - bdx.playnext.cn
-  - bdxpdz.xyz
   - bea-s.dinghuoche.com
   - beacher56.xyz
-  - bebohjhh.xyz
   - bebxhcip.icu
   - becode.xiao84.com
   - bedzbu.xyz
   - beenedsl.com
-  - befyah.icu
   - begoihuh.com
   - behvgsik.icu
   - beijing.buzhi5.com
-  - bellessb.com
+  - bekd.cn
   - benpsbp.com
   - beryt111.fun
   - besc.baidustatic.com
@@ -873,25 +833,28 @@ domain_suffix_set:
   - bewrutv.top
   - bfhueh.top
   - bfjsliv.top
-  - bfjszxzfvf.com
   - bgbg00.fun
   - bghebf.xyz
   - bgidskiv.top
+  - bhaelnieth.com
   - bhakte.com
   - bhanphevg.com
   - bhaoea.cn
   - bhegilut.com
+  - bhelzun.com
+  - bhohreatz.com
+  - bhoscopop.com
   - bhovrath.com
   - bhukkeks.com
-  - biancitiao.com
   - bianxianmao.com
   - biddingx.com
+  - bidotz.icu
   - bieuc.icu
-  - bijiangqing.com
   - bijmz.cn
   - bildrat.com
   - bilec.xyz
   - bilibilitool.site
+  - bimnodstz.com
   - bing001.shop
   - bing003.shop
   - bing005.shop
@@ -906,30 +869,27 @@ domain_suffix_set:
   - bjfsk.xyz
   - bjimtyv.top
   - bjjabc.com
-  - bjrspnbf.xyz
   - bjs.faxingzhan.com
-  - bjxfnn.xyz
+  - bjtlzv.icu
   - bkiterv.top
+  - bkox.cn
   - bkxpph.xyz
-  - bkzmtp.xyz
   - blasedustin.shop
   - blbtibqk.icu
   - blciqbk.icu
   - bld.mobi
   - blinxmi.icu
-  - blntzf.xyz
   - blrpbt.xyz
-  - blue-rain.com.cn
-  - blzbjpg.xyz
   - blzwvb.xyz
   - bm.h576.com
+  - bmasamd.top
   - bmhept.xyz
   - bmhtwefv.icu
   - bmjs.xzw.com
-  - bmnbyn.icu
   - bmougwx.icu
   - bmqulua.icu
   - bnalzlv.top
+  - bnbwvp.top
   - bndxrr.xyz
   - bnfectkp.icu
   - bnhorn.xyz
@@ -939,23 +899,21 @@ domain_suffix_set:
   - bnrk7esglquispx2lsluttlm.xyz
   - boardx.huanqiu.com
   - bodhalqg.com
-  - bogtrmjz.xyz
   - bojyvp.xyz
   - boubliv.top
   - bovytl.xyz
   - bowoprf.icu
   - bowvses.icu
+  - bptnzp.top
   - bpxbzps.xyz
   - bpxxgkoj.icu
-  - bpyerxzn.xyz
   - bqnxff.xyz
+  - bremphumz.com
   - brephras.com
   - brerkols.com
   - brircel.com
-  - brookssa.com
   - brornaeq.com
   - brtlisv.top
-  - brtzgnd.xyz
   - brulpha.com
   - brutvncv.top
   - bt1.patexplorer.com
@@ -966,47 +924,42 @@ domain_suffix_set:
   - btn.pchome.net
   - btrwxz.xyz
   - btvbnrwo.icu
-  - btwwzqdx.xyz
   - btyhnbmn289.shop
   - btyhnraw653.shop
   - bu1.duba.com
   - bu1.vvvdj.com
-  - bugzmn.icu
   - bujlmitd.icu
   - bumnxiev.top
-  - buoizbtl.xyz
+  - bun1.dayi.org.cn
   - buresdv.top
   - burniecrepes.com
   - business.92wy.com
-  - buvdkt.icu
   - bvdenx.xyz
   - bvrzwnq.xyz
   - bvubasnf.com
-  - bvxiht.xyz
   - bweriov.top
   - bwilmiv.top
   - bwjfnj.xyz
   - bwurserv.top
   - bwz4e.icu
   - bxheifoe.icu
+  - bxhm.cn
   - bxlmrl.xyz
+  - bxlulr.icu
   - bxmazls.icu
-  - bxnxdlb.xyz
   - bxoaeju.icu
   - bxqgk.icu
+  - bxzlfr.icu
   - by.dyq.cn
-  - bydcxdy.cn
+  - bybrrn.icu
   - bydebd.xyz
   - bylwtf.xyz
-  - bymahuxv.xyz
+  - bypllv.icu
   - byretuv.top
   - byscy.cn
   - bytmfj.xyz
   - byuwkbv.top
-  - bzelzfnj.xyz
   - bzqqftz.icu
-  - bzverx.xyz
-  - bzzxyyh.xyz
   - c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
   - c.28rv.com
   - c.91wan.com
@@ -1032,20 +985,17 @@ domain_suffix_set:
   - cadke.xyz
   - cai75tp.com
   - caicme.xyz
-  - caomaotongji.com
   - caomeixz7.xyz
   - captickc.com
   - caqreg.xyz
   - car.qcmrjx.com
   - cb.baidu.com
   - cbcgqs.xyz
-  - cbcvou.xyz
   - cbdm.weathercn.com
   - cbdqzbi.icu
   - cbgrqi.xyz
   - cbjs.baidu.com
   - cbthkumwa96.shop
-  - cbttnmo.xyz
   - cc.8181zx.com
   - cc.xiaodapei.com
   - cc.xwscg.com
@@ -1053,25 +1003,20 @@ domain_suffix_set:
   - ccccc67kkkkk.com
   - ccccc78kkkkk.com
   - ccccc88kkkkk.com
+  - ccinmaf.top
+  - ccinvdf.top
   - cclimif.top
   - ccmeng.com
   - ccobksxz.icu
   - ccokamif.top
-  - ccsshn137.shop
-  - cdazjxso.xyz
   - cdcs34.fun
-  - cdfhidrk.xyz
-  - cdftizu.xyz
   - cdgfa.ifeng.com
   - cdgtw3.guapaijia.com
-  - cdhfvrug.xyz
   - cdickef.top
   - cdilm.cn
   - cdinmaf.top
   - cdipsumf.top
   - cdlekgr.icu
-  - cdmgac.xyz
-  - cdmnlxtu.xyz
   - cdmyeg.xyz
   - cdn.haocaa.com
   - cdn.holmesmind.com
@@ -1084,17 +1029,13 @@ domain_suffix_set:
   - cdnjs.z-face.cn
   - cdnny.com
   - cdntlz.cn
-  - cdolhlwq.xyz
   - cdomsif.top
   - cdoshbf.top
-  - cdrvkdni.xyz
   - cdscs990.fun
   - cdszgg.xyz
-  - cdttxdqe.xyz
   - cduno.cn
   - cdunwi.xyz
   - cdxyb.cn
-  - cdybwjpa.xyz
   - cdyurlif.top
   - ce.wlaoc.cn
   - cee1.iteye.com
@@ -1108,6 +1049,7 @@ domain_suffix_set:
   - cfjslif.top
   - cfrtdmb.xyz
   - cfugrnc.icu
+  - cfwlvmg.top
   - cg-pao-tu.nanyanglk.com
   - cgczuu.xyz
   - cggyyi.xyz
@@ -1115,50 +1057,35 @@ domain_suffix_set:
   - cgskys.xyz
   - chaoyumiao.com
   - chaqraex.com
-  - chayassa.com
-  - chbheroq.xyz
   - checbox.cc
-  - cherylssb.com
-  - chgpuxim.xyz
   - chidir.com
   - chinagcdxyjng.cn
   - chinesean.com
   - chmueyv.icu
   - chnci.com
-  - chnvgdkw.xyz
   - chonaesor.com
   - chong-wu.net
   - chooncv.icu
-  - chsdwjes.xyz
-  - chubsxmg.xyz
+  - chorninsm.com
+  - chuccipkn.com
   - chumealq.com
   - chunmiaosh.com
   - chunyuqiufeng.com
   - chupl.icu
   - chushoushijian.cn
   - chussuth.com
-  - chzjidgc.xyz
+  - chuundads.com
   - cidhmxxb.icu
-  - ciimar.icu
-  - cijianggun.com
+  - cigoqcq.top
   - cismqdx.icu
   - cjgymo.xyz
   - cjimtyf.top
-  - cjzrfxs.xyz
   - ckg.vipyl.com
   - ckyriuf.icu
   - classic.39health.com
-  - cldxphtg.xyz
-  - clgvlvbc.xyz
-  - cliffnsc.xyz
-  - clkdbbvy.xyz
   - clkwnl.xyz
   - clmcam.xyz
-  - clmkwi.xyz
-  - clplrhum.xyz
   - clqjyw.xyz
-  - clrjnhxi.xyz
-  - clypzbzs.xyz
   - cm.baidu.com
   - cmelr.com
   - cmm.xmfish.com
@@ -1174,6 +1101,7 @@ domain_suffix_set:
   - cod.southmoney.com
   - code.ditiezu.net
   - code.wenbanzhu.com
+  - cokudsvit.com
   - commonwealthproficient.com
   - cooann.top
   - cos1999.top
@@ -1181,7 +1109,6 @@ domain_suffix_set:
   - cosmo100.top
   - cosmo202.top
   - cosouy.xyz
-  - costarg.com
   - coublif.top
   - count.xxxssk.com
   - couvxlif.top
@@ -1191,36 +1118,27 @@ domain_suffix_set:
   - cp.jfcdns.com
   - cp.qbaobei.com
   - cp2.eastmoney.com
-  - cpdronhu.xyz
-  - cpffkbpq.xyz
-  - cpkxahje.xyz
   - cpm.cm.kankan.com
-  - cpmlwhra.xyz
-  - cprdmnlo.xyz
   - cpro.baidu.com
   - cpro.baidustatic.com
   - cpro.bdrmb.cn
   - cpro.xixiliya.cn
   - cpro.zol.com.cn
-  - cpwlctfk.xyz
-  - cpyjyhny.xyz
   - cqcrci.xyz
-  - cqisam.xyz
   - craegvin.com
   - craivrals.com
   - cralphal.com
   - crayon.meishichina.com
-  - crbbhp.xyz
+  - crazodsxx.com
+  - crektels.com
   - cresqoirz.com
   - crevainv.com
-  - crfjxfoe.xyz
   - cridotty.com
   - crigroik.com
   - criqai.com
   - crjeymh.cn
   - crlsxny.xyz
   - crnmyrk.icu
-  - crodfnyk.xyz
   - crolerl.com
   - crtlisf.top
   - cruhut.com
@@ -1235,28 +1153,18 @@ domain_suffix_set:
   - css.zmjm.com
   - csylief.top
   - ctc.weather.com.cn
-  - ctcxflak.xyz
   - ctimiyf.top
   - ctkyom.xyz
   - ctlacnh.icu
-  - ctlrarz.xyz
-  - ctmrso.xyz
-  - ctvrtrya.xyz
   - ctyusif.top
   - cuaeblh.icu
   - cukuix.com
   - cupfox.app
   - curesdf.top
   - cuvedyqs.com
-  - cuvtnzv.cn
   - cv7.icu
-  - cvbjctqs.xyz
   - cvdfvdfv90.fun
-  - cvfgere96.cn
-  - cvgrszkg.xyz
   - cvmuia.xyz
-  - cvnxetmq.xyz
-  - cvudqzoa.xyz
   - cvujac.xyz
   - cwaterf.top
   - cweisif.top
@@ -1267,12 +1175,10 @@ domain_suffix_set:
   - cwilmif.top
   - cwiuhtp.icu
   - cwmlm.com
-  - cwssfg632.shop
   - cwwgqu.xyz
   - cxdcn9c.fjshxjs.cn
   - cxeftgyuer.top
   - cxgfq.pinlue.com
-  - cxlvlbx.xyz
   - cxsh.cn.com
   - cxvyk.com
   - cxy88.friok.com
@@ -1281,7 +1187,6 @@ domain_suffix_set:
   - cyretuf.top
   - cysgcm.xyz
   - cyuwkbf.top
-  - czpnpjrg.xyz
   - czxvgod.xyz
   - d-test.39.net
   - d.6xw.com
@@ -1307,7 +1212,6 @@ domain_suffix_set:
   - d2un76zvb5mgzx.cloudfront.net
   - d37d9zbli5ytch.cloudfront.net
   - d3d7a0q05k6bvz.cloudfront.net
-  - d3g4a.cyou
   - d3iih5w7xp5hdg.cloudfront.net
   - d5r.icu
   - d6.mobaders.com
@@ -1316,7 +1220,6 @@ domain_suffix_set:
   - dabajd.xyz
   - dadatuwz.com
   - dadxnl.xyz
-  - dafdfd.cn
   - dai.siyuetian.net
   - dai18.mumu01.com
   - daiitmk.cn
@@ -1335,8 +1238,6 @@ domain_suffix_set:
   - dajs001.shop
   - daksflkalq.top
   - daliantong.com.cn
-  - damiul.icu
-  - dansheshi.com
   - darren01.oss-cn-beijing.aliyuncs.com
   - dasda64.fun
   - dasdujaosjdioad.com
@@ -1348,7 +1249,8 @@ domain_suffix_set:
   - datas.tianqistatic.com
   - davtvd.xyz
   - dayujs.top
-  - dblijd.xyz
+  - dbdophuz.icu
+  - dbigboq.top
   - dceuhnpc57.shop
   - dchdmhf.cn
   - dchyjb.xyz
@@ -1358,7 +1260,6 @@ domain_suffix_set:
   - dddstew6cw8.fun
   - ddgjjj.com
   - ddhjabqe.icu
-  - ddllhqj.xyz
   - ddlmsoyo.icu
   - ddlzlr.xyz
   - ddnzpr.xyz
@@ -1372,11 +1273,13 @@ domain_suffix_set:
   - delivery.playallvideos.com
   - delivery.wasu.cn
   - denjpl.xyz
+  - derwbl.icu
   - destinyssa.com
   - df888.eastday.com
   - dfan4.icu
   - dfgfdffg.cn
   - dfhgry.com
+  - dfhthh.icu
   - dflkndkzf.com
   - dfprljx.xyz
   - dfqzah.xyz
@@ -1386,20 +1289,25 @@ domain_suffix_set:
   - dgaxrjj0jwpwp.cloudfront.net
   - dgkship.icu
   - dgrgr34.fun
+  - dhaaralzz.com
+  - dhannaq.com
   - dheirzeh.com
   - dhemixu.com
   - dhkqqe.top
   - dhl.135320.com
   - dhnnbfok.icu
+  - dhonphehr.com
   - dhukul.com
+  - dhulzehgk.com
+  - dhuquxqy.com
   - dian.brecm.xyz
   - dian500.com
   - dianassb.com
   - dianxin.com
-  - diccsbhij.com
+  - diav.cn
   - diendh.xyz
   - difhil.icu
-  - difmnd.xyz
+  - difzhd.icu
   - dingbu.bj.bcebos.com
   - display.itmemo.cn
   - displink.com
@@ -1408,7 +1316,6 @@ domain_suffix_set:
   - djs.baomihua.com
   - djsxm.xyz
   - djxpnuo.xyz
-  - dk45h.icu
   - dkasdeerw.xyz
   - dkasffredf.xyz
   - dkhffh.xyz
@@ -1417,7 +1324,6 @@ domain_suffix_set:
   - dktad.com
   - dkweuy.com
   - dlads.cn
-  - dlngft.xyz
   - dm.17xuexiba.com
   - dm.21hubei.com
   - dm.51okc.com
@@ -1441,7 +1347,6 @@ domain_suffix_set:
   - dmm.aizhan.com
   - dmnqfn.xyz
   - dmnxkj.cn
-  - dmpqjn.xyz
   - dmr.cnhoney.com
   - dms.fx678.com
   - dms.vancss.com
@@ -1449,11 +1354,9 @@ domain_suffix_set:
   - dmym.aixyy.com
   - dn4qoz.com
   - dnd2.icu
-  - dnfnpff.xyz
   - dnpalh.xyz
   - dnpz123.com
   - dns.chuzushijian.cn
-  - docfj.cyou
   - domain1.chahaoba.cn
   - dongtukj.oss-cn-hongkong.aliyuncs.com
   - dopklb.xyz
@@ -1483,9 +1386,7 @@ domain_suffix_set:
   - dpjzr.top
   - dpweupc.icu
   - dpzplb.xyz
-  - dqlhuf.icu
   - dqlrfmwp.icu
-  - dqrdwz.icu
   - dr.mlcuzee.cn
   - draktash.com
   - drandoxo.com
@@ -1494,8 +1395,10 @@ domain_suffix_set:
   - dreuaxk.icu
   - drihmae.com
   - drjs123.com
+  - drlzlc.top
   - drmcmm.baidu.com
   - drtrs55.fun
+  - druqodrly.com
   - drustren.com
   - ds.ruanwengfa.com
   - ds1.kaijia.com
@@ -1503,7 +1406,6 @@ domain_suffix_set:
   - dsad234.fun
   - dsads55.fun
   - dsaewew21.fun
-  - dsbqvj.xyz
   - dscds111.fun
   - dsda21.fun
   - dsdsa33.fun
@@ -1512,38 +1414,38 @@ domain_suffix_set:
   - dshjbn.xyz
   - dsikpuv.icu
   - dsjhcgvhjsvc.com
-  - dsjkbcjsjkbvs.com
-  - dskjbvzvs.com
   - dsoxgdjv.icu
   - dsp.ali213.net
   - dssddf33.fun
   - dssdfsf.cn
   - dsukqsx.icu
   - dt0j.icu
+  - dtdqpc.top
+  - dtjcvd.icu
   - dtjpihv.xyz
+  - dtntnl.icu
   - du1.bbdj.com
   - duiwai.baidu.com
-  - duluoweiyu.com
   - dun8qk8.lkmxqq.com
   - duomai.com
   - duoying.vip
   - dup.baidustatic.com
+  - dupzbh.icu
   - duyewnf.icu
   - dv0i.icu
   - dv4ku.icu
-  - dvclhmt.cn
   - dvgjx.cn
+  - dvgr.cn
   - dvlith.xyz
   - dvs.china.com
   - dvser.china.com
+  - dvuz.cn
+  - dwyeuy.com
   - dxfidr.xyz
-  - dxrnksm.xyz
-  - dxsjcz.cn
   - dxwksqa.icu
   - dy10000.net
   - dydab.com
-  - dyegif.icu
-  - dytkgl.icu
+  - dyyygyg.top
   - dyzgdp.xyz
   - dzdnffs.xyz
   - dzjzg.com
@@ -1558,15 +1460,15 @@ domain_suffix_set:
   - e9h.icu
   - eacdf119.cn
   - eacqihh.icu
-  - eaezoi.xyz
   - eap.big5.enorth.com.cn
   - eap.enorth.com.cn
   - eaqgsw.xyz
-  - eaqlos.xyz
   - easou.com
   - eatnontf.icu
   - ebp.renren.com
+  - ecatqefal.com
   - ecikmrm.icu
+  - ecinvdw.top
   - eclimiw.top
   - ecma.bdimg.com
   - ecmb.bdimg.com
@@ -1587,6 +1489,7 @@ domain_suffix_set:
   - ee.shixunwang.net
   - ee5.icu
   - eeaczcf.icu
+  - eelkeageg.com
   - eeqweqw.fun
   - eeryt111.fun
   - eetlwsw.top
@@ -1598,34 +1501,30 @@ domain_suffix_set:
   - efhis.cn
   - efjsliw.top
   - efs604.top
+  - efxh.cn
   - egesdashb8.fun
   - egg0.icu
   - egidskiw.top
-  - egywbps748.shop
-  - egywbpu286.shop
   - ehhjfgs.xyz
   - ehmhqcn.cn
-  - ehrhrrx.xyz
-  - eht116.com
   - ei1s7b.cn
   - ei7.icu
-  - eiegkg.xyz
+  - eildralfl.com
   - eiphrut.com
-  - eiqsky.xyz
   - eisnaisv.com
   - eitilbyr.com
   - eiuoom.xyz
   - eiv.baidu.com
-  - ejdhmed.xyz
   - ejimtyw.top
+  - ejti.cn
   - ejunshi.com
   - ekltes.xyz
   - ekykse.xyz
   - ekzmk.icu
+  - eldaridpr.com
   - elloisny.com
   - elphhrj.xyz
   - elsbfby.com
-  - eluocs.xyz
   - elvirassb.com
   - emdcadvertise.eastmoney.com
   - emizkno.cn
@@ -1645,12 +1544,9 @@ domain_suffix_set:
   - eoubliw.top
   - eoucxzw.icu
   - eouvxliw.top
-  - epxfjcb.xyz
   - epxlt.xyz
   - eq.af31f.site
   - eqkvks.xyz
-  - eqqwgw.xyz
-  - equkgm.xyz
   - eqygki.xyz
   - er.5ykj.cn
   - er.5ykj.com
@@ -1658,13 +1554,11 @@ domain_suffix_set:
   - ercoils.com
   - erebor.douban.com
   - ergeapp.com
-  - erluankuan.com
   - erqtga.xyz
   - ersjnpwf837.shop
   - ertlisw.top
   - erutvncw.top
   - eskux.xyz
-  - esqhsm.xyz
   - esqzwq.xyz
   - esyliew.top
   - esyook.xyz
@@ -1672,9 +1566,11 @@ domain_suffix_set:
   - etjui.cn
   - etroytj33.fun
   - etyusiw.top
+  - euazwot.top
   - euresdw.top
   - evgaow.xyz
   - evkzqs.xyz
+  - evreiks.com
   - ewaterw.top
   - eweisiw.top
   - eweizaw.top
@@ -1686,7 +1582,7 @@ domain_suffix_set:
   - ewqws55.fun
   - ewurserw.top
   - ewxufqs.cn
-  - execuri.com
+  - exocoed.top
   - exqvak.xyz
   - extopae.icu
   - eyislow.top
@@ -1699,53 +1595,53 @@ domain_suffix_set:
   - f1.zaojv.com
   - f11.hackhome.com
   - f5zv2.icu
-  - f7fe0.cyou
   - f7j.icu
   - faaqgje.icu
   - fabu333.top
   - facai383.oss-cn-guangzhou.aliyuncs.com
-  - fadhvz.xyz
+  - fafvvt.icu
   - fagrirtn.com
+  - fajkhr.icu
   - fam-8.net
   - fanjs.top
   - fanyi100.com.cn
   - fanzhuang.net.cn
   - farm-cn.plista.com
-  - fbfrbt.xyz
+  - fbhkxt.icu
+  - fbphnn.icu
   - fbqrt.cn
+  - fbvbrb.icu
   - fca6f.icu
   - fcbdpock.icu
   - fczunn.xyz
   - fdfda.zhuzhai.com
   - fdfghgfdd.yunqishi.net
-  - fdhnsr56.shop
   - fdswrgg.cn
   - fdtlfl.xyz
   - fdyacma.icu
   - febtzd.xyz
-  - fefgvh.xyz
+  - feernhuhe.com
   - fefwe334.fun
   - feittoill.com
-  - fekpcd.icu
   - fendeyrziz.top
   - fenxi.com
   - feofamdak.top
   - feptbh.xyz
   - feronyv.com
-  - ferriesendless.com
+  - fesnaed.com
   - feubgzfx.icu
   - ff.meikanguo.com
   - ff.psd8.com
   - ff.qichetansuo.com
   - ffbdbx.xyz
   - ffdafx.xyz
+  - ffjevt.icu
   - fgadsqdma.top
   - fgdkfr.xyz
   - fghghh.cn
   - fgnfpnae.icu
   - fgwuw.com
   - fhnbrx.xyz
-  - fhtfnb.xyz
   - fhvzrr.xyz
   - fiezaits.com
   - fijipic.xyz
@@ -1755,22 +1651,18 @@ domain_suffix_set:
   - fjqcqdr.icu
   - fjzimaoqu.cn
   - fkesfg.com
-  - fkhxlz.xyz
   - fkjdiefz.icu
   - fklgndklbngg.com
-  - fmfnrf.xyz
   - fmjjvb.xyz
   - fmkipgm.icu
   - fmmirep.icu
   - fmssoj.icu
-  - fmvzzh.xyz
+  - fngmeat.top
   - fnjoomqa.icu
   - fo0.icu
   - fodrxl.xyz
   - fogolakda.top
-  - fol9v.xyz
   - fonfn.com
-  - fopksr.icu
   - foreveryoung.gz01.bdysite.com
   - forrzp.xyz
   - foscvbu.icu
@@ -1783,12 +1675,12 @@ domain_suffix_set:
   - fpbone.ihowguide.com
   - fpelfyeesuoivy.com
   - fpfbbn.xyz
+  - fpfhtr.icu
   - fpgonuk.icu
-  - fpjjjh.xyz
   - fpninv.xyz
   - fppcrl.xyz
-  - fptbdr.xyz
   - fpvdrzx.xyz
+  - fpxhdx.icu
   - fq01.shop
   - fq010.shop
   - fq02.shop
@@ -1798,38 +1690,35 @@ domain_suffix_set:
   - fq06.shop
   - fq07.shop
   - fq67.top
-  - fqbjzj.xyz
+  - fqbr.cn
   - fqghykp.cn
+  - fqnhjt.icu
+  - fqnojp.top
   - free-cdn.oss-cn-shanghai.aliyuncs.com
   - frfve33.fun
   - frgf99.fun
   - frgre33.fun
   - frntzz.xyz
-  - frtnqps358.shop
-  - frtnqpw837.shop
+  - frthpp.icu
   - fsdf45.fun
   - fsijngnfsfk.com
+  - fsjfnp.top
   - fspddt.xyz
-  - ftdbtko.xyz
-  - fufrnl.xyz
+  - fttxhcua.icu
   - fujnrh.xyz
   - fuoo1.top
-  - fvpboxu.xyz
+  - fuuksew.com
   - fvyqblc.icu
-  - fwcnex.icu
   - fwsfwef2.fun
   - fxgkktj.icu
-  - fxjnfn.xyz
   - fxjs.2541.com
   - fxnmjb.xyz
   - fy60.icu
   - fywaaox.icu
   - fzdwtage.icu
-  - fzgetdy.cn
   - fzjbsvgz.icu
   - fzllis.cn
   - fzpzrqou.icu
-  - fztyrv.xyz
   - g.3lian.com
   - g.gegeyingshi.com
   - g.hsw.cn
@@ -1846,8 +1735,6 @@ domain_suffix_set:
   - g7ghdash2.fun
   - ga1.3dmgame.com
   - gahejiao.com
-  - gaipuzui.com
-  - gamdus.xyz
   - gamecps.com
   - gameone.com
   - ganjituiguang.ganji.com
@@ -1860,7 +1747,6 @@ domain_suffix_set:
   - gccnntq.cn
   - gcddashb3.fun
   - gcomwx.icu
-  - gcumgu.xyz
   - gcvcdashb2.fun
   - gcvgedashb3.fun
   - gcylkq.xyz
@@ -1871,7 +1757,6 @@ domain_suffix_set:
   - gdyjs.com
   - ge189.com
   - ge3shbdf1.fun
-  - ged46.xyz
   - gedafdshb7.fun
   - gedashb112.fun
   - geddsashb3.fun
@@ -1880,6 +1765,7 @@ domain_suffix_set:
   - geinkroll.com
   - geotmt.com
   - geqshb22.fun
+  - gerqragpl.com
   - gesdxashb1.fun
   - gesfdashb5.fun
   - gessdashb6.fun
@@ -1892,9 +1778,7 @@ domain_suffix_set:
   - gfdgfhh.cn
   - gffedashb6.fun
   - gfjn5.xyz
-  - gfpvvwf.xyz
   - gftefmt.icu
-  - gfylyw.xyz
   - gg.0598yu.com
   - gg.7976.top
   - gg.blueidea.com
@@ -1914,31 +1798,27 @@ domain_suffix_set:
   - ggcode.2345.com
   - ggdm1.nhaidu.net
   - ggfdgd88.fun
-  - gghhce96.shop
-  - gghhct36.shop
   - ggjs.d17.cc
   - ggs.myzaker.com
   - ggsfq.xyz
   - ggtp-1255424916.cos.ap-chengdu.myqcloud.com
-  - ggttbe961.shop
-  - ggttmu853.shop
   - ggw.gusuwang.com
   - ggw.watertu.com
   - ggxwb.miguvideo.com
-  - ghabnq.xyz
   - ghairqin.com
+  - ghegaintp.com
   - gheqien.com
   - gherkax.com
   - gheslosy.com
-  - ghgasdb365.shop
-  - ghgasdt963.shop
   - ghghgf.51dongshi.com
   - ghghgf.xuexiwa.com
   - ghiuge55.fun
   - ghjedashb6.fun
+  - ghozokodq.com
   - ghwqbii.icu
   - gi0.icu
   - gjhjjhgc.cn
+  - gjinuqg.top
   - gjjskhdnm.top
   - gjkkdashb4.fun
   - gjmedashb0.fun
@@ -1949,15 +1829,13 @@ domain_suffix_set:
   - gkcogyf.icu
   - gkeolwi.icu
   - gklox.cn
-  - gkutca.xyz
   - gkypgw.xyz
-  - glittersh.com
   - gmmlmo.xyz
   - gmso01010oka.top
   - gmso12251oka.top
   - gmso12261oka.top
   - gmso12271oka.top
-  - gmxysb.icu
+  - gmwqpgq.top
   - gnyuhzd.icu
   - go.hangzhou.com.cn
   - gocye.com
@@ -1978,12 +1856,13 @@ domain_suffix_set:
   - goto.www.iciba.com
   - gp.jstv.com
   - gp.zaiyunli.cn
-  - gpiagk.xyz
   - gpmzkg.xyz
   - gpowow.xyz
   - gpqkeq.xyz
+  - gqoi.cn
   - gqwwshbdd1.fun
   - graesol.com
+  - grarnuns.com
   - grerzieds.com
   - grewash1b.fun
   - grihaith.com
@@ -1995,29 +1874,26 @@ domain_suffix_set:
   - grulphaens.com
   - gsdedash9b.fun
   - gsjdzx.com
-  - gsuxyg.xyz
   - gsywcc.xyz
   - gt.duowan.com
   - gt.yy.com
   - gtdf33.fun
-  - gth112.com
   - gtrhnhg.cn
   - gtxkze.cn
   - guang.sdsgwy.com
   - guang1.zhakao.cn
   - guanjiabo.net
-  - gueikw.xyz
+  - gucx.cn
   - guess.h.qhimg.com
   - guifudi.com
+  - gukviels.com
   - gumgo.cn
   - gumnus.com
   - gunmi.cn
   - guqoinly.com
-  - gushi.network
+  - guqransoq.com
   - guwohvw.icu
   - guyhok.xyz
-  - guysfair.com
-  - gvbta.icu
   - gvvedashb6.fun
   - gw2cddpt2hao.asia
   - gw2cddpt2hao.cloud
@@ -2025,11 +1901,9 @@ domain_suffix_set:
   - gw8.icu
   - gwogrgq.icu
   - gxcdgm.xyz
-  - gxihcq.xyz
   - gxjajt.com
   - gxoaku.xyz
   - gxqzz.7766.org
-  - gxzhshop.com
   - gybyxsy1588.com
   - gyunce.xyz
   - gzfsqrc.icu
@@ -2043,7 +1917,7 @@ domain_suffix_set:
   - h5r.icu
   - h6295.com
   - h6o.fun
-  - ha723.icu
+  - h8ne.com
   - hades.qyer.com
   - hahaql.top
   - hahusa.top
@@ -2057,19 +1931,18 @@ domain_suffix_set:
   - hauqks.top
   - hauqou.top
   - hbbynt.xyz
-  - hbjolp.xyz
-  - hblarn.xyz
   - hbnygj.com
-  - hbxzlf.xyz
+  - hbxmdf.icu
   - hbzjht.com
   - hccoeutg.com
   - hcgbhq.com
+  - hchus5739dmew.top
+  - hcinmau.top
+  - hcinvdu.top
   - hcirentgh.360doc.cn
-  - hciwyv.icu
   - hclimiu.top
   - hcokamiu.top
   - hcznaubp.icu
-  - hdaidj.cn
   - hdamcsu.top
   - hdapp1003-a.akamaihd.net
   - hdapp1008-a.akamaihd.net
@@ -2082,13 +1955,13 @@ domain_suffix_set:
   - hdomsiu.top
   - hdoshbu.top
   - hdsrc-a.akamaihd.net
-  - hdtedar126.shop
   - hdtu.oss-cn-beijing.aliyuncs.com
   - hdtvnr.xyz
   - hdxyj.icu
   - hdyurliu.top
-  - heapz.cyou
   - heatherssb.com
+  - hebaidu.cc
+  - heemphaers.com
   - heiviek.com
   - heloisessa.com
   - hendehy.com
@@ -2108,11 +1981,8 @@ domain_suffix_set:
   - hgfutf.xyz
   - hgidskiu.top
   - hgngrf.xyz
-  - hgthpj.xyz
   - hh.jiankang.com
   - hhausq.top
-  - hhffks967.shop
-  - hhffnu135.shop
   - hhrerv.xyz
   - hi.xiunm.cn
   - hi.xiunm.com
@@ -2127,21 +1997,23 @@ domain_suffix_set:
   - hjammiz.icu
   - hjdjfl.icu
   - hjimtyu.top
-  - hjjshv.xyz
   - hjkhxfh.360doc.cn
   - hjrcjz.xyz
   - hjshal.com
-  - hkbumv.icu
   - hkjzkrqz.icu
   - hknoq.cn
   - hkpeghqu.icu
   - hl.dyq.cn
   - hlegsdh.icu
   - hlstlyy.com
-  - hmlkppk.cn
+  - hltpdd.icu
+  - hlzncxmu.icu
+  - hmbprf.icu
+  - hmjmjz.icu
   - hmtoday.com
   - hnalzlu.top
   - hnartcqab847.live
+  - hnhmxj.icu
   - hnifdlau.top
   - hnyishidengbao.com
   - hongi7ie8owiie01.site
@@ -2155,18 +2027,15 @@ domain_suffix_set:
   - hoxdotye.icu
   - hp7.fun
   - hp8g6.icu
-  - hptyp.icu
+  - hptidc.top
   - hpzktd.xyz
   - hqhspv.xyz
   - hrjciqyu.icu
-  - hrjctx.xyz
   - hrjg.com.cn
-  - hrnkdr.xyz
   - hrnvfp.xyz
   - hrrjff.xyz
   - hrtlisu.top
   - hrutvncu.top
-  - hscq8.cyou
   - hsoubnp.icu
   - hsutav.icu
   - hsvchnsvncvvd.com
@@ -2181,12 +2050,12 @@ domain_suffix_set:
   - htxwzp.xyz
   - htyusiu.top
   - huaerdadi.com
-  - huatmp.icu
   - hulichuang.mobi
   - huohuo.huamuwo.com
   - huoxun.wang
   - huresdu.top
   - huuocxu.icu
+  - hvddxj.icu
   - hvuqkb.cn
   - hvxrvef.xyz
   - hwateru.top
@@ -2197,15 +2066,19 @@ domain_suffix_set:
   - hwilmiu.top
   - hwnojj.xyz
   - hwplypbn.icu
+  - hwtadf.icu
   - hwurseru.top
+  - hwxprd.icu
   - hwymoyv.icu
   - hxbt.alading123.com
+  - hxnpxh.icu
   - hy.huangye88.com.cn
   - hy.huangye88.net
   - hy90.cn
   - hyhy2.fun
   - hyislou.top
   - hyjqgpu.top
+  - hylplj.icu
   - hyretuu.top
   - hyth74.fun
   - hyusnisu.top
@@ -2216,6 +2089,7 @@ domain_suffix_set:
   - i2wq4.icu
   - i3535.com
   - i3z.cn
+  - i8m6.com
   - iads.xinmin.cn
   - iaindu.cn
   - iaiqk.top
@@ -2227,9 +2101,10 @@ domain_suffix_set:
   - ibqmey.xyz
   - ibyrwvi.cn
   - ichc1.xinglinpukang.com
+  - icinmao.top
+  - icinvdo.top
   - iclimio.top
   - icokamio.top
-  - icqeou.xyz
   - icudqq.xyz
   - idamcso.top
   - idcot.com
@@ -2272,7 +2147,6 @@ domain_suffix_set:
   - ijeujkdhnvb.top
   - ijimtyo.top
   - ijksec.xyz
-  - ijmxco.xyz
   - ikuailian.com
   - ilzies.com
   - images8.gaotie.cn
@@ -2316,9 +2190,9 @@ domain_suffix_set:
   - inone517.com
   - inphais.com
   - inping.com
-  - insfengdata.com
   - inte.sogou.com
   - inworket.com
+  - inzoiwe.com
   - inzut.com
   - ioaiqp.top
   - ioublio.top
@@ -2333,42 +2207,35 @@ domain_suffix_set:
   - ipyhf.icu
   - iqgessh.icu
   - iqi4l.icu
-  - iqs871.com
-  - iqveat.icu
   - ir4.icu
   - irgidshiv.com
   - irgxwk.xyz
   - irkrellw.com
   - irkrors.com
-  - irmbyu.xyz
   - irqaci.xyz
   - irtliso.top
   - irulws.xyz
   - irutvnco.top
   - is02041qqp.xyz
   - is02050qqp.xyz
-  - is686.com
-  - isine88.com
-  - isksss.top
   - ismuwcm.icu
+  - istraxuhh.com
   - isylieo.top
   - itadapi.ithome.com.tw
   - itakrid.icu
   - iteyi.xyz
   - itimiyo.top
   - itjcqlp.icu
-  - itjgwn.xyz
   - itqwesk.icu
   - ittaels.com
   - ityusio.top
-  - iummqg.xyz
   - iuou.myadobe.cn
   - iuou.ysw365.com
-  - iuqasw.xyz
   - iuresdo.top
   - iuuwuk.xyz
   - iuytfvhl.top
   - ivnrrkx.cn
+  - ivvn.cn
   - ivy.pconline.com.cn
   - iwanad.baidu.com
   - iwanshang8.asia
@@ -2384,14 +2251,16 @@ domain_suffix_set:
   - ix4.icu
   - ixbua.xyz
   - ixstng.cn
+  - ixtu.cn
   - iy.com.cn
   - iyisloo.top
   - iyjqgpo.top
+  - iyof.cn
+  - iyqbsst.top
   - iyuedu.cn.com
   - iyuwkbo.top
   - izalflh.cn
   - izcqyy.xyz
-  - izmiua.xyz
   - izqeyo.xyz
   - izqogb.cn
   - izuts.com
@@ -2410,6 +2279,8 @@ domain_suffix_set:
   - jbkqemk.icu
   - jc1.dayfund.com.cn
   - jcfnbhqo.icu
+  - jcinmaa.top
+  - jcinvda.top
   - jciwztfj.com
   - jclimia.top
   - jcokamia.top
@@ -2417,7 +2288,6 @@ domain_suffix_set:
   - jcreje.com
   - jcwlsofn.icu
   - jdamcsa.top
-  - jdbeht.xyz
   - jddaw.com
   - jdfzfd.xyz
   - jdickea.top
@@ -2430,7 +2300,6 @@ domain_suffix_set:
   - jdrlfn.xyz
   - jdyurlia.top
   - jebrhb.icu
-  - jedlnn.xyz
   - jeepyy.com
   - jeryt111.fun
   - jetlwsa.top
@@ -2438,17 +2307,17 @@ domain_suffix_set:
   - jfjslia.top
   - jfrrnf.icu
   - jg1668.com
-  - jgblvt.xyz
+  - jgapcsi.icu
   - jgidskia.top
   - jgjyxf.xyz
   - jglgjz.xyz
-  - jgmywh.icu
   - jgntjtyf.icu
   - jgstny.com
   - jgvkxp.xyz
-  - jgygtv.cn
+  - jgxirv.icu
   - jhlnlt.xyz
   - jhnnnb.xyz
+  - jhrulp.icu
   - jianpian.vip
   - jianxuzuo.com
   - jiaoben.eastday.com
@@ -2460,13 +2329,14 @@ domain_suffix_set:
   - jili9.io
   - jingjs.top
   - jinxpn.xyz
-  - jioed.cyou
+  - jipxzz.icu
   - jiuab8eig2oateh01.site
   - jiujy5r3.fun
-  - jiupaozi.com
   - jiusudie.com
   - jivvjl.xyz
+  - jixurt.icu
   - jizxnr.xyz
+  - jjfufv.icu
   - jjimtya.top
   - jjplaqyo.icu
   - jke1.jianke.com
@@ -2480,15 +2350,14 @@ domain_suffix_set:
   - jollyspring.com
   - joublia.top
   - jowkkzx.icu
-  - jozbun.icu
   - jp.twww.sbs
   - jpcctez.icu
   - jpg1.oss-cn-beijing.aliyuncs.com
   - jpwsuix.icu
-  - jqbddp.xyz
   - jqsex.com
   - jqtnft.xyz
   - jquery.envi-met.com.cn
+  - jrblfv.icu
   - jrjtibez.icu
   - jrpolj.xyz
   - jrtlisa.top
@@ -2520,19 +2389,18 @@ domain_suffix_set:
   - jsdelivr.vip
   - jsf.cnlinfo.net
   - jsgapai.icu
+  - jshilr.icu
   - jsinfo.net
+  - jslxzx.icu
   - jsqygwl.top
   - jsx.luyouwang.com
   - jsxwfb.xyz
   - jsyefc.com
   - jsyliea.top
-  - jtezxmpb.xyz
   - jthotb.icu
   - jtimiya.top
   - jtyusia.top
-  - jtzdld.xyz
   - juandou.com
-  - jubnpx.xyz
   - juejdkio.com
   - jun01.oss-cn-beijing.aliyuncs.com
   - junshizhanlue.com
@@ -2565,7 +2433,6 @@ domain_suffix_set:
   - jy135.com
   - jy147a.com
   - jy7.icu
-  - jyewkb.icu
   - jyfdbj.xyz
   - jyisloa.top
   - jyjrbz.xyz
@@ -2575,7 +2442,6 @@ domain_suffix_set:
   - jyuwkba.top
   - jyxzrb.xyz
   - jz4u1.icu
-  - jzjpntr.xyz
   - k1.dancihu.com
   - k1.wanwenwan.cn
   - k1.wendahu.com
@@ -2592,13 +2458,15 @@ domain_suffix_set:
   - kapvu.cn
   - katoleiy.com
   - kbexos.xyz
+  - kcinmad.top
+  - kcinvdd.top
   - kclimid.top
   - kcokamid.top
+  - kczq.cn
   - kdamcsd.top
   - kdicked.top
   - kdinmid.top
   - kdipsumd.top
-  - kdjdpyrt.xyz
   - kdomsid.top
   - kdopag.xyz
   - kdoshbd.top
@@ -2607,7 +2475,6 @@ domain_suffix_set:
   - kdyurlid.top
   - kdzgrvn.icu
   - kebi1.top
-  - kebohjhh.xyz
   - kefeng56.com
   - kemmars.com
   - keryt111.fun
@@ -2615,8 +2482,6 @@ domain_suffix_set:
   - kewrutd.top
   - keydot.net
   - keyrun.cn
-  - kfctds59.shop
-  - kfdrc.cyou
   - kfjslid.top
   - kfocken.icu
   - kfpicimage.xyz
@@ -2627,13 +2492,14 @@ domain_suffix_set:
   - kgeqsu.xyz
   - kgidskid.top
   - kgipui.xyz
-  - kgqcse.xyz
   - kgubus.xyz
   - kgymoc.xyz
   - khastreol.com
   - khcsvdc.icu
+  - khegritww.com
   - khengrull.com
   - khesuts.com
+  - khoqetslh.com
   - khrtac.xiangha.com
   - kiolpia.icu
   - kiuee8.com
@@ -2641,43 +2507,34 @@ domain_suffix_set:
   - kiykfux.icu
   - kjimtyd.top
   - kjipko.xyz
-  - kjjjusb.xyz
   - kjnsgqe.icu
-  - kjrspnbf.xyz
-  - kjubky.xyz
   - kjxhd.cn
   - kkacrgx.icu
-  - kkjhgfds.top
-  - kkjshsj.com
   - kkkjpg-522.cc
-  - kksjoa.com
-  - kksjsa.top
   - klkk66.fun
   - klmohbk.icu
   - kloojzn.icu
   - kmmgoogle.oss-ap-southeast-1.aliyuncs.com
   - kmqianneng66.com
   - kmruv.cn
-  - kmwclt.xyz
   - knalzld.top
   - knifdlad.top
-  - knpkxgfp.xyz
   - knuinws.icu
+  - knul.cn
   - koauq.top
-  - kogtrmjz.xyz
+  - kodwaqepr.com
   - kokojia.com
   - kolsh.cn
   - kopvx.cn
-  - koqjok.xyz
   - kossog.xyz
   - koublid.top
   - koudaiyundong.com
   - koufqy.xyz
   - kovvild.com
   - koytqo.xyz
-  - kpmose.xyz
   - kpmsoq.xyz
   - kpshx.douguo.com
+  - kqgn.cn
   - kqzyfj.com
   - krbulhb.com
   - krikului.com
@@ -2692,14 +2549,11 @@ domain_suffix_set:
   - kssolo.com
   - ksylied.top
   - ktimiyd.top
-  - ktvjpmi.xyz
-  - ktwwzqdx.xyz
   - ktyusid.top
   - kuaizitech.com
   - kuheju.com
   - kuk8.com
   - kuku99.com
-  - kuoizbtl.xyz
   - kuresdd.top
   - kvhee.com
   - kvkcei.xyz
@@ -2712,30 +2566,23 @@ domain_suffix_set:
   - kwgqaqf.icu
   - kwilmid.top
   - kwiqcoh.icu
-  - kwqnki.xyz
   - kwumme.xyz
   - kwurserd.top
   - kwyamu.xyz
   - kxygsjv.icu
   - ky595images.com
-  - kyaywy.xyz
   - kychq.cn
   - kyemwo.xyz
   - kyislod.top
-  - kymahuxv.xyz
   - kyokglm.icu
   - kyuwkbd.top
   - kyuxym.xyz
   - kyyfsw.xyz
   - kzaawga.icu
   - kzcayec.icu
-  - kzelzfnj.xyz
-  - l5kt1.icu
-  - l7ghj.xyz
   - l7u3kf.cn
   - lady177.com
   - lafacw.xyz
-  - lafirx.xyz
   - lagzoids.com
   - lajevt.xyz
   - lalabaos1020.top
@@ -2751,37 +2598,39 @@ domain_suffix_set:
   - lbqdaua.icu
   - lcd.aivote.com
   - lcefsf.icu
+  - lcidauv.top
   - lclimil.top
+  - lclqbh.icu
   - lcvwdn.icu
   - lczk.cn
   - ldamcsl.top
+  - ldbnhd.icu
   - ldgjwdohqbi.xyz
   - ldinmal.top
   - ldipsuml.top
   - ldjfsdku.icu
   - ldoshbl.top
-  - ldvdwlt.xyz
   - le4le.com
   - leabd.douguo.com
   - leagsmk.icu
+  - ledfjl.icu
   - ledollull.com
+  - ledwtz.icu
   - leeleo.top
-  - lekfez.icu
+  - lelczf.icu
   - leryt111.fun
   - lesasfp.icu
   - lesenjiaoyu.xyz
   - letlwsl.top
   - lewrutl.top
-  - lfhdryz.xyz
   - lfjslil.top
   - lfrdskwj.icu
-  - lfrfzr.xyz
+  - lftcph.icu
   - lftpvh.xyz
   - lfxozd.xyz
   - lgidskil.top
   - lgkocdi.icu
   - lgpjw.cn
-  - lgtpdt.xyz
   - lhmebwq.cn
   - lhmgoik.icu
   - lhtzfn.xyz
@@ -2795,6 +2644,7 @@ domain_suffix_set:
   - linkpicture.com
   - linkvans.com
   - lipheak.com
+  - liqw.cn
   - lirretsn.com
   - lixiangmo.com
   - lixonj.xyz
@@ -2807,61 +2657,63 @@ domain_suffix_set:
   - ljzcawea.icu
   - lkdyft.xyz
   - lkiterl.top
-  - lkpxzt.xyz
   - lkqaq.icu
   - ll.gxsky.com
   - llksja.com
   - lm.ijq.tv
   - lm1.tuliu.com
   - lm1.wkpcw.cn
+  - lmeurbnjs.com
   - lmlmvip.com
   - lmvotk.cn
-  - lmxiqf.icu
   - lnalzll.top
   - lnhsjob.com
   - lnifdlal.top
-  - lnlkmr.xyz
   - lnnahh.xyz
   - lnnsvj.xyz
+  - lnptph.icu
   - lnxkrd.xyz
   - local.hniux.cn
   - locpikbb.icu
+  - lofqvl.icu
+  - lorzelofd.com
   - loublil.top
   - love.furenkeji.com
   - loveameng.top
-  - lovespenhas.com
   - lozmtk.cn
+  - lppfnf.icu
+  - lqfctb.icu
   - lqlwjr.icu
   - lqxzx.com
   - lrtlisl.top
   - lrutvncl.top
-  - lsfevr.xyz
   - lsjazn.xyz
   - lsxvnzif.icu
+  - lsyaicl.icu
   - lsyliel.top
   - ltfpbp.xyz
   - ltimiyl.top
   - ltvutlyu.icu
   - lu.sogou.com
   - lu.sogoucdn.com
-  - lulgef.icu
+  - lu2.luyouwang.com
   - lumnxiel.top
   - lumvkebr.icu
   - luolikong.net
   - luolitang.com
   - lurefq.com
   - luresdl.top
+  - lutn.cn
   - luunels.com
   - luyarvx.icu
   - lv.myapks.com
   - lveodaz.icu
+  - lvnr.cn
   - lvnzrh.xyz
-  - lvphbj.xyz
   - lweizal.top
   - lweriol.top
   - lwilmil.top
   - lwprdv.xyz
-  - lwrohd.xyz
   - lwtupzua.icu
   - lwurserl.top
   - lwvrv.icu
@@ -2869,7 +2721,6 @@ domain_suffix_set:
   - lxryhx.xyz
   - lxting.com
   - ly55442.com
-  - lyckery.com
   - lyislol.top
   - lyretul.top
   - lyuwkbl.top
@@ -2898,7 +2749,6 @@ domain_suffix_set:
   - m4r.fun
   - m5.66077.cn
   - m51.icu
-  - m6500.top
   - m6690.top
   - m6d.icu
   - m6j37.xyz
@@ -2910,12 +2760,9 @@ domain_suffix_set:
   - main.jiukang.org
   - maiysw.xyz
   - majile.vip
-  - makqsd.icu
   - mall0.qiyipic.com
   - mamjkg.xyz
   - manage.wdfans.cn
-  - maoskk.com
-  - maqmix.icu
   - market.178.com
   - market.21cn.com
   - market.duowan.com
@@ -2929,17 +2776,12 @@ domain_suffix_set:
   - md.tvzhe.com
   - mdamcsx.top
   - mdfsbn.com
-  - mdhv3.icu
   - mdipsumx.top
-  - mdiygc.xyz
-  - mdjdpyrt.xyz
   - mdmuky.xyz
   - mdoshbx.top
   - mdqikg.xyz
   - mdzwjra.cn
-  - mebohjhh.xyz
   - megydyk.icu
-  - meilunsc.com
   - meishiba.com.cn
   - mepupr486.top
   - meqanhm.icu
@@ -2970,12 +2812,12 @@ domain_suffix_set:
   - miycoc.xyz
   - mjbidlg.icu
   - mjimtyx.top
+  - mjvr.cn
   - mkiterx.top
   - mlcbgw.xyz
   - mldzwmt.xyz
   - mlgowell.com
   - mlgowell.org
-  - mlicci.xyz
   - mlstx.cn
   - mm.jbzj.com
   - mm.nwell.net
@@ -2983,19 +2825,15 @@ domain_suffix_set:
   - mm.wxc.cc
   - mm1qj.icu
   - mm786.com
-  - mmnc87.shop
   - mnifdlax.top
   - mninoq.xyz
   - mnnmnn.com
-  - mnpkxgfp.xyz
   - mnpzrgz.xyz
   - mnwor.xuanlishi.com
   - mo-tuo.com
   - mo.gushiji.cc
   - mobads.baidu.com
   - mobantong.oss-cn-hangzhou.aliyuncs.com
-  - mogtrmjz.xyz
-  - mohvxrvd.xyz
   - molpmh.xyz
   - momoguoji.xyz
   - moon.ibytecdn.cn
@@ -3003,10 +2841,8 @@ domain_suffix_set:
   - mountain.zhidao.baidu.com
   - mp83fkx.cn
   - mpb1.iteye.com
-  - mphxyxk.xyz
   - mpn56e.cn
   - mps.wenkuzu.com
-  - mpyerxzn.xyz
   - mqaoweu.icu
   - mqcoycx.icu
   - mqwmgs.xyz
@@ -3017,27 +2853,24 @@ domain_suffix_set:
   - ms.cnbanbao.com
   - mscs.svaeuzh.cn
   - msmcoa.xyz
+  - mstmsbz.com
   - mtfc8.com
   - mthhhuq.cn
   - mtimiyx.top
   - mttpsy6666.cc
-  - mtv01.com
-  - mtwmuy.xyz
   - mtwuxss.icu
-  - mtwwzqdx.xyz
   - muer.cdn-baidu.fs-sywh.com
   - muiuim.icu
   - mumnxiex.top
   - muntfd62.shop
   - muntswe58.shop
-  - muoizbtl.xyz
   - muresdx.top
   - muwqiga.icu
-  - mvbvvch.xyz
   - mvcngm.xyz
   - mvirkw.xyz
   - mvmqos.xyz
   - mvwitz.xyz
+  - mvxh.cn
   - mwerilxx.top
   - mweriox.top
   - mwilmix.top
@@ -3048,7 +2881,6 @@ domain_suffix_set:
   - myabcd.cc
   - mybgrea97.shop
   - myfenxi.com
-  - mymahuxv.xyz
   - mymqcy.xyz
   - myqmgm.xyz
   - myreadcloud.com
@@ -3056,7 +2888,6 @@ domain_suffix_set:
   - mytanwan.com
   - myunion1.qm120.com
   - myunion1.tupians.com
-  - mzelzfnj.xyz
   - mzpecui.icu
   - n.baminw.com.cn
   - n0211.com
@@ -3083,43 +2914,43 @@ domain_suffix_set:
   - naettarq.com
   - nagvaxvy.com
   - nahjzx.xyz
+  - naukreatn.com
   - nawpyd.icu
   - nbfsvreu.icu
   - nclljn.xyz
   - ncvwnp.icu
   - ndlwtl.icu
-  - ndthdte125.shop
-  - ndthdtr586.shop
   - ndysxhs.icu
   - neess105.top
   - neldatsy.com
+  - neldipbtg.com
   - neryt111.fun
   - news.fangdaijisuanqi.com
   - news.jiukang.org
   - news.qcyz.cn
   - news.tagtoo.co
   - nfptyfk.xyz
+  - nghv.cn
   - ngxzkaxf.icu
   - nh7.icu
   - nhbprf.xyz
   - nhcdn.cn
   - nhjn788.fun
   - nhjnw78.fun
+  - nhur.cn
   - nhz6q.cn
   - niecarsg.com
+  - nievolmqn.com
   - nilipuyn.com
-  - niticl.icu
   - niwota.com
   - njjavt.xyz
   - njnhzh.icu
-  - njxraqb.xyz
-  - nkbkor.icu
   - nkbpft.xyz
   - nkdgnsfsk.com
-  - nkfith.xyz
   - nkjkvn.xyz
-  - nlhpxj.xyz
+  - nktydx.icu
   - nljrvdh.xyz
+  - nljyjt.icu
   - nlrsrx.xyz
   - nltsvf.xyz
   - nlvwdlnhfnnw.com
@@ -3128,12 +2959,15 @@ domain_suffix_set:
   - nmhbmfxh.icu
   - nmmemzi.icu
   - nmtcxz.xyz
+  - nmtkbv.icu
   - nmxxvr.xyz
   - nmzbrd.icu
   - nnfbxz.icu
   - nnvjbb.xyz
   - noafoaji.xyz
+  - nogogey.top
   - nois5gj.xyz
+  - nonguds.com
   - norse.mingxiaow.com
   - noslugut.com
   - nouusup.icu
@@ -3141,68 +2975,66 @@ domain_suffix_set:
   - npbtnl.xyz
   - npdbxf.xyz
   - npjvgug.xyz
-  - nplahh.xyz
-  - npnpxoz.xyz
   - nqyrywn.icu
   - nrbwzh.icu
+  - nrgv.cn
   - nroeoxk.icu
+  - nrqrbwi.top
   - nsfsfn.xyz
-  - nsjnmx.icu
   - ntiutox.icu
   - ntpnfyga.icu
-  - ntrtifx.xyz
-  - nuhgpx.xyz
   - nuiknnf.icu
   - nuvaioqds.com
   - nuxwlc.cn
-  - nvdtdsd.xyz
-  - nvjqtz.xyz
   - nvpokyko.icu
   - nvvqrv.xyz
   - nwxaxx.xyz
   - nx8.icu
   - nxcm.cc
   - nxdefd.icu
-  - nxledn.xyz
+  - nxet1.360doc.cn
   - nxrajr.xyz
   - nxxkxr.xyz
   - nyfstb.xyz
   - nyhdv.com
   - nyjelh.icu
-  - nyt5j.cyou
   - nzfcvv.xyz
   - nzhzzd.xyz
+  - nzpvpp.icu
   - nzydzsw.com
   - o.027eat.com
   - o.jy135.com
   - o.phb123.com
+  - o02220aokk.com
+  - o02231aokk.com
+  - o02251aokk.com
+  - o02260aokk.com
   - o1.jyjyj.cn
-  - o1b04.cyou
   - o3t.icu
+  - o4q.fun
   - o8s.icu
   - o8zoz.icu
   - oa-panther.data.aliyun.com
   - oaftaijo.net
   - oaiqksi.top
+  - oajv.cn
   - oakmn.top
   - oaqrui.xyz
   - oauqyw.xyz
-  - obdjzhq.xyz
   - obgekjz.icu
   - obturex.com
   - obwnaon.icu
-  - ocggec.xyz
   - oclimik.top
   - odamcsk.top
   - odinmak.top
   - odipsumk.top
+  - odxh.cn
+  - oelj.cn
   - oeryt111.fun
   - oewrutk.top
   - ofd.meng-an.cn
-  - ofdnkro.xyz
   - ofebyk.xyz
   - ofjslik.top
-  - ofkcww.xyz
   - ofqvca.xyz
   - og.zyzjpx.cn
   - ogidskik.top
@@ -3211,9 +3043,9 @@ domain_suffix_set:
   - oiu09.cn
   - oiuuuc.xyz
   - ojimtyk.top
+  - ojmv.cn
   - ojvpigx.xyz
   - ok5.fun
-  - ok8867s.com
   - okagcw.xyz
   - okiterk.top
   - okkkk.com
@@ -3224,6 +3056,7 @@ domain_suffix_set:
   - okpp01040.xyz
   - okpp12311.xyz
   - okwan.cn
+  - okwjmii.top
   - olgcpwc.icu
   - olgrae.com
   - oliver.pub
@@ -3235,23 +3068,22 @@ domain_suffix_set:
   - ommatht.com
   - omxwt.cn
   - on5ga.icu
-  - onagsc.xyz
   - onalzlk.top
   - ondraits.com
   - one.fsylr.com
   - onefuq.xyz
   - onetad.com
   - onifdlak.top
+  - onjncgq.top
   - onmstgh.icu
   - onosyej.icu
   - oo3z.icu
-  - oojjsa.com
   - ooublik.top
   - opkmio.xyz
-  - oppnfev.xyz
   - opqnkw.xyz
   - opwoga.xyz
   - oqaejin.icu
+  - oqea.cn
   - oqidsgkq.com
   - oqipegjz.icu
   - oqnkur.icu
@@ -3259,20 +3091,18 @@ domain_suffix_set:
   - orcinhyi.com
   - orkreats.com
   - orodsmnu.com
-  - orssengseen.com
   - ortlisk.top
+  - orup.cn
   - orutvnck.top
-  - osafsr.xyz
   - osanyc.xyz
   - osdxx.com
   - oshaq.top
   - osisk.com
-  - osmzym.xyz
   - osujcq.xyz
   - osusjsga.com
   - osyliek.top
+  - otfy.cn
   - otimiyk.top
-  - otxlhpm.xyz
   - ouiokaq.top
   - oumnxiek.top
   - ouplc.icu
@@ -3280,7 +3110,6 @@ domain_suffix_set:
   - ov8ct.icu
   - oveakmqk.com
   - ovejqw.xyz
-  - ovjlccs.xyz
   - oweeiyw.icu
   - oweisik.top
   - oweizak.top
@@ -3289,7 +3118,6 @@ domain_suffix_set:
   - owsrgljb.icu
   - owurserk.top
   - oxkqeu.xyz
-  - oxkyaq.xyz
   - oxmvcg.xyz
   - oxoucm.xyz
   - oxvlxwz.xyz
@@ -3305,17 +3133,14 @@ domain_suffix_set:
   - p.zol-img.com.cn
   - p04qzl.cn
   - p0v2ni.cn
-  - p0w2r.cyou
   - p1.360soucha.com
   - p1.chinakaoyan.com
   - p1.qxzsw.com
   - p1.zhongyoo.com
   - p2v.fun
-  - p45m0.icu
   - p4p.sina.com.cn
   - p8u.hinet.net
   - p97387hj.xyz
-  - pa4ye.cyou
   - pa6.fun
   - pagechoice.net
   - pajtll.xyz
@@ -3330,26 +3155,33 @@ domain_suffix_set:
   - pcxnrd.xyz
   - pdnhcks.xyz
   - pdnwbwyf.icu
-  - pdweoyw.cn
+  - pdochgl.top
   - peclevnl.icu
   - pefufv.xyz
   - penxiangge.com
   - peryt111.fun
   - pevpbx.icu
   - pfbmht.icu
-  - pfjfjid.xyz
+  - pfhe.cn
   - pg-ad-b1.nosdn.127.net
   - pg2bk.icu
   - pgcciax.icu
+  - pghglj.icu
+  - pgyfzyv.top
   - phainoirs.com
+  - phazaeth.com
   - pheetuth.com
+  - pheidheat.com
   - pheqae.com
+  - phinathuu.com
   - phjtxx.xyz
   - phk.nmkstcrt.xyz
+  - phorralut.com
   - photo07.xyz
   - phpad.cqnews.net
   - phtivr.xyz
-  - phvfevk.xyz
+  - phuustikd.com
+  - phxdrf.icu
   - pic.0597kk.com
   - pic.baihuawen.cn
   - pic.fengniao.com
@@ -3361,38 +3193,38 @@ domain_suffix_set:
   - piksrie.icu
   - pincai.com
   - pinjzp.icu
+  - pisb.cn
   - pixoctopus.pixnet.net
   - pjaihds.icu
   - pjb9gv9.xyz
   - pjcijbv.icu
   - pjcn.org
   - pjdthz.xyz
-  - pjzxdl.xyz
+  - pjwk.cn
   - pkk1.zuimeiniwo.com
   - pklujb.xyz
+  - pkvjrb.icu
   - pkyjuc.cn
   - pl520.com
   - plecnyz.icu
   - plfwxtgu.icu
-  - plnbnd.xyz
   - plzblz.xyz
   - pm.poqwua.cn
   - pmblrt.xyz
   - pmgfwya.icu
   - pmiskc.cn
-  - pmnct63.shop
   - pmtrkp.icu
   - pmwofrq.icu
   - pmzlnt.xyz
   - pnez8.rut6m.xyz
   - pnpbjt.icu
   - pnvtlh.xyz
-  - pnxtnp.xyz
   - pofbpx.icu
   - pofmnj.xyz
   - poiejdhmkjcnd.top
   - pojdnf.xyz
   - poke88.com
+  - political-effort.com
   - pop.wioau.com
   - popsvg.xyz
   - pos.baidu.com
@@ -3400,13 +3232,13 @@ domain_suffix_set:
   - power.adhacker.online
   - poxdpj.xyz
   - poyang.com
-  - pozrwj.icu
   - pp1hl.xyz
   - ppio12181ios.top
   - ppio12191ios.top
   - ppio12200ios.top
   - pplkrh.xyz
   - ppxndfgf.icu
+  - pqav.cn
   - pqfpvb.icu
   - pqzjki.cn
   - prhfziq.xyz
@@ -3415,7 +3247,6 @@ domain_suffix_set:
   - prpmdp.xyz
   - prtadf.xyz
   - prtfpl.xyz
-  - przbzr.xyz
   - ptrmnx.icu
   - pub.funshion.com
   - puhmtt.icu
@@ -3426,15 +3257,12 @@ domain_suffix_set:
   - pvhjkzo.xyz
   - pviasld.icu
   - pvk2e.icu
-  - pvpdbth.xyz
   - pw2.fun
   - pw2ct1.asia
   - pwbuhb.xyz
   - pwcegau.icu
   - pwddhc.xyz
   - pwfqjp.xyz
-  - pwhkfd.xyz
-  - pwhtip.icu
   - pwrgcxaj.icu
   - pwxlbsie.icu
   - pxhuiben.com
@@ -3442,31 +3270,25 @@ domain_suffix_set:
   - pxtjfmv.xyz
   - pxx.tnklrs.cn
   - pxyjqea.icu
-  - pxzrlf.xyz
   - pytexb.icu
   - pzfqzv.xyz
   - pznlpp.xyz
-  - pzphmkf.xyz
-  - pzpivx.xyz
   - pztezl.xyz
   - pzzedx.icu
   - q02orc.cn
   - q1.yyxwzx.com
   - q1bp.icu
-  - q1gel.icu
   - q2usj.icu
   - q8q.icu
   - qacdf511.cn
   - qaemphaels.com
   - qange.com
-  - qbhzghb.xyz
   - qbsday.xyz
   - qc1.cheshipin.com
   - qcepqj.icu
+  - qcinvdy.top
   - qcixkb1.xyz
   - qclimiy.top
-  - qcohkm.xyz
-  - qcsvku.xyz
   - qcvf.ifeng.com
   - qd.x4399.com
   - qdamcsy.top
@@ -3476,6 +3298,7 @@ domain_suffix_set:
   - qdjsiyt.icu
   - qdoeki.xyz
   - qdoshby.top
+  - qdqppsl.top
   - qdtzbbh.xyz
   - qdzyspjx.com
   - qebgcdcjr000.fun
@@ -3490,11 +3313,11 @@ domain_suffix_set:
   - qetlwsy.top
   - qetskupch581.shop
   - qetskupyka61.shop
-  - qeuckn.icu
   - qeugcdcjr000.fun
   - qewruty.top
   - qfaaokr.icu
   - qfjsliy.top
+  - qgaxkkv.top
   - qgg7e.icu
   - qgidskiy.top
   - qguwoq.cn
@@ -3504,10 +3327,9 @@ domain_suffix_set:
   - qheose.xyz
   - qhestrad.com
   - qhihoins.com
-  - qhocciks.com
-  - qhodog.xyz
   - qhscsu.xyz
   - qhtdmlf.xyz
+  - qhunetsq.com
   - qichetuoyun.com.cn
   - qidou.com
   - qidzwhfp.icu
@@ -3520,20 +3342,23 @@ domain_suffix_set:
   - qjimtyy.top
   - qjoges.xyz
   - qjwvwu.xyz
+  - qkax.cn
   - qkgllif.icu
   - qkikkg.xyz
   - qkitery.top
-  - qkscga.xyz
   - ql.uzuzuz.com
-  - qlbbowx.xyz
   - qm2.icu
   - qmbdta.cn
   - qmgria.cn
   - qnalzly.top
+  - qnhi.cn
   - qnifdlay.top
+  - qnki.cn
   - qnqtgyq.icu
   - qnvwjpr.icu
   - qo2.fun
+  - qogonsuqq.com
+  - qogrux.com
   - qonbibff.icu
   - qoubliy.top
   - qouvxliy.top
@@ -3545,32 +3370,28 @@ domain_suffix_set:
   - qpyrqg.xyz
   - qqganna.icu
   - qqhuhu.com
-  - qqkkpos.com
   - qqryt111.fun
   - qqxi6.icu
   - qrmozsc.icu
   - qronay.xyz
-  - qrovwu.xyz
   - qrttfmo.cn
   - qrwcss.xyz
   - qsyliey.top
+  - qtbo.cn
   - qtimiyy.top
   - qtmojo.com
   - qtoidch.icu
-  - qtq632.com
   - qtroytj33.fun
   - qtyusiy.top
-  - qu96.com
   - qudajie.com
   - qujishu.com
   - quresdy.top
-  - qusrow.xyz
   - quwkke.xyz
+  - quyr.cn
   - quyuancn.com
   - qvnbjjd.xyz
   - qvonje.cn
   - qvxtzi.xyz
-  - qw9cu.cyou
   - qwe0231141.bj.bcebos.com
   - qweisiy.top
   - qweizay.top
@@ -3585,21 +3406,21 @@ domain_suffix_set:
   - qywbslk.top
   - qzehwg.xyz
   - qzorwe.xyz
-  - qzozsa.xyz
   - qzsvwo.xyz
-  - qzvzluu.xyz
   - r.99waiyu.com
   - r0j.fun
   - r4u.icu
   - r528e.cn
+  - r5twojylmzsym.top
   - ra1.xyz
+  - ra10.xyz
   - ra5.xyz
   - rabc1.iteye.com
   - rajxjj.icu
+  - rakkuxw.com
   - rapfdf.xyz
   - rayajmp.icu
   - rbfxoex.xyz
-  - rbhunp.xyz
   - rbift.icu
   - rbkmzhc.icu
   - rbrmhz.xyz
@@ -3607,9 +3428,10 @@ domain_suffix_set:
   - rbzupn.icu
   - rc.ie13.com
   - rcdwhp.xyz
-  - rcyzsh.icu
   - rczudr.xyz
   - rdbd.xsread.com
+  - rdllzz.icu
+  - rdoq.cn
   - rdsgick.icu
   - rdxqbp.xyz
   - re.taotaosou.com
@@ -3624,46 +3446,37 @@ domain_suffix_set:
   - renrenkanpian.com
   - reqwevf3.fun
   - reryt111.fun
-  - res.pinpai8.cn
   - resource.baomihua.com
   - retinaesprent.com
   - retrefsf.cn
   - retrieval-bd.duote.com
   - rewrwrt4.fun
-  - rfnvqpo.xyz
-  - rgdcrt.xyz
   - rghbvp.xyz
-  - rghqrj.xyz
+  - rgju.cn
   - rgmmeff.icu
   - rhndvagz.icu
+  - rhzofr.icu
   - rhzvlcu.xyz
   - richh.cn
   - ridirre.com
   - riemutmh.com
   - riscats.com
-  - riscil.com
-  - rjhbjv.xyz
+  - riym.cn
   - rjwpwod.icu
   - rk6h3.icu
   - rkgbqn.icu
   - rklzpo.com
   - rktjxj.icu
   - rkwxfi.xyz
-  - rlhtnnm.xyz
-  - rlw86.cyou
   - rmbvzh.xyz
-  - rmduuv.icu
   - rmhfrtnd.com
   - rmioswx.icu
   - rmtxdn.icu
-  - rndcdb.xyz
-  - rnpkxgfp.xyz
   - rnwenpn.icu
   - rodmfv.xyz
-  - rofmjd.xyz
+  - rojj.cn
   - romiyee.icu
   - roqairs.com
-  - roxewwq.cn
   - roxfrv.xyz
   - roxwusak.icu
   - rpeutxu.icu
@@ -3675,15 +3488,16 @@ domain_suffix_set:
   - rrkouuz.icu
   - rrptnkao.icu
   - rrxapb.icu
+  - rsohvot.xyz
+  - rswqfiy.top
   - rsyepnq.icu
   - rtroytj33.fun
   - rttnvz.xyz
   - ruancq.xyz
-  - ruliaoqi.com
   - rupmlh.cn
   - ruqaks.com
-  - ruqwgb.icu
   - rusnuiyu.com
+  - rvgtaai.top
   - rvnaxwqe.icu
   - rvtfwryz.icu
   - rvxmlj.icu
@@ -3691,14 +3505,10 @@ domain_suffix_set:
   - rwdjrn.icu
   - rxfygd.cn
   - rxys.cn
-  - rydyvv.xyz
-  - ryhkft.xyz
   - ryhuzj.xyz
   - rykhukxt.icu
   - ryqgdrh.icu
-  - ryrmvd.xyz
   - rz261.cn
-  - rzflhxn.cn
   - s.zixuntop.com
   - s1.dugoogle.com
   - s1.hanlinzhijia.com
@@ -3706,12 +3516,15 @@ domain_suffix_set:
   - s1.tuzhaozhao.com
   - s1.wesiedu.com
   - s11.cn
+  - s31u.com
+  - s7vf.cn
   - s8.pw
   - s83.fun
   - sa.sina.cn
   - sa669.com
   - sachaits.com
   - sacvmb.icu
+  - saddarue.com
   - saelphol.com
   - safe524.xyz
   - sahqoo.com
@@ -3731,17 +3544,23 @@ domain_suffix_set:
   - sbovgy.xyz
   - sbpb1.chuiyue.com
   - sbpb1.qulishi.com
+  - sbqg7jylmzsym.top
   - sc126.com
+  - scesqoikq.com
   - scigzetg.com
   - scihuns.com
+  - scinmab.top
+  - scinvdb.top
   - scjtfh.xyz
   - sckfcn.cn
   - sckyf.com
   - sclimib.top
   - scoev.cn
+  - scohmallt.com
   - scoldak.com
   - sconat.com
   - screddoit.com
+  - screiltol.com
   - screspoy.com
   - script-bd.baixing.net
   - script302.top
@@ -3754,27 +3573,21 @@ domain_suffix_set:
   - sdfsad562.xyz
   - sdickeb.top
   - sdipsumb.top
-  - sdjbvjsbvjz.com
   - sdjbvskjvds.com
-  - sdjkbcjksbdsvv.com
-  - sdkjkbsjkbvjkscv.com
   - sdnc.top
   - sdofp9c.cddrhx.cn
   - sdoshbb.top
   - sdss99.fun
-  - sdtsad.com
   - sdyurlib.top
   - semhgk.xyz
-  - seslco.xyz
   - setlwsb.top
-  - setoniale.com
   - sewrutb.top
   - sexy-more.com
   - sfesdef6.fun
   - sfjslib.top
   - sfkldbkldgdgh.com
+  - sg7.pw
   - sgadkc.xyz
-  - sgcwoe.xyz
   - sgg.southcn.com
   - sgidskib.top
   - sgozmks.icu
@@ -3784,11 +3597,11 @@ domain_suffix_set:
   - sh996.dftoutiao.com
   - shaenphiks.com
   - shangwenchao4.cn
-  - shanvezhu.com
   - shaorgs.cn
   - shaotgs.cn
   - shaquevip.oss-cn-zhangjiakou.aliyuncs.com
   - share.gzdsw.com
+  - shatielsu.com
   - shbxugs.cn
   - shbxukj.cn
   - shbzdkj.cn
@@ -3810,43 +3623,41 @@ domain_suffix_set:
   - shbzpgs.cn
   - shbzqgs.cn
   - shbzqkj.cn
+  - shedranfd.com
+  - shelluiqy.com
   - shestieh.com
   - shili.downxia.com
   - shili.wanyx.com
   - shilian168.cn
   - shiyaokejishanghai.com
-  - shnpetdb638.shop
-  - shnpetdn185.shop
   - sholphot.com
+  - sholxorw.com
   - shouldercommandmentlimitless.com
   - show.kc.taotaosou.com
+  - shudi8.com
   - shuihulu.com
   - shuucerz.com
   - shzzzz.dftoutiao.com
   - siconoi.com
-  - sidfiz.icu
-  - sifuwei.com
   - sikapo.top
   - sikaq.top
   - sikncs.com
+  - sikvoilst.com
+  - sinkrersf.com
   - sirrors.com
   - sivxobpn.icu
   - sjalipa.cn
   - sjbaiduadv1.redou.com
   - sjezce.xyz
-  - sjgsgy.xyz
   - sjimtyb.top
   - sjluuom.icu
   - sjmlmk.xyz
   - skaumbp.icu
-  - skdncksklsv.com
-  - skldbklsbvss.com
   - sksbgm.xyz
-  - skskssso.com
   - sky.dunsuan.com
   - slcmvgr.icu
   - slkkbnsgn.com
-  - smallfo.com
+  - sm-cloud.yunsafe.top
   - smuc.cnnfootballclub.com
   - sn9.icu
   - snalzlb.top
@@ -3859,31 +3670,30 @@ domain_suffix_set:
   - snxyf.com
   - snzfj.net
   - so.auto999.cn
-  - so1nv.xyz
+  - sodenneyg.com
   - sodhef.com
-  - soffersk.com
   - sofseo.cn
   - sogo.uc.continuefaf.top
-  - sogoks.xyz
   - sokars.com
   - soorbka.cn
   - sopqvhe.cn
-  - sosakk.xyz
   - sotunet.com
   - soublib.top
   - sowsuwm.icu
   - sowwoy.xyz
   - sp.dnqc.com
   - spcode.baidu.com
+  - spkh.cn
   - spl.ztvx8.com
+  - spoaven.top
+  - spoh.cn
   - sqszcg.top
   - sravga.xyz
   - srmsii.xyz
+  - srootshare.com
   - srtb.msn.cn
   - srtlisb.top
   - srutvncb.top
-  - srwwce.xyz
-  - srzpsbf.xyz
   - ss.ting55.com
   - ssb.ah499.com
   - ssestherssa.com
@@ -3896,6 +3706,7 @@ domain_suffix_set:
   - ssp.moeli.net
   - ssp.zf313.com
   - sssvd.china.com
+  - ssydquy.top
   - ssylieb.top
   - st-fly.b-cdn.net
   - staivoiks.com
@@ -3908,16 +3719,23 @@ domain_suffix_set:
   - static.ichehome.com
   - static.meijiacun.com
   - static.rongkao.com
+  - stemedntm.com
   - sterkisg.com
   - stgowan.com
+  - stildell.com
   - stimiyb.top
   - stlpnom.xyz
   - stnew.xyz
+  - stogmos.com
   - stongors.com
   - stragmik.com
   - strakuty.com
+  - straldrier.com
+  - stralotsb.com
+  - strelgrell.com
   - strenots.com
   - strilqoill.com
+  - stroveiks.com
   - struhuts.com
   - stsesc.xyz
   - stunkrins.com
@@ -3934,6 +3752,7 @@ domain_suffix_set:
   - suzalsln.com
   - sv2fo.icu
   - sv5nm.icu
+  - svjj.cn
   - svncowt.cn
   - swad332.fun
   - swarku.xyz
@@ -3943,12 +3762,10 @@ domain_suffix_set:
   - swerilxb.top
   - sweriob.top
   - swilmib.top
-  - swsegi.xyz
   - swurserb.top
   - swwdke.xyz
   - sx.fakjkwp.cn
   - sxoejoc.icu
-  - sxtnpzd.xyz
   - syfgtby.cn
   - syislob.top
   - sykzow.xyz
@@ -3959,7 +3776,6 @@ domain_suffix_set:
   - syuwkbb.top
   - sz88.oss-cn-shenzhen.aliyuncs.com
   - szapaqi.cn
-  - szbxw.cn
   - szhgmd.com
   - szjyfund.com
   - szxf4.icu
@@ -3970,39 +3786,33 @@ domain_suffix_set:
   - t2s.fun
   - t6.china-xian.com
   - t7t.icu
-  - ta20k.xyz
   - tad.suning.com
   - tagtoo.co
-  - tahznx.xyz
-  - tajdad.cn
   - talyrt.xyz
   - tamedia.com.tw
   - tanwanyx.com
   - taoguohe.com
   - tarvrf.xyz
-  - taxoxz.xyz
   - tbbfdr.icu
   - tbyfz.xyz
   - tc911.vip
   - tcfgtd.xyz
   - tcheeter.com
+  - tcinvdi.top
   - tciqgx.xyz
   - tclimii.top
+  - td86hsmlmggym.top
   - tdamcsi.top
   - tdfqvx.xyz
   - tdhnxf.xyz
   - tdhserg.cn
   - tdinmai.top
   - tdipsumi.top
-  - tdjdpyrt.xyz
-  - tdljuuw.xyz
-  - tdlyfz.xyz
   - tdoshbi.top
   - tdpujn.xyz
-  - tduenkq839.shop
   - tdzqoewz.icu
-  - tebohjhh.xyz
   - tech.jiukang.org
+  - teeniaole.com
   - tehxzz.xyz
   - tenmax.io
   - teryt111.fun
@@ -4014,12 +3824,11 @@ domain_suffix_set:
   - tfzah.icu
   - tgamtip.icu
   - tgb1l.icu
-  - tgccct.icu
   - tghrfv.icu
   - tgidskii.top
   - tgrpzl.xyz
-  - tgwfaz.icu
   - thacreks.com
+  - thampheth.com
   - thangrurs.com
   - thaqne.com
   - thavrils.com
@@ -4035,19 +3844,18 @@ domain_suffix_set:
   - thruudrad.com
   - thrzbf.xyz
   - thunnqyo.com
+  - thustilpn.com
   - ti4la.icu
   - tianji520.cn
   - tiexing.com
-  - tihdjd.xyz
   - tixoilll.com
-  - tjfbh.icu
   - tjimtyi.top
   - tjuspyk.icu
   - tjvcffap.icu
   - tk.504pk.com
   - tkiteri.top
-  - tlfvj.cyou
   - tlpyft.xyz
+  - tmdqlk.top
   - tmea116.oss-cn-beijing.aliyuncs.com
   - tmjzlr.icu
   - tmoclbf.icu
@@ -4060,14 +3868,15 @@ domain_suffix_set:
   - tnlixn.icu
   - tnmpd.xyz
   - tns.simba.taobao.com
-  - tnvnnn.xyz
   - tnzjrj.xyz
+  - toazdkl.top
   - todayapp.tv
-  - togtrmjz.xyz
+  - togmoxwnw.com
   - tongbaimi.cn
   - tongj.xilu.com
   - top2099.com
   - top888.com
+  - torkeauwu.com
   - toublii.top
   - toutanymm.asia
   - touvxlii.top
@@ -4076,33 +3885,35 @@ domain_suffix_set:
   - tp.sgcn.com
   - tp1902abd.com
   - tp4sul.jwzd.com.cn
-  - tptgvh.xyz
-  - tpyerxzn.xyz
+  - tpjw.cn
+  - tpkv.cn
   - tqanmatx.icu
   - tqbrnd.xyz
   - tqeferty33.fun
   - tqtqvb.xyz
   - tquspo.com
-  - tqvnzj.xyz
   - trafficjam.cn
+  - traukvan.com
   - trebleperfect.com
   - treferty33.fun
   - treimphens.com
   - trellq.com
   - trenhdg.com
-  - trf6b.top
+  - treqonwyp.com
   - tridroin.com
   - trimmoits.com
   - trjfoagf.icu
+  - trohycv.top
   - tronkuks.com
+  - trorqaeao.com
   - trpyceq.cn
   - trutvnci.top
+  - truuhmoen.com
   - truxedku.com
   - trvxbd.xyz
   - ts166.net
   - tsbrzz.icu
   - tsdfxv.xyz
-  - tsrvrr.xyz
   - tt.biquge.la
   - tt123.eastday.com
   - ttad125.com
@@ -4111,9 +3922,7 @@ domain_suffix_set:
   - ttgbnmk.top
   - ttimiyi.top
   - ttroytj33.fun
-  - ttrruq749.shop
   - tttppp.oss-cn-guangzhou.aliyuncs.com
-  - ttwwzqdx.xyz
   - tu0379199038.cc
   - tu1500919341.cc
   - tu2.taohuaimg.com
@@ -4124,13 +3933,13 @@ domain_suffix_set:
   - tu5551976196.cc
   - tu6.icu
   - tu6767109513.cc
+  - tubingacater.com
   - tudxhzj.cn
   - tufzdj.xyz
   - tuhmkjce.icu
   - tui07.shop
   - tukveks.com
   - tuky889900.com
-  - tuoizbtl.xyz
   - tupian6666.com
   - tupian88888.com
   - tupian9999.com
@@ -4160,12 +3969,9 @@ domain_suffix_set:
   - tyaduqq.icu
   - tyaqzjp.icu
   - tyisloi.top
-  - tymahuxv.xyz
-  - tyodot.icu
   - tyretui.top
   - tyuwkbi.top
   - tyzfoej.cn
-  - tzelzfnj.xyz
   - tztmqvga.icu
   - tzyzlow.cn
   - u.qxen.com
@@ -4205,9 +4011,7 @@ domain_suffix_set:
   - u55011.com
   - u57.icu
   - u5ps5.icu
-  - u68t5.icu
   - u6u.icu
-  - u78s.top
   - u7u9.com
   - u7y.pw
   - u833ij.com
@@ -4221,7 +4025,6 @@ domain_suffix_set:
   - ubmcvideo.baidustatic.com
   - uc9.suinidai.com.cn
   - uclimit.top
-  - uctutu3789.xyz
   - udamcst.top
   - udd1i5.zhihu.com
   - udeias.xyz
@@ -4229,17 +4032,15 @@ domain_suffix_set:
   - udiab1.jianshu.com
   - udinmat.top
   - udipsumt.top
-  - udjdpyrt.xyz
-  - udkpcc.xyz
   - udolgy.xyz
   - udoshbt.top
   - udswai.xyz
   - ue8im.com
-  - uebohjhh.xyz
   - uegsjnk.com
   - uerbgnkas.com
   - uessnah.icu
   - uetlwst.top
+  - uewotga.top
   - uewrutt.top
   - uewzjy.xyz
   - ufiidvv.icu
@@ -4247,26 +4048,25 @@ domain_suffix_set:
   - uftcfo.xyz
   - ugajiwft.icu
   - ugidskit.top
-  - ugolue.xyz
   - ugtbit.icu
+  - uhi02121uik.xyz
+  - uhi02130uik.xyz
+  - uhityllhn.com
   - uhmcjdc.icu
   - uhuf56.fun
   - uiakq.top
   - uiatkc.xyz
   - uicdns.xyz
-  - uigxgg.xyz
   - ujimtyt.top
+  - ujmz.cn
   - ujovcb.cn
-  - ujrspnbf.xyz
   - uk0.icu
   - ukitert.top
   - ukkiftx.icu
   - uldaens.com
   - ulink.cc
-  - ulktyi.xyz
   - uloscw.xyz
   - ulukaris.com
-  - ulwfys.xyz
   - um5xcgngmart.xyz
   - umwcyw.xyz
   - un.ubaike.cn
@@ -4280,19 +4080,17 @@ domain_suffix_set:
   - unionli.com
   - uniway.cn.com
   - untitled.dwstatic.com
-  - uogtrmjz.xyz
-  - uohvxrvd.xyz
-  - uojoqx.icu
-  - uoosqk.xyz
+  - uojx.cn
+  - uoqc.cn
   - uoublit.top
   - uouvxlit.top
-  - upyerxzn.xyz
+  - uposnmb.icu
   - upyzqf.cn
   - uqaagi.xyz
   - uqcktxp.icu
-  - uqwbcm.xyz
   - uqydcs.xyz
   - uqykeq.xyz
+  - urkt.cn
   - urpkktc.icu
   - urtlist.top
   - urutvnct.top
@@ -4305,12 +4103,9 @@ domain_suffix_set:
   - utbyvyl.icu
   - utewyc.xyz
   - utimiyt.top
-  - utkauo.xyz
   - utlove02.com
-  - utwwzqdx.xyz
   - uu1.3gu.com
   - uu11881.com
-  - uu22002.com
   - uu22112.com
   - uu22332.com
   - uu22662.com
@@ -4319,7 +4114,6 @@ domain_suffix_set:
   - uuajq.top
   - uuiaoq.top
   - uumnxiet.top
-  - uuoizbtl.xyz
   - uuqrisuy.com
   - uuresdt.top
   - uusjaq.top
@@ -4328,7 +4122,7 @@ domain_suffix_set:
   - uuysiaq.com
   - uv4.fun
   - uvekyvs.icu
-  - uvklgw.xyz
+  - uvoisbg.xyz
   - uvwnkmf.icu
   - uvyuqzx.cn
   - uweisit.top
@@ -4341,12 +4135,10 @@ domain_suffix_set:
   - uxieks.com
   - uyaeco.xyz
   - uyislot.top
-  - uymahuxv.xyz
   - uyohyy.xyz
   - uyretut.top
   - uyuwkbt.top
   - uyyquln.icu
-  - uzelzfnj.xyz
   - v.center
   - v.pcswtw.cn
   - v1.19purify.com
@@ -4356,48 +4148,45 @@ domain_suffix_set:
   - v1.wphonelife.com
   - v4p.fun
   - vatzxd.xyz
+  - vaykjwn.top
   - vbiakpu.icu
   - vbllxaaj.icu
   - vcdfsf99.fun
-  - vcnpnf.xyz
   - vcxv73.fun
   - vcxv787.fun
   - vdfvdf33q.fun
   - vdhf042.fun
   - vdoqomz.icu
+  - vdpwuxmo.icu
   - vdsdsf2.fun
-  - ve0ke.icu
-  - veaiyl.icu
   - vecggfp.icu
   - vegaingi.com
   - veilengh.com
-  - vejhln.xyz
   - veryt111.fun
   - vevhjj.xyz
-  - vfchm.cyou
   - vfdvdfv77.fun
   - vfdvdg67.fun
-  - vflorp.xyz
   - vfphbh.xyz
   - vftrfmia.icu
   - vftvbx.xyz
-  - vfvad.top
   - vfvdvd99.fun
   - vfvrld.xyz
   - vfxrpl.xyz
   - vgxbpf.xyz
   - vgzytn.xyz
   - vh8.icu
+  - vhje.cn
   - vhrhnh.icu
-  - vhvwlb.xyz
   - vhzivz.xyz
   - video231.oss-cn-beijing.aliyuncs.com
   - vihqpr.xyz
+  - vinoinqih.com
   - vinsgcs.com
   - vip.ludu319.com
   - vip.min1319.com
   - vip.panggugu.com
   - vipgogo123.site
+  - vitqzd.icu
   - vjharl.xyz
   - vjie.com
   - vjvj.vj24co.com
@@ -4406,18 +4195,24 @@ domain_suffix_set:
   - vkbxaixl.icu
   - vkdgdt.xyz
   - vlion.cn
+  - vljkjx.top
   - vmcnl.xyz
-  - vmnlkr.icu
+  - vmjr.cn
   - vmxvcjuf.icu
+  - vnbbrx.top
   - vnuuh.icu
   - vokzqgjp.icu
   - vopzhl.icu
   - vpdnjl.xyz
   - vppzjv.xyz
   - vpwizuj.icu
-  - vpzohx.xyz
+  - vpydjogaytpg.xyz
+  - vqaj6smlmtpym.top
   - vqbzpv.xyz
   - vqlwoy.xyz
+  - vraataidz.com
+  - vragridsn.com
+  - vraqnathr.com
   - vrdfxioe.icu
   - vrelai.com
   - vreqnait.com
@@ -4428,12 +4223,14 @@ domain_suffix_set:
   - vsjrnh.xyz
   - vsojfsoj.com
   - vsqovxf.icu
-  - vszzzj.xyz
   - vtbfgnf00.fun
   - vtbkhl.icu
   - vtdgfisz.icu
   - vtjbnb.xyz
   - vtlyrj.xyz
+  - vtrrxqbi.xyz
+  - vudqth.icu
+  - vuhf.cn
   - vuirssd.icu
   - vulitd.xyz
   - vupload.duowan.com
@@ -4446,14 +4243,14 @@ domain_suffix_set:
   - vvfgjzwa.icu
   - vvttpn.xyz
   - vvv.ieduw.com
-  - vwmjkl.icu
-  - vwsgmf.icu
   - vwvatp.xyz
+  - vwvj.cn
   - vxcvd67.fun
   - vxdrfr.xyz
   - vxpdfb.xyz
   - vxpnld.icu
   - vyrpoe.cn
+  - vytn.cn
   - vzdkngmf.icu
   - vzttq.brfvyrrp.com
   - w.xiaopiaoyou.com
@@ -4469,21 +4266,18 @@ domain_suffix_set:
   - w94.1qlgi.top
   - wacisi.xyz
   - wanfumei.net
-  - waouss.xyz
   - wap.hfoyjg.cn
   - wap001.bytravel.cn
   - wap1.laogu.wang
+  - wbe4.cn
   - wbgafrr.icu
   - wbkdsg.xyz
-  - wbnbocz.xyz
   - wbqqo.com
-  - wcd2l.icu
   - wcdfxj.xyz
+  - wcinvde.top
   - wclimie.top
   - wcsmvmf.icu
   - wcwkcus.top
-  - wdadad.cn
-  - wdakda.cn
   - wdamcse.top
   - wdickee.top
   - wdinmae.top
@@ -4497,7 +4291,6 @@ domain_suffix_set:
   - web.51fishplace.com
   - web.900.la
   - web8.net
-  - wecfgy36.shop
   - weidianyuedu.com
   - wenhua.jiaoshou.com
   - wenshenbang.com
@@ -4518,15 +4311,12 @@ domain_suffix_set:
   - wi1f.icu
   - widget.ezprice.com.tw
   - wiixqm.xyz
+  - wiiytwd.icu
   - wildwist.com
-  - wioboy.xyz
-  - wisealty.com
-  - wismog.xyz
   - wit.qq.com
   - wiwlqc.xyz
   - wj.jiancai365.cn
   - wjimtye.top
-  - wjwod.cyou
   - wkabios.icu
   - wkitere.top
   - wkjyxcheng.top
@@ -4535,12 +4325,14 @@ domain_suffix_set:
   - wl.uqwjdhgv.top
   - wlkukrv.icu
   - wlouqsz.xyz
+  - wlwgloo.icu
+  - wlwgloo.top
   - wm.mipcdn.com
   - wm.szdushi.com.cn
   - wmbd.gamersky.com
   - wmcbld.top
   - wmeng.feihuadns.com
-  - wmnraj.icu
+  - wn6y.cn
   - wnalzle.top
   - wneia.iaskhot.com
   - wnifdlae.top
@@ -4548,6 +4340,7 @@ domain_suffix_set:
   - wnojded.icu
   - wnootzc.icu
   - wnstug.xyz
+  - wnvu.cn
   - wopvmmy.cn
   - woublie.top
   - wouvxlie.top
@@ -4559,14 +4352,13 @@ domain_suffix_set:
   - wr.yiyouliao.com
   - wrdamoe.icu
   - wrsikq.xyz
+  - wrth.cn
   - wrutvnce.top
   - ws.wenshenxiu.com
-  - wsadad.cn
   - wscewc.xyz
   - wsgayq.xyz
   - wsgnihbh.icu
   - wshufa.com
-  - wsoqwm.xyz
   - wswxsk.xyz
   - wsyliee.top
   - wt6.icu
@@ -4578,6 +4370,7 @@ domain_suffix_set:
   - wuliao.chzsport.cn
   - wuliao.epro.sogou.com
   - wuliao.juqingba.cn
+  - wumd.cn
   - wuresde.top
   - wusfa.xyz
   - wvwqywz.cn
@@ -4590,9 +4383,7 @@ domain_suffix_set:
   - www5.oss-cn-hangzhou.aliyuncs.com
   - wxfdmri.xyz
   - wxmhau.xyz
-  - wxmmji.xyz
   - wxsicu.xyz
-  - wxymag.xyz
   - wy213.com
   - wyisloe.top
   - wymqjow.icu
@@ -4602,87 +4393,59 @@ domain_suffix_set:
   - wzjs1.oss-accelerate.aliyuncs.com
   - x.dmouy.cn
   - x.yaohuo.me
-  - x08jd.top
   - x0or8.icu
   - x0y081e.xyz
   - x1.52aoteman.com
-  - x1fyw.icu
   - x4d.icu
   - xa7j.icu
   - xadulxs.cn
+  - xaiqrania.com
   - xamniksq.com
   - xamssp.icu
   - xbbhwggj.icu
   - xbfebqya.icu
+  - xbfk.cn
+  - xbqm.cn
   - xbtw.com
   - xc.macd.cn
   - xc.mydrivers.com
   - xcf-bd-js.chuimg.com
   - xcwdcynb.icu
-  - xcypgd.icu
-  - xdazjxso.xyz
-  - xdfhidrk.xyz
   - xdh0808.com
-  - xdhfvrug.xyz
-  - xdjdpyrt.xyz
-  - xdmnlxtu.xyz
-  - xdolhlwq.xyz
-  - xdrvkdni.xyz
-  - xdttxdqe.xyz
-  - xdybwjpa.xyz
   - xdyjt.com
-  - xebohjhh.xyz
+  - xeccotftw.com
   - xedlxeuz.icu
-  - xedpzh.xyz
   - xehodv.xyz
+  - xehyjx.icu
   - xeryt111.fun
   - xevaix.com
   - xevzdl.xyz
   - xfqynrp.cn
-  - xfrahb.xyz
-  - xfztgxt.com
+  - xfxvpt.icu
   - xggcyef.icu
-  - xgjidt.xyz
   - xh33g.net
-  - xhbheroq.xyz
-  - xhbshv.xyz
-  - xhfxtqt.xyz
-  - xhgpuxim.xyz
   - xhlkvx.xyz
   - xhm.pub
-  - xhnvgdkw.xyz
-  - xhsdwjes.xyz
-  - xhubsxmg.xyz
-  - xhzjidgc.xyz
   - xianliao.voto
   - xiaopinwo.com
   - xiaoshuoyun.cn
+  - xielloltv.com
   - xilele.com
   - xinchl.xyz
   - xinju.cc
   - xiongyin.com
   - xitongku.cc
   - xiuska.top
-  - xiwusn9982.top
   - xiyouence.com
-  - xizanzhi.com
   - xjpmlf.xyz
   - xjtosdof.icu
   - xkesqbp.icu
   - xkgttas.icu
-  - xklrsj.icu
-  - xkrnud.icu
-  - xldxphtg.xyz
-  - xlgvlvbc.xyz
-  - xliffnsc.xyz
+  - xkp.cc
   - xliuits.icu
-  - xlkdbbvy.xyz
   - xlmdtiyqbkygtfkh.com
-  - xlplrhum.xyz
-  - xlrjnhxi.xyz
-  - xlwrdnrw.xyz
+  - xluz.cn
   - xlxehr.xyz
-  - xlypzbzs.xyz
   - xmhszb.xyz
   - xmkmryu.icu
   - xmlgzr.xyz
@@ -4701,34 +4464,23 @@ domain_suffix_set:
   - xnbuapwp.icu
   - xnqboqc.icu
   - xoceonsl.com
-  - xogtrmjz.xyz
   - xoqsxdpx.xyz
-  - xpdronhu.xyz
-  - xpffkbpq.xyz
   - xpicj0.icu
   - xpicj6.cc
   - xpicj8.cc
   - xpj08.oss-cn-beijing.aliyuncs.com
   - xpjcg.oss-accelerate.aliyuncs.com
-  - xpkxahje.xyz
-  - xprdmnlo.xyz
-  - xpwlctfk.xyz
-  - xpyerxzn.xyz
-  - xpyjyhny.xyz
-  - xrdqdd.xyz
-  - xrmfjzqo.xyz
+  - xplbxx.icu
+  - xqrydt.icu
+  - xrlzhk.top
   - xrrxodz.xyz
   - xs.houyi.baofeng.net
   - xs6po.icu
-  - xszw0.icu
-  - xtcxflak.xyz
   - xtdvvp.icu
   - xtrkhv.xyz
-  - xtvrtrya.xyz
   - xu6.icu
   - xuakn.icu
   - xudaiklj.com
-  - xudarl.xyz
   - xue.zbyw.cn
   - xueaaaw.cn
   - xuexi.hydcd.com
@@ -4737,24 +4489,20 @@ domain_suffix_set:
   - xuldtcip.icu
   - xulizui6.com
   - xulkervf.com
+  - xunqrutsl.com
   - xunsfr.xyz
-  - xuoizbtl.xyz
   - xutvbt.icu
   - xuugnuits.com
   - xuxwvh.xyz
   - xuzsdn.xyz
   - xvbcjh.xyz
-  - xvbjctqs.xyz
-  - xvgrszkg.xyz
-  - xvorpqz.cn
-  - xvpcjl.xyz
-  - xvudqzoa.xyz
+  - xvvfpsmp.icu
   - xvyugqj.icu
   - xvzcfh.xyz
-  - xvzvqoq.xyz
   - xwbmjb.xyz
   - xwdjnj.xyz
   - xwdsp.com
+  - xwma.cn
   - xwvnhe.cn
   - xx3691b.com
   - xxaks01080sspao.xyz
@@ -4767,18 +4515,15 @@ domain_suffix_set:
   - xxsmad3.com
   - xxsmad4.com
   - xxsmad5.com
-  - xxss6677.com
+  - xxsmad6.com
   - xxxuhx.xyz
   - xxxx68xxxx.com
   - xxxx88xxxx.com
   - xxxx96xxxx.com
   - xylhwdu.com
-  - xymahuxv.xyz
   - xysefte.icu
   - xytcboyz.icu
-  - xzelzfnj.xyz
   - xzrhvv.xyz
-  - xzwtbdtq.xyz
   - y.21haodianmt.com
   - y.photoint.net
   - y0mwy.icu
@@ -4788,9 +4533,9 @@ domain_suffix_set:
   - y4l.icu
   - y66xvgo5i.chuimg.com
   - y7ts.icu
+  - yaaumqa.top
   - yatemy.cn
   - ybcnvqf.cn
-  - ybrrvck.xyz
   - ycgfdf.cn
   - ycgmnpp.icu
   - yckamq.xyz
@@ -4798,17 +4543,8 @@ domain_suffix_set:
   - ycq.cab
   - ycuhky.xyz
   - ycwuoq.xyz
-  - ydazjxso.xyz
-  - yddjmpjo.xyz
   - yddrqwq.xyz
-  - ydfhidrk.xyz
-  - ydhfvrug.xyz
-  - ydmnlxtu.xyz
-  - ydolhlwq.xyz
-  - ydrvkdni.xyz
-  - ydttxdqe.xyz
   - ydxdg.xyz
-  - ydybwjpa.xyz
   - yellowjm.com
   - yerhfnytky.top
   - yeryt111.fun
@@ -4817,20 +4553,13 @@ domain_suffix_set:
   - yfoega.xyz
   - ygipjqf.icu
   - ygoibya.icu
-  - yhbheroq.xyz
   - yhdd1.com
   - yhdemu368.shop
   - yhderd69.shop
   - yhgfoe.xyz
-  - yhgpuxim.xyz
   - yhimpnr.icu
-  - yhlpshi.xyz
-  - yhnvgdkw.xyz
-  - yhsdwjes.xyz
   - yhtpsy8888.cc
-  - yhubsxmg.xyz
   - yhutou.xyz
-  - yhzjidgc.xyz
   - yi.ximizi.com
   - yijfdsu.cn
   - yijiuningyia.gushiwen.org
@@ -4850,16 +4579,7 @@ domain_suffix_set:
   - ykwykw.xyz
   - ykxwn.com
   - yl04z4v.cn
-  - yldxphtg.xyz
-  - ylgvlvbc.xyz
-  - yliffnsc.xyz
-  - ylkdbbvy.xyz
-  - ylplrhum.xyz
-  - ylrjnhxi.xyz
-  - ylwrdnrw.xyz
-  - ylypzbzs.xyz
   - ymauoo.xyz
-  - ymcnsq.xyz
   - ymdxl.com
   - ymewsu.xyz
   - ymmiyun.com
@@ -4870,22 +4590,13 @@ domain_suffix_set:
   - yoqqiev.top
   - youle55.com
   - youqunjx.com
-  - ypdronhu.xyz
-  - ypffkbpq.xyz
-  - ypgjkk.xyz
   - ypkiog.xyz
-  - ypkxahje.xyz
   - ypkxka.xyz
-  - yprdmnlo.xyz
   - yptqys.tianqistatic.com
-  - ypwlctfk.xyz
-  - ypyjyhny.xyz
   - yqdnad.icu
   - yqlxkzs.cn
   - yqlzccxn.icu
-  - yrarhzuq.xyz
   - yrccils0spqnkc3.xyz
-  - yrhxttwa.xyz
   - yrszy.com.cn
   - yruadj.top
   - ys2000.cdn.bcebos.com
@@ -4896,46 +4607,38 @@ domain_suffix_set:
   - ysx8.vip
   - yt-adp.nosdn.127.net
   - yt-adp.ws.126.net
-  - ytcxflak.xyz
   - ytelc.com
   - ytghtq.xyz
   - ytoeyxz.icu
   - ytqeavc.icu
   - ytroytj33.fun
-  - ytvrtrya.xyz
   - yu.dlxxjsh.top
   - yuanzunxs1.com
   - yuayku.xyz
+  - yugjwgg.icu
   - yugqqqq.icu
   - yukbsa.xyz
   - yunsennet.com
   - yunzuowen.com
   - yuqmok.xyz
+  - yuqnyudug.com
   - yuuaos.xyz
   - yuwenbin.host
   - yuwqsk.xyz
-  - yvbjctqs.xyz
-  - yvnxetmq.xyz
-  - yvudqzoa.xyz
   - yvwuesh.icu
   - ywg.jobui.com
   - ywokwlx.icu
   - yx1.managershare.com
   - yxamkm.xyz
   - yxgfcj.com
-  - yxgqgq.xyz
   - yxjcyxy.icu
   - yxkbgg.xyz
-  - yxptcrss.xyz
+  - yxqmryq.top
   - yxrmbjw.icu
   - yxvyqyy.icu
   - yy17173.dtime.com
-  - yyddkm526.shop
   - yylady.cn
-  - yyyaih.icu
-  - yzfrapd.xyz
   - yzgbsg.xyz
-  - yzihdppw.xyz
   - yzldy.info
   - z.grfyw.com
   - z.nowscore.com
@@ -4953,12 +4656,14 @@ domain_suffix_set:
   - zabpgtjh.icu
   - zaeqrath.com
   - zagyjnn.cn
-  - zailgrae.com
   - zalnouiy.com
   - zantainet.com
+  - zavgrj.icu
+  - zbldxf.icu
   - zca31.com
   - zcck60eqyw.world
   - zcfhi.cn.com
+  - zcnmjb.icu
   - zcrddj.icu
   - zcypmsp.icu
   - zdscdkc.icu
@@ -4970,11 +4675,8 @@ domain_suffix_set:
   - zeuqmpe.icu
   - zfwgn.icu
   - zg.mmyuer.com
-  - zghsep.icu
   - zgm1.com
-  - zgwvcv.icu
   - zhangqifeng12.top
-  - zhaweifeng.com
   - zhengliyqq.com
   - zhengzhou12.top
   - zhibo128x1.xyz
@@ -4989,11 +4691,11 @@ domain_suffix_set:
   - ziqniduy.com
   - zisu.cn.com
   - ziweuu.com
+  - zjen.cn
   - zjgfq.com
   - zjib0.icu
   - zjliloveyou.ixiunv.com
   - zjplnz.xyz
-  - zjsnhl.xyz
   - zk.91post.com
   - zkdefuiz.icu
   - zkrdzn.xyz
@@ -5001,25 +4703,27 @@ domain_suffix_set:
   - zlgame.top
   - zlongad.com
   - zltndp.xyz
-  - zlvlciv.xyz
+  - zlzgfj.icu
   - zmbmoxij.icu
+  - zmpgln.icu
   - zmrmbc.xyz
   - zmvopcio.icu
-  - znhlxvb.xyz
+  - znlvhnej.icu
   - znnfzx.xyz
   - zodoth.com
-  - zojyob.icu
+  - zogzoldop.com
+  - zokzavnea.com
   - zoltrl.xyz
+  - zooj.cn
   - zoom.zshu.net
-  - zopuqv.icu
   - zozwnv.xyz
   - zpplsii.xyz
   - zq.lansedir.com
   - zqgixxp.icu
   - zqkxlf.com
+  - zqntbc.top
   - zr3.icu
   - zrkksps.icu
-  - zrtlvtsy.xyz
   - zs.rzijjeb.cn
   - zsjxwj.com
   - zsyk91.cn
@@ -5027,21 +4731,17 @@ domain_suffix_set:
   - ztgha.xyz
   - zthxobgk.icu
   - ztlkngyj.icu
-  - ztxjutz.xyz
   - ztyumn.ifeng.com
   - ztzdvv.xyz
   - zumneojf.icu
   - zuowen.hydcd.com
   - zutevd.xyz
   - zvhlzb.xyz
-  - zvtnj.icu
   - zvvlbf.xyz
   - zwdtvx.xyz
   - zwlxnj.xyz
-  - zwxxcb.icu
   - zwzdjb.xyz
   - zx.docin.com
-  - zxfdbr.xyz
   - zxpaa.xyz
   - zxptw.cn
   - zxqiwe.cn
